@@ -4,7 +4,8 @@
   "bonus": 231,
   "maximum": 204,
   "world": 89,
-  "detay_okunan": 0
+  "paraf": 198,
+  "detay_okunan": 198
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -16360,6 +16361,6478 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.worldcard.com.tr/kampanyalar/fenerbahce-worldcard-ile-fenerium-magazalarinda-10-indirime-ek-10-tek-seferde-500-tl-toplamda-1000-t",
    "durum": "aktif",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-secili-eticaret-alisverislerinize-10000tlye-varan-parafpara2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Amazon",
+    "Hepsiburada",
+    "Pazarama",
+    "PttAVM",
+    "Trendyol",
+    "n11",
+    "Çiçeksepeti"
+   ],
+   "baslik": "Seçili E-Ticaret Alışverişlerinize 10.000 TL'ye varan ParafPara",
+   "ozet": "Seçili E-Ticaret Alışverişlerinize 10.000 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 10000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-10000tlye-varan-parafpara2.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-okul-ara-tatil-harcamalariniza-ozel-750-tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Okul Ara Tatil Harcamalarınıza Özel 750 TL ParafPara",
+   "ozet": "Okul Ara Tatil Harcamalarınıza Özel 750 TL ParafPara",
+   "kazanc": {
+    "deger": 750.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-13",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/okul-ara-tatil-harcamalariniza-ozel-750-tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-secili-eticaret-alisverislerinize-8000tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Amazon",
+    "Hepsiburada",
+    "Pazarama",
+    "PttAVM",
+    "Trendyol",
+    "n11",
+    "Çiçeksepeti"
+   ],
+   "baslik": "Seçili E-Ticaret Alışverişlerinize 8.000 TL'ye varan ParafPara",
+   "ozet": "Seçili E-Ticaret Alışverişlerinize 8.000 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 8000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-8000tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-secili-eticaret-alisverislerinize-2000tlye-varan-parafpara21.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Amazon",
+    "Hepsiburada",
+    "Pazarama",
+    "PttAVM",
+    "Trendyol",
+    "n11",
+    "Çiçeksepeti"
+   ],
+   "baslik": "Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara",
+   "ozet": "Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-2000tlye-varan-parafpara21.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-trendyolda-pesin-fiyatina-12-aya-varan-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Hepsiburada",
+    "Trendyol",
+    "n11"
+   ],
+   "baslik": "Trendyol ‘da Peşin Fiyatına 12 Aya varan Taksit Fırsatı",
+   "ozet": "Trendyol ‘da Peşin Fiyatına 12 Aya varan Taksit Fırsatı",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-02",
+   "bitis": "2026-12-02",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/trendyolda-pesin-fiyatina-12-aya-varan-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-hepsiburadada-pesin-fiyatina-9-aya-varan-taksit2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Hepsiburada'da Peşin Fiyatına 9 Aya varan Taksit",
+   "ozet": "Hepsiburada'da Peşin Fiyatına 9 Aya varan Taksit",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-14",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/hepsiburadada-pesin-fiyatina-9-aya-varan-taksit2.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-amazon-com-trde-pesin-fiyatina-12-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Amazon",
+   "magazalar": [
+    "Amazon",
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Amazon.com.tr de Peşin Fiyatına 12 aya varan Taksit",
+   "ozet": "Amazon.com.tr de Peşin Fiyatına 12 aya varan Taksit",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/amazon-com-trde-pesin-fiyatina-12-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-vatanda-pesin-fiyatina-6-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Paraf ile Vatan",
+   "magazalar": [
+    "Vatan Bilgisayar"
+   ],
+   "baslik": "Paraf ile Vatan’da Peşin fiyatına 6 aya varan taksit",
+   "ozet": "Paraf ile Vatan’da Peşin fiyatına 6 aya varan taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/paraf-ile-vatanda-pesin-fiyatina-6-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-monster-notebookta-10000-tl-parafpara2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Monster Notebook",
+   "magazalar": [],
+   "baslik": "Monster Notebook’ta 10.000 TL ParafPara",
+   "ozet": "Monster Notebook’ta 10.000 TL ParafPara",
+   "kazanc": {
+    "deger": 10000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/monster-notebookta-10000-tl-parafpara2.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-e-ticaret-alisverislerinize-1000tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "E-Ticaret Alışverişlerinize 1.000 TL ParafPara",
+   "ozet": "E-Ticaret Alışverişlerinize 1.000 TL ParafPara",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/e-ticaret-alisverislerinize-1000tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-parafly-kredi-kartiniz-ile-size-ozel-5000tl-parafpara-kampanyasi1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Parafly Kredi Kartınız ile Size Özel 5.000 TL ParafPara Kampanyası",
+   "ozet": "Parafly Kredi Kartınız ile Size Özel 5.000 TL ParafPara Kampanyası",
+   "kazanc": {
+    "deger": 5000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/parafly-kredi-kartiniz-ile-size-ozel-5000tl-parafpara-kampanyasi1.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-emlak-yonetimin-hizmet-verdigi-sitelerde-aidat-odemelerine-ozel-yuzde-yirmi-iade-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Emlak Yönetim’in Hizmet Verdiği Sitelerde Aidat Ödemelerine Özel %20 İade Kampanyası",
+   "ozet": "Emlak Yönetim’in Hizmet Verdiği Sitelerde Aidat Ödemelerine Özel %20 İade Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-03",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/emlak-yonetimin-hizmet-verdigi-sitelerde-aidat-odemelerine-ozel-yuzde-yirmi-iade-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-emlak-ve-cevre-temizlik-vergisi-odemelerinize-ucretsiz-4evaran-taksit1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "vergi",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Emlak ve Çevre Temizlik Vergisi Ödemelerinize Ücretsiz 4 Aya Varan Taksit",
+   "ozet": "Emlak ve Çevre Temizlik Vergisi Ödemelerinize Ücretsiz 4 Aya Varan Taksit",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-12-04",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/emlak-ve-cevre-temizlik-vergisi-odemelerinize-ucretsiz-4evaran-taksit1.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-madame-cocoda-400-tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "mobilya",
+   "marka": "Madame Coco",
+   "magazalar": [],
+   "baslik": "Madame Coco da 400 TL ParafPara",
+   "ozet": "Madame Coco da 400 TL ParafPara",
+   "kazanc": {
+    "deger": 400.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/madame-cocoda-400-tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-vatanda-11000tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Paraf ile Vatan",
+   "magazalar": [],
+   "baslik": "Paraf ile Vatan'da 11.000 TL’ye varan ParafPara",
+   "ozet": "Paraf ile Vatan'da 11.000 TL’ye varan ParafPara",
+   "kazanc": {
+    "deger": 11000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-10",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/paraf-ile-vatanda-11000tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-market-harcamalariniza-1500tl-mobil-qr-ile-odemelerinize-2000-tlye-varan-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Market Harcamalarınıza 1.500 TL, Mobil/QR ile Ödemelerinize 2.000 TL’ye varan ParafPara",
+   "ozet": "Market Harcamalarınıza 1.500 TL, Mobil/QR ile Ödemelerinize 2.000 TL’ye varan ParafPara",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/market/market-harcamalariniza-1500tl-mobil-qr-ile-odemelerinize-2000-tlye-varan-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "market",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-market-harcamalariniza-1000tl-parafpara12.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Market Harcamalarınıza 1.000 TL ParafPara",
+   "ozet": "Market Harcamalarınıza 1.000 TL ParafPara",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/market/market-harcamalariniza-1000tl-parafpara12.html",
+   "durum": "aktif",
+   "banka_kategori": "market",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-tarim-kredi-koop-marketlerde-1000tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": "Tarım Kredi Koop Marketler",
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!",
+   "ozet": "Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/market/tarim-kredi-koop-marketlerde-1000tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "market",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-cepte-sokta-500tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": "ŞOK",
+   "magazalar": [
+    "n11",
+    "ŞOK"
+   ],
+   "baslik": "Cepte Şok'ta 500 TL'ye Varan ParafPara",
+   "ozet": "Cepte Şok'ta 500 TL'ye Varan ParafPara",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/market/cepte-sokta-500tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "market",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-viessmannda-12-taksit-ve-5000tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Paraf ile Viessmann",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf ile Viessmann’da 12 Taksit ve 5.000 TL’ye varan ParafPara!",
+   "ozet": "Paraf ile Viessmann’da 12 Taksit ve 5.000 TL’ye varan ParafPara!",
+   "kazanc": {
+    "deger": 5000.0,
+    "birim": "TL_puan",
+    "ek_taksit": 12
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/paraf-ile-viessmannda-12-taksit-ve-5000tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-schaferda-1000tl-ye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "mobilya",
+   "marka": "Schafer",
+   "magazalar": [],
+   "baslik": "Schafer’da 1.000 TL’ye varan ParafPara!",
+   "ozet": "Schafer’da 1.000 TL’ye varan ParafPara!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/schaferda-1000tl-ye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-esnaf-ile-market-ve-gida-harcamalariniza-700tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Esnaf ile Market ve Gıda Harcamalarınıza 700 TL ParafPara",
+   "ozet": "Paraf Esnaf ile Market ve Gıda Harcamalarınıza 700 TL ParafPara",
+   "kazanc": {
+    "deger": 700.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/ticari-kampanyalar/paraf-esnaf-ile-market-ve-gida-harcamalariniza-700tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "ticari-kampanyalar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-giyim-optik-ve-saat-alisverislerinize-2000tl-mobil-qr-ile-odemelerinize-ekstra-500tl-toplam-2500tl-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Giyim, optik ve saat alışverişlerinize 2.000 TL, mobil/QR ile ödemelerinize ekstra 500 TL, toplam 2.500 TL ParafPara!",
+   "ozet": "Giyim, optik ve saat alışverişlerinize 2.000 TL, mobil/QR ile ödemelerinize ekstra 500 TL, toplam 2.500 TL ParafPara!",
+   "kazanc": {
+    "deger": 2500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/giyim-optik-ve-saat-alisverislerinize-2000tl-mobil-qr-ile-odemelerinize-ekstra-500tl-toplam-2500tl-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-giyim-ve-kozmetik-alisverislerinize-1250tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Giyim ve Kozmetik Alışverişlerinize 1.250 TL ParafPara",
+   "ozet": "Giyim ve Kozmetik Alışverişlerinize 1.250 TL ParafPara",
+   "kazanc": {
+    "deger": 1250.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/giyim-ve-kozmetik-alisverislerinize-1250tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-kozmetik-guzellik-salonu-ve-kuafor-harcamalariniza-625tl-parafpara-mobil-qr-ile-odemelerinize-750tlye-varan-parafp",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Kozmetik, Güzellik Salonu ve Kuaför Harcamalarınıza 750 TL’ye varan ParafPara",
+   "ozet": "Kozmetik, Güzellik Salonu ve Kuaför Harcamalarınıza 750 TL’ye varan ParafPara",
+   "kazanc": {
+    "deger": 750.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/kozmetik-guzellik-salonu-ve-kuafor-harcamalariniza-625tl-parafpara-mobil-qr-ile-odemelerinize-750tlye-varan-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-akaryakit-harcamalariniza-450-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Akaryakıt Harcamalarınıza 450 TL ParafPara",
+   "ozet": "Akaryakıt Harcamalarınıza 450 TL ParafPara",
+   "kazanc": {
+    "deger": 450.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/akaryakit/akaryakit-harcamalariniza-450-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "akaryakit",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-otomotiv-lastik-yedek-parca-ve-arac-bakim-harcamalariniza-1500tlye-varan-parafpara2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Otomotiv Lastik,Yedek Parça ve Araç Bakım Harcamalarınıza 1.500 TL'ye Varan ParafPara",
+   "ozet": "Otomotiv Lastik,Yedek Parça ve Araç Bakım Harcamalarınıza 1.500 TL'ye Varan ParafPara",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/otomotiv-lastik-yedek-parca-ve-arac-bakim-harcamalariniza-1500tlye-varan-parafpara2.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-troy-kartlara-ozel-secili-sektorlerde-400tlye-varan-indirim-kampanyasi1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Troy Kartlara Özel Seçili Sektörlerde 400 TL'ye Varan İndirim Kampanyası",
+   "ozet": "Paraf Troy Kartlara Özel Seçili Sektörlerde 400 TL'ye Varan İndirim Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-troy-kartlara-ozel-secili-sektorlerde-400tlye-varan-indirim-kampanyasi1.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ticari-kredi-karti-sahiplerine-indirimli-sellbox-uyeligi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Ticari Kredi Kartı Sahiplerine indirimli Sellbox üyeliği!",
+   "ozet": "Paraf Ticari Kredi Kartı Sahiplerine indirimli Sellbox üyeliği!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-ticari-kredi-karti-sahiplerine-indirimli-sellbox-uyeligi.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-beyaz-esya-ve-elektronik-alisverislerinize-3500tlye-varan-parafpara11.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Beyaz Eşya ve Elektronik Alışverişlerinize 3.500 TL'ye varan ParafPara",
+   "ozet": "Beyaz Eşya ve Elektronik Alışverişlerinize 3.500 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 3500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/beyaz-esya-ve-elektronik-alisverislerinize-3500tlye-varan-parafpara11.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-1250-tlye-varan-parafpara2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Mobilya, Dekorasyon ve Yapı Marketi Alışverişinize 1.250 TL'ye Varan ParafPara",
+   "ozet": "Mobilya, Dekorasyon ve Yapı Marketi Alışverişinize 1.250 TL'ye Varan ParafPara",
+   "kazanc": {
+    "deger": 1250.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-1250-tlye-varan-parafpara2.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-6000tlye-varan-parafpara21.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Mobilya, Dekorasyon ve Yapı Marketi Alışverişinize 6.000 TL'ye Varan ParafPara",
+   "ozet": "Mobilya, Dekorasyon ve Yapı Marketi Alışverişinize 6.000 TL'ye Varan ParafPara",
+   "kazanc": {
+    "deger": 6000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-6000tlye-varan-parafpara21.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ucak-bileti-harcamalariniza-2250-tlye-varan-parafpara11.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Uçak bileti harcamalarınıza 2.250 TL'ye varan ParafPara",
+   "ozet": "Uçak bileti harcamalarınıza 2.250 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 2250.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/ucak-bileti-harcamalariniza-2250-tlye-varan-parafpara11.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-seyahat-konaklama-ve-arac-kiralama-harcamalariniza-3500tl-parafpara41.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Seyahat, konaklama ve araç kiralama harcamalarınıza 3.500 TL ParafPara!",
+   "ozet": "Seyahat, konaklama ve araç kiralama harcamalarınıza 3.500 TL ParafPara!",
+   "kazanc": {
+    "deger": 3500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/seyahat-konaklama-ve-arac-kiralama-harcamalariniza-3500tl-parafpara41.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-yurt-disi-alisverislerinize-10000tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Yurt Dışı Alışverişlerinize 10.000 TL'ye varan ParafPara",
+   "ozet": "Yurt Dışı Alışverişlerinize 10.000 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 10000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-alisverislerinize-10000tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "yurt-disi",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-premiuma-ozel-yurtdisi-online-seyahat-alisverislerinize-6000tlye-varan-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Premium'a Özel Yurt Dışı Online Seyahat Alışverişlerinize 6.000 TL'ye varan ParafPara",
+   "ozet": "Premium'a Özel Yurt Dışı Online Seyahat Alışverişlerinize 6.000 TL'ye varan ParafPara",
+   "kazanc": {
+    "deger": 6000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/premiuma-ozel-yurtdisi-online-seyahat-alisverislerinize-6000tlye-varan-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "yurt-disi",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-premiuma-ozel-yurt-disi-online-alisverislerinize-3000-tl-parafpara2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Premium'a Özel Yurt Dışı Online Alışverişlerinize 3.000 TL ParafPara",
+   "ozet": "Premium'a Özel Yurt Dışı Online Alışverişlerinize 3.000 TL ParafPara",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/premiuma-ozel-yurt-disi-online-alisverislerinize-3000-tl-parafpara2.html",
+   "durum": "aktif",
+   "banka_kategori": "yurt-disi",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-yurt-disi-online-seyahat-alisverislerinize-1500tl-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Yurt Dışı Online Seyahat Alışverişlerinize 1.500 TL ParafPara",
+   "ozet": "Yurt Dışı Online Seyahat Alışverişlerinize 1.500 TL ParafPara",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-online-seyahat-alisverislerinize-1500tl-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "yurt-disi",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-yurt-disi-online-alisverislerinize-750-tl-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Yurt dışı online alışverişlerinize 750 TL ParafPara!",
+   "ozet": "Yurt dışı online alışverişlerinize 750 TL ParafPara!",
+   "kazanc": {
+    "deger": 750.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-online-alisverislerinize-750-tl-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "yurt-disi",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-app-store-harcamalariniza-100-tl-parafpara221.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "App Store harcamalarınıza 100 TL ParafPara!",
+   "ozet": "App Store harcamalarınıza 100 TL ParafPara!",
+   "kazanc": {
+    "deger": 100.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/app-store-harcamalariniza-100-tl-parafpara221.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-veteriner-ve-pet-shop-harcamalariniza-ozel-600tl-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Veteriner ve Pet Shop Harcamalarınıza Özel 600 TL ParafPara",
+   "ozet": "Veteriner ve Pet Shop Harcamalarınıza Özel 600 TL ParafPara",
+   "kazanc": {
+    "deger": 600.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/veteriner-ve-pet-shop-harcamalariniza-ozel-600tl-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-saglik-harcamalariniza-4aya-varan-faizsiz-sonradan-taksit-kampanyasi211.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "saglik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Sağlık Harcamalarınıza 4 aya varan Faizsiz Sonradan Taksit Kampanyası",
+   "ozet": "Sağlık Harcamalarınıza 4 aya varan Faizsiz Sonradan Taksit Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/saglik-harcamalariniza-4aya-varan-faizsiz-sonradan-taksit-kampanyasi211.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-pesin-okul-odemelerinize-paraf-poslarinda-ucretsiz-6-ya-varan-taksit-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Peşin Okul Ödemelerinize Paraf POS'larında Ücretsiz 6 Aya Varan Taksit Kampanyası",
+   "ozet": "Peşin Okul Ödemelerinize Paraf POS'larında Ücretsiz 6 Aya Varan Taksit Kampanyası",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/pesin-okul-odemelerinize-paraf-poslarinda-ucretsiz-6-ya-varan-taksit-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-vergi-ve-sigorta-odemelerinize-4-aya-varan-faizsiz-sonradan-taksit-kampanyasi211.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "sigorta",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Vergi ve Sigorta Ödemelerinize 4 aya varan Faizsiz Sonradan Taksit Kampanyası",
+   "ozet": "Vergi ve Sigorta Ödemelerinize 4 aya varan Faizsiz Sonradan Taksit Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/sigorta/vergi-ve-sigorta-odemelerinize-4-aya-varan-faizsiz-sonradan-taksit-kampanyasi211.html",
+   "durum": "aktif",
+   "banka_kategori": "sigorta",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-elektrikli-arac-sarj-istasyonu-harcamalariniza-450-tl-parafpara1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Elektrikli araç şarj istasyonu harcamalarınıza 450 TL ParafPara!",
+   "ozet": "Elektrikli araç şarj istasyonu harcamalarınıza 450 TL ParafPara!",
+   "kazanc": {
+    "deger": 450.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/akaryakit/elektrikli-arac-sarj-istasyonu-harcamalariniza-450-tl-parafpara1.html",
+   "durum": "aktif",
+   "banka_kategori": "akaryakit",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-otomatik-fatura-odeme-talimatlariniza-1000-tlye-varan-parafpara1111.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "fatura",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Otomatik Fatura Ödeme Talimatlarınıza 1.000 TL'ye Varan ParafPara",
+   "ozet": "Otomatik Fatura Ödeme Talimatlarınıza 1.000 TL'ye Varan ParafPara",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/otomatik-fatura-odeme-talimatlariniza-1000-tlye-varan-parafpara1111.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-degerlimiz-kredi-kart-sahibi-emekli-musterilerimize-ozel-otomatik-fatura-odeme-talimatlarina-3500tlye-varan-",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "fatura",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Değerlimiz Kredi Kart Sahibi Emekli Müşterilerimize Özel Otomatik Fatura Ödeme Talimatlarına 3.500 TL'ye Varan ParafPara!",
+   "ozet": "Paraf Değerlimiz Kredi Kart Sahibi Emekli Müşterilerimize Özel Otomatik Fatura Ödeme Talimatlarına 3.500 TL'ye Varan ParafPara!",
+   "kazanc": {
+    "deger": 3500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-degerlimiz-kredi-kart-sahibi-emekli-musterilerimize-ozel-otomatik-fatura-odeme-talimatlarina-3500tlye-varan-parafpara1111.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-porlandda-pesin-fiyatina-3-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Porland",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Porland’da Peşin Fiyatına 3 taksit",
+   "ozet": "Porland’da Peşin Fiyatına 3 taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/porlandda-pesin-fiyatina-3-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-saatvesaatte-pesin-fiyatina-5-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Saat&Saat",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Saat&Saat’te Peşin Fiyatına 5 Taksit",
+   "ozet": "Saat&Saat’te Peşin Fiyatına 5 Taksit",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/saatvesaatte-pesin-fiyatina-5-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-so-chicte-3000tl-ve-uzeri-ilk-alisverisinize-500tl-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "So Chic",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "SO CHIC’te 3.000 TL ve üzeri ilk alışverişinize 500 TL İndirim!",
+   "ozet": "SO CHIC’te 3.000 TL ve üzeri ilk alışverişinize 500 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 3000.0,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/so-chicte-3000tl-ve-uzeri-ilk-alisverisinize-500tl-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-paraf-premium-mastercard-sahiplerine-istanbul-havalimaninda-gecerli-ucretsiz-hizli-gecis-ve-buggy-se",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Silver logolu Paraf Premium Mastercard sahiplerine İstanbul Havalimanı’nda geçerli ücretsiz hızlı geçiş ayrıcalığı!",
+   "ozet": "Silver logolu Paraf Premium Mastercard sahiplerine İstanbul Havalimanı’nda geçerli ücretsiz hızlı geçiş ayrıcalığı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-21",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-premium-mastercard-sahiplerine-istanbul-havalimaninda-gecerli-ucretsiz-hizli-gecis-ve-buggy-servisi-ayricaligi.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-parafa-ozel-budgetta-yuzde33-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Paraf’a Özel Budget’ta %33 İndirim",
+   "ozet": "Paraf’a Özel Budget’ta %33 İndirim",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/parafa-ozel-budgetta-yuzde33-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-esnafa-ozel-budgetta-yuzde33-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Paraf Esnaf’a Özel Budget’ta %33 İndirim!",
+   "ozet": "Paraf Esnaf’a Özel Budget’ta %33 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-esnafa-ozel-budgetta-yuzde33-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-madame-coco-magazalarinda-pesin-fiyatina-3-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Madame Coco",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf ile Madame Coco mağazalarında Peşin Fiyatına 3 taksit fırsatı!",
+   "ozet": "Paraf ile Madame Coco mağazalarında Peşin Fiyatına 3 taksit fırsatı!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/paraf-ile-madame-coco-magazalarinda-pesin-fiyatina-3-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-konfor-mobilyada-pesin-fiyatina-9-taksit1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Konfor Mobilya",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Konfor Mobilya’da peşin fiyatına 9 Taksit!",
+   "ozet": "Konfor Mobilya’da peşin fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/konfor-mobilyada-pesin-fiyatina-9-taksit1.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-troy-kart-ile-pazaramada-250tl-indirim-ve-pazarama-plus-uyeligi-hediye.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "e-ticaret",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Paraf TROY kart ile Pazarama'da 250 TL indirim ve Pazarama Plus üyeliği hediye!",
+   "ozet": "Paraf TROY kart ile Pazarama'da 250 TL indirim ve Pazarama Plus üyeliği hediye!",
+   "kazanc": {
+    "deger": 250.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/paraf-troy-kart-ile-pazaramada-250tl-indirim-ve-pazarama-plus-uyeligi-hediye.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-bambi-yatakta-pesin-fiyatina-9-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Bambi Yatak",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Bambi Yatak’ta peşin fiyatına 9 Taksit!",
+   "ozet": "Bambi Yatak’ta peşin fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/bambi-yatakta-pesin-fiyatina-9-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ds-damatta-1000tl-parafpara-agustos11.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "DS damat",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "DS damat'ta 1.000 TL ParafPara!",
+   "ozet": "DS damat'ta 1.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/ds-damatta-1000tl-parafpara-agustos11.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-lastikcim-com-da-pesin-fiyatina-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": "Paraf ile Lastikcim.com",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf ile Lastikcim.com’da Peşin Fiyatına 6 Taksit!",
+   "ozet": "Paraf ile Lastikcim.com’da Peşin Fiyatına 6 Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-ile-lastikcim-com-da-pesin-fiyatina-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-damat-tweende-2000-tl-parafpara2.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Damat Tween",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Damat Tween’de 2.000 TL ParafPara",
+   "ozet": "Damat Tween’de 2.000 TL ParafPara",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/damat-tweende-2000-tl-parafpara2.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-lazzonide-pesin-fiyatina-9-taksit1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Lazzoni",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Lazzoni’de Peşin fiyatına 9 Taksit!",
+   "ozet": "Lazzoni’de Peşin fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/lazzonide-pesin-fiyatina-9-taksit1.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-zwillingde-3-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Zwilling",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Zwilling’de 3 Taksit fırsatı !",
+   "ozet": "Zwilling’de 3 Taksit fırsatı !",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/zwillingde-3-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-durumlede-150tl-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Dürümle",
+   "magazalar": [],
+   "baslik": "Dürümle'de 150 TL indirim",
+   "ozet": "Dürümle'de 150 TL indirim",
+   "kazanc": {
+    "deger": 150.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/durumlede-150tl-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-touristica-com-tr-de-8500tlye-varan-parafpara-ve-pesin-fiyatina-9-taksit-agustos12.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": "Touristica.com.tr",
+   "magazalar": [],
+   "baslik": "Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!",
+   "ozet": "Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 8500.0,
+    "birim": "TL_puan",
+    "ek_taksit": 9
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/touristica-com-tr-de-8500tlye-varan-parafpara-ve-pesin-fiyatina-9-taksit-agustos12.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-paraf-premium-mastercard-sahiplerine-yurt-disi-otel-harcamalarinda-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Silver logolu Paraf Premium Mastercard Sahiplerine Yurt Dışı Otel Harcamalarında %10 İndirim!",
+   "ozet": "Silver logolu Paraf Premium Mastercard Sahiplerine Yurt Dışı Otel Harcamalarında %10 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-premium-mastercard-sahiplerine-yurt-disi-otel-harcamalarinda-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-barbour-magazalarinda-3000-tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Barbour Mağazalarında 3.000 TL ParafPara!",
+   "ozet": "Barbour Mağazalarında 3.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-05",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/barbour-magazalarinda-3000-tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-gustoda-1000tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Gusto",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Gusto'da 1.000 TL ParafPara!",
+   "ozet": "Gusto'da 1.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-18",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/gustoda-1000tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ucretsiz-fast-track-ve-buggy-hizmeti.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Ücretsiz Fast Track ve Buggy Hizmeti",
+   "ozet": "Ücretsiz Fast Track ve Buggy Hizmeti",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/ucretsiz-fast-track-ve-buggy-hizmeti.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-paraf-premium-mastercardiniza-ozel-istanbul-havalimaninda-ucretsiz-buggy-hizmeti.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Silver Logolu Paraf Premium Mastercard'ınıza özel İstanbul Havalimanı'nda ücretsiz Buggy hizmeti",
+   "ozet": "Silver Logolu Paraf Premium Mastercard'ınıza özel İstanbul Havalimanı'nda ücretsiz Buggy hizmeti",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-21",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-premium-mastercardiniza-ozel-istanbul-havalimaninda-ucretsiz-buggy-hizmeti.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-zsa-zsa-zsu-magazalarinda-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Zsa Zsa Zsu mağazalarında 6 taksit!",
+   "ozet": "Zsa Zsa Zsu mağazalarında 6 taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/zsa-zsa-zsu-magazalarinda-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-mielede-pesin-fiyatina-6-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Miele",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Miele’de Peşin Fiyatına 6 Taksit Fırsatı",
+   "ozet": "Miele’de Peşin Fiyatına 6 Taksit Fırsatı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/mielede-pesin-fiyatina-6-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-pazaramada-pesin-fiyatina-6-taksit1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Hepsiburada",
+    "Pazarama",
+    "n11"
+   ],
+   "baslik": "Pazarama’da Peşin Fiyatına 6 Taksit",
+   "ozet": "Pazarama’da Peşin Fiyatına 6 Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/pazaramada-pesin-fiyatina-6-taksit1.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-istanbul-resim-ve-heykel-muzesi-girisi-paraftan-hediye.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "İstanbul Resim ve Heykel Müzesi Girişi Paraf’tan Hediye!",
+   "ozet": "İstanbul Resim ve Heykel Müzesi Girişi Paraf’tan Hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/istanbul-resim-ve-heykel-muzesi-girisi-paraftan-hediye.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-nextplusta-yuzde50-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": "Paraf Premium ile NextPlus",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Premium ile NextPlus’ta %50 İndirim!",
+   "ozet": "Paraf Premium ile NextPlus’ta %50 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-premium-ile-nextplusta-yuzde50-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ve-parafly-platinumdan-tabii-premium-uyeligi-hediye.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Platinum ve Parafly Platinum’dan tabii Premium Üyeliği Hediye!",
+   "ozet": "Paraf Platinum ve Parafly Platinum’dan tabii Premium Üyeliği Hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-03",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-platinum-ve-parafly-platinumdan-tabii-premium-uyeligi-hediye.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ipekyolda-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Ipekyol",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Ipekyol'da 4 taksit fırsatı",
+   "ozet": "Ipekyol'da 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/ipekyolda-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-twistte-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Twist",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Twist'te 4 taksit fırsatı",
+   "ozet": "Twist'te 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/twistte-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-damat-tweende-6-aya-varan-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Damat Tween",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Damat Tween'de 6 Aya Varan Taksit Fırsatı",
+   "ozet": "Damat Tween'de 6 Aya Varan Taksit Fırsatı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/damat-tweende-6-aya-varan-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ds-damatta-6-aya-varan-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "D’S damat’ta 6 Aya Varan Taksit Fırsatı",
+   "ozet": "D’S damat’ta 6 Aya Varan Taksit Fırsatı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/ds-damatta-6-aya-varan-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-us-polo-assn-de-5-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "U.S. Polo Assn. mağazalarında 5 taksit fırsatı!",
+   "ozet": "U.S. Polo Assn. mağazalarında 5 taksit fırsatı!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/us-polo-assn-de-5-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-beymen-clubda-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Beymen",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Beymen Club'da 4 taksit fırsatı",
+   "ozet": "Beymen Club'da 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/beymen-clubda-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-cacharelde-5-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Cacharel mağazalarında 5 taksit fırsatı",
+   "ozet": "Cacharel mağazalarında 5 taksit fırsatı",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/paraf-ile-cacharelde-5-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-beymende-4-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Beymen",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Beymen'de 4 taksit fırsatı",
+   "ozet": "Beymen'de 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/beymende-4-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-pierre-cardinde-5-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Pierre Cardin mağazalarında 5 taksit fırsatı!",
+   "ozet": "Pierre Cardin mağazalarında 5 taksit fırsatı!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/pierre-cardinde-5-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-divaresede-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Divarese",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Divarese'de 4 taksit fırsatı",
+   "ozet": "Divarese'de 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/divaresede-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ramseyde-bes-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Ramsey",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Ramsey'de 5 taksit fırsatı",
+   "ozet": "Ramsey'de 5 taksit fırsatı",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/ramseyde-bes-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-networkte-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Network",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "NetWork'te 4 taksit fırsatı",
+   "ozet": "NetWork'te 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/networkte-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-kipte-5-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "KİP",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "KİP'te 5 taksit fırsatı",
+   "ozet": "KİP'te 5 taksit fırsatı",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/kipte-5-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-evideada-4-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Evidea",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Evidea’da 4 taksit!",
+   "ozet": "Evidea’da 4 taksit!",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/evideada-4-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-a101de-pesin-fiyatina-6-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": "A101",
+   "magazalar": [
+    "A101",
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "A101’de peşin fiyatına 6 aya varan taksit",
+   "ozet": "A101’de peşin fiyatına 6 aya varan taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/market/a101de-pesin-fiyatina-6-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "market",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ikeada-taksit-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "IKEA",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "IKEA’da 6 aya varan taksit fırsatı!",
+   "ozet": "IKEA’da 6 aya varan taksit fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/ikeada-taksit-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-batis-dukkanda-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Batis Dükkan",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Batis Dükkan'da %20 indirim",
+   "ozet": "Paraf Premium ile Batis Dükkan'da %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-batis-dukkanda-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-batis-dukkanda-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Batis Dükkan",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Batis Dükkan'da %10 indirim",
+   "ozet": "Paraf Platinum ile Batis Dükkan'da %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-batis-dukkanda-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-mastercardiniza-sabiha-gokcen-havalimani-ic-hatlar-terminalinde-hizli-gecis-ucretsiz.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Silver Logolu Mastercard'ınıza Sabiha Gökçen Havalimanı İç Hatlar Terminalinde Hızlı Geçiş Ücretsiz",
+   "ozet": "Silver Logolu Mastercard'ınıza Sabiha Gökçen Havalimanı İç Hatlar Terminalinde Hızlı Geçiş Ücretsiz",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-mastercardiniza-sabiha-gokcen-havalimani-ic-hatlar-terminalinde-hizli-gecis-ucretsiz.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraflytravelcomda-uceti-bileti-alisverisine-2500tl-arac-kiralamaya-5000tl-ve-otobus-biletinde-50tlye-varan-indiri",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "seyahat",
+   "marka": "Paraflytravel.com",
+   "magazalar": [],
+   "baslik": "Paraflytravel.com’da uçak bileti alışverişine 2500 TL ,araç kiralamaya 5000 TL ve otobüs biletinde 50 TL ‘ye varan indirim",
+   "ozet": "Paraflytravel.com’da uçak bileti alışverişine 2500 TL ,araç kiralamaya 5000 TL ve otobüs biletinde 50 TL ‘ye varan indirim",
+   "kazanc": {
+    "deger": 2500.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/paraflytravelcomda-uceti-bileti-alisverisine-2500tl-arac-kiralamaya-5000tl-ve-otobus-biletinde-50tlye-varan-indirim1.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-touristicada-paraf-degerlimize-ozel-2000tl-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "seyahat",
+   "marka": "Touristica",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Touristica’da Paraf Değerlimiz’e özel 2.000 TL indirim",
+   "ozet": "Touristica’da Paraf Değerlimiz’e özel 2.000 TL indirim",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/touristicada-paraf-degerlimize-ozel-2000tl-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premiuma-ozel-yolcu360tan-yurt-ici-arac-kiralamalarina-net-yuzde15-indirim-ustelik-pesin-fiyatina-3-taksit.h",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Premium’a Özel Yolcu360’tan Yurt İçi Araç Kiralamalarına Net %15 İndirim, Üstelik Peşin Fiyatına 3 Taksit",
+   "ozet": "Paraf Premium’a Özel Yolcu360’tan Yurt İçi Araç Kiralamalarına Net %15 İndirim, Üstelik Peşin Fiyatına 3 Taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-premiuma-ozel-yolcu360tan-yurt-ici-arac-kiralamalarina-net-yuzde15-indirim-ustelik-pesin-fiyatina-3-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-parafa-ozel-yolcu360ta-yurt-ici-arac-kiralamalarina-net-yuzde10-indirim-ustelik-pesin-fiyatina-3-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf'a Özel Yolcu360'ta Yurt İçi Araç Kiralamalarına Net %10 İndirim, Üstelik Peşin Fiyatına 3 Taksit",
+   "ozet": "Paraf'a Özel Yolcu360'ta Yurt İçi Araç Kiralamalarına Net %10 İndirim, Üstelik Peşin Fiyatına 3 Taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/parafa-ozel-yolcu360ta-yurt-ici-arac-kiralamalarina-net-yuzde10-indirim-ustelik-pesin-fiyatina-3-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premiuma-ozel-yolcu360ta-yurt-disi-arac-kiralamalarina-net-yuzde20-indirim-ustelik-pesin-fiyatina-3-taksit-t",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": "Paraf Premiuma Özel Yolcu360",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Premiuma Özel Yolcu360'ta Yurt Dışı Araç Kiralamalarına Net %20 İndirim, Üstelik Peşin Fiyatina 3 Taksit",
+   "ozet": "Paraf Premiuma Özel Yolcu360'ta Yurt Dışı Araç Kiralamalarına Net %20 İndirim, Üstelik Peşin Fiyatina 3 Taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-premiuma-ozel-yolcu360ta-yurt-disi-arac-kiralamalarina-net-yuzde20-indirim-ustelik-pesin-fiyatina-3-taksit-temmuz11.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-parafa-ozel-yolcu360ta-yurt-disi-arac-kiralamalarina-net-yuzde15-indirim-ustelik-pesin-fiyatina-3-taksit-temmuz1.h",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf'a Özel Yolcu360'ta Yurt Dışı Araç Kiralamalarına Net %15 İndirim, Üstelik Peşin Fiyatina 3 Taksit",
+   "ozet": "Paraf'a Özel Yolcu360'ta Yurt Dışı Araç Kiralamalarına Net %15 İndirim, Üstelik Peşin Fiyatina 3 Taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/parafa-ozel-yolcu360ta-yurt-disi-arac-kiralamalarina-net-yuzde15-indirim-ustelik-pesin-fiyatina-3-taksit-temmuz1.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-dysonda-pesin-fiyatina-9-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Dyson",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Dyson’da peşin fiyatına 9 aya varan taksit",
+   "ozet": "Dyson’da peşin fiyatına 9 aya varan taksit",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/dysonda-pesin-fiyatina-9-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-adv-magazalarinda-6-aya-varan-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "ADV mağazalarında 6 Aya Varan Taksit Fırsatı",
+   "ozet": "ADV mağazalarında 6 Aya Varan Taksit Fırsatı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/adv-magazalarinda-6-aya-varan-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-troy-appleda-vade-farksiz-5-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Apple",
+   "magazalar": [],
+   "baslik": "Troy Apple’da vade farksız 5 aya varan taksit",
+   "ozet": "Troy Apple’da vade farksız 5 aya varan taksit",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/troy-appleda-vade-farksiz-5-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-vakkoramada-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Vakkorama",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Vakkorama'da 4 taksit fırsatı",
+   "ozet": "Vakkorama'da 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/vakkoramada-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-vakkoda-4-taksit-firsati1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Vakko",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Vakko'da 4 taksit fırsatı",
+   "ozet": "Vakko'da 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/vakkoda-4-taksit-firsati1.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-nocturne-magazalarinda-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Nocturne mağazalarında 4 taksit fırsatı",
+   "ozet": "Nocturne mağazalarında 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/nocturne-magazalarinda-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-bilfen-okullarinda-pesin-okul-odemelerinizde-8-taksit-firsati1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Bilfen Okullarında Peşin Okul Ödemelerinde 8 Taksit Fırsatı!",
+   "ozet": "Paraf Premium ile Bilfen Okullarında Peşin Okul Ödemelerinde 8 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/paraf-premium-bilfen-okullarinda-pesin-okul-odemelerinizde-8-taksit-firsati1.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-yatasta-pesin-fiyatina-8-taksit-.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Yataş",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Yataş’ta Peşin fiyatına 8 Taksit",
+   "ozet": "Yataş’ta Peşin fiyatına 8 Taksit",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/yatasta-pesin-fiyatina-8-taksit-.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-paraf-premium-mastercardiniza-ozel-atelier-rebulde-1000-tl-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!",
+   "ozet": "Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-29",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/silver-logolu-paraf-premium-mastercardiniza-ozel-atelier-rebulde-1000-tl-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-masterpasse-kayitli-paraf-mastercard-sahiplerine-pamukkale-turizmde-400-tlye-varan-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Masterpass'e kayıtlı Paraf Mastercard sahiplerine Pamukkale Turizm'de 400 TL'ye varan indirim!",
+   "ozet": "Masterpass'e kayıtlı Paraf Mastercard sahiplerine Pamukkale Turizm'de 400 TL'ye varan indirim!",
+   "kazanc": {
+    "deger": 400.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-10",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-pamukkale-turizmde-400-tlye-varan-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-itopyada-vade-farksiz-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Itopya",
+   "magazalar": [],
+   "baslik": "ITOPYA’da vade farksız 6 taksit!",
+   "ozet": "ITOPYA’da vade farksız 6 taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/itopyada-vade-farksiz-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-bilnet-okullarinda-pesin-okul-odemelerinizde-8-taksit-firsati1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Bilnet Okullarında Peşin Okul Ödemelerinde 8 Taksit Fırsatı!",
+   "ozet": "Paraf Premium ile Bilnet Okullarında Peşin Okul Ödemelerinde 8 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/paraf-premium-bilnet-okullarinda-pesin-okul-odemelerinizde-8-taksit-firsati1.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-yargici-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Yargıcı",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Yargıcı'da 4 taksit fırsatı",
+   "ozet": "Yargıcı'da 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/yargici-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-monster-notebookta-pesin-fiyatina-12-aya-varan-taksit1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Monster Notebook",
+   "magazalar": [],
+   "baslik": "Monster Notebook’ta Peşin fiyatına 12 aya varan taksit!",
+   "ozet": "Monster Notebook’ta Peşin fiyatına 12 aya varan taksit!",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/monster-notebookta-pesin-fiyatina-12-aya-varan-taksit1.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-koctasta-10000-tl-uzeri-alisverise-pesin-fiyatina-5-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Koçtaş",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Koçtaş'ta 5 Taksit!",
+   "ozet": "Koçtaş'ta 5 Taksit!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/koctasta-10000-tl-uzeri-alisverise-pesin-fiyatina-5-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-gurgenclerde-pesin-fiyatina-6-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Gürgençler",
+   "magazalar": [],
+   "baslik": "Gürgençler’de Peşin Fiyatına 6 aya varan taksit",
+   "ozet": "Gürgençler’de Peşin Fiyatına 6 aya varan taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/gurgenclerde-pesin-fiyatina-6-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-pelitte-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Pelit",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Pelit'te %10 indirim",
+   "ozet": "Paraf Platinum ile Pelit'te %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-pelitte-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-pelitte-yuzde20-indirim1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Pelit",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Pelit'te %20 indirim",
+   "ozet": "Paraf Premium ile Pelit'te %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-pelitte-yuzde20-indirim1.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-vestelde-7-aya-varan-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Vestel",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Vestel’de 7 aya varan taksit fırsatı",
+   "ozet": "Vestel’de 7 aya varan taksit fırsatı",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/vestelde-7-aya-varan-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-mastercardiniza-ozel-migros-yemekte-350tl-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Migros",
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Paraf Mastercard'ınıza Özel Migros Yemek’te 350 TL indirim!",
+   "ozet": "Paraf Mastercard'ınıza Özel Migros Yemek’te 350 TL indirim!",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-08",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-mastercardiniza-ozel-migros-yemekte-350tl-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraflytravelcomda-15000tlye-varan-indirim-kodu-veya-pesin-odemede-yuzde8-indirim21.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "seyahat",
+   "marka": "Paraflytravel.com",
+   "magazalar": [],
+   "baslik": "Paraflytravel.com'da 15.000 TL'ye varan indirim kodu veya peşin ödemede %8 indirim",
+   "ozet": "Paraflytravel.com'da 15.000 TL'ye varan indirim kodu veya peşin ödemede %8 indirim",
+   "kazanc": {
+    "deger": 8.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/paraflytravelcomda-15000tlye-varan-indirim-kodu-veya-pesin-odemede-yuzde8-indirim21.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-adv-magazalarinda-1000-tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "ADV mağazalarında 1.000 TL ParafPara!",
+   "ozet": "ADV mağazalarında 1.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/adv-magazalarinda-1000-tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-digiturkte-1000tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Digiturk",
+   "magazalar": [
+    "Trendyol"
+   ],
+   "baslik": "DIGITURK'te 1.000 TL ParafPara!",
+   "ozet": "DIGITURK'te 1.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-07",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/digiturkte-1000tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraftan-ilk-harcamaniza-ozel-faizsiz-ucretsiz-taksitli-nakit-avans-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf’tan İlk Harcamanıza Özel Faizsiz, Ücretsiz Taksitli Nakit Avans Kampanyası",
+   "ozet": "Paraf’tan İlk Harcamanıza Özel Faizsiz, Ücretsiz Taksitli Nakit Avans Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/crm/2026/kasim/paraftan-ilk-harcamaniza-ozel-faizsiz-ucretsiz-taksitli-nakit-avans-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "crm",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-n11de-pesin-fiyatina-3-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "n11",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "n11'de Peşin Fiyatına 3 Taksit",
+   "ozet": "n11'de Peşin Fiyatına 3 Taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-18",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/n11de-pesin-fiyatina-3-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-mastercard-sahiplerine-ozel-galataportta-otopark-1tl.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "ulasim",
+   "marka": null,
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Silver logolu Paraf Premium Mastercard'ınıza özel Galataport'ta Otopark 1TL!",
+   "ozet": "Silver logolu Paraf Premium Mastercard'ınıza özel Galataport'ta Otopark 1TL!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2025-11-13",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/silver-logolu-mastercard-sahiplerine-ozel-galataportta-otopark-1tl.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-bg-storeda-6-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "B&G Store",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "B&G Store'da 6 taksit fırsatı",
+   "ozet": "B&G Store'da 6 taksit fırsatı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/bg-storeda-6-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premiumdan-amazon-prime-uyeligi-hediye.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "e-ticaret",
+   "marka": "Amazon",
+   "magazalar": [
+    "Amazon",
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Premiumdan Amazon Prime Üyeliği Hediye!",
+   "ozet": "Paraf Premiumdan Amazon Prime Üyeliği Hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/paraf-premiumdan-amazon-prime-uyeligi-hediye.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-paraf-premium-mastercardiniza-ozel-istanbul-havalimaninda-ucretsiz-otopark-ve-vale-hizmeti.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Silver Logolu Paraf Premium Mastercard'ınıza özel İstanbul Havalimanı'nda ücretsiz otopark ve vale hizmeti!",
+   "ozet": "Silver Logolu Paraf Premium Mastercard'ınıza özel İstanbul Havalimanı'nda ücretsiz otopark ve vale hizmeti!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-21",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-premium-mastercardiniza-ozel-istanbul-havalimaninda-ucretsiz-otopark-ve-vale-hizmeti.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premiumdan-tabii-uyeligi-hediye1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf Premium’dan tabii Üyeliği Hediye!",
+   "ozet": "Paraf Premium’dan tabii Üyeliği Hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-03",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-premiumdan-tabii-uyeligi-hediye1.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ostim-ile-ostim-teknik-universitesi-odemelerine-7-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf OSTİM ile OSTİM Teknik Üniversitesi Ödemelerine 7 taksit fırsatı!",
+   "ozet": "Paraf OSTİM ile OSTİM Teknik Üniversitesi Ödemelerine 7 taksit fırsatı!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/paraf-ostim-ile-ostim-teknik-universitesi-odemelerine-7-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-alfemoda-pesin-fiyatina-8-taksit-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Alfemo",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Alfemo’da Peşin fiyatına 8 Taksit",
+   "ozet": "Alfemo’da Peşin fiyatına 8 Taksit",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/alfemoda-pesin-fiyatina-8-taksit-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-karacada-pesin-fiyatina-3-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Karaca",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Karaca’da peşin fiyatına 3 taksit",
+   "ozet": "Karaca’da peşin fiyatına 3 taksit",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/karacada-pesin-fiyatina-3-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-ider-mobilyada-yedi-taksite-yuzde-on-bes-indirim1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "mobilya",
+   "marka": "Paraf ile İder Mobilya",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf ile İder Mobilya’da 7 Taksite %15 indirim",
+   "ozet": "Paraf ile İder Mobilya’da 7 Taksite %15 indirim",
+   "kazanc": {
+    "deger": 15.0,
+    "birim": "yuzde",
+    "ek_taksit": 7
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/paraf-ile-ider-mobilyada-yedi-taksite-yuzde-on-bes-indirim1.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ejder-turizmde-10000tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": "Ejder Turizm",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Ejder Turizm’de 10.000 TL ParafPara",
+   "ozet": "Ejder Turizm’de 10.000 TL ParafPara",
+   "kazanc": {
+    "deger": 10000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-04-13",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/ejder-turizmde-10000tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ozdilek-magazalarinda-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Özdilek Mağazalarında 6 Taksit",
+   "ozet": "Özdilek Mağazalarında 6 Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/ozdilek-magazalarinda-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-aytemizden-paraf-esnaf-kartlara-ozel-yuzde-4-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "akaryakit",
+   "marka": "Aytemiz",
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "AYTEMİZ’DEN PARAF ESNAF KARTLARA ÖZEL %4 İNDİRİM",
+   "ozet": "AYTEMİZ’DEN PARAF ESNAF KARTLARA ÖZEL %4 İNDİRİM",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/akaryakit/aytemizden-paraf-esnaf-kartlara-ozel-yuzde-4-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "akaryakit",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-schaferda-vade-farksiz-9-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Schafer",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Schafer’da vade farksız 9 aya varan taksit!",
+   "ozet": "Schafer’da vade farksız 9 aya varan taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/schaferda-vade-farksiz-9-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "mobilya-ve-dekorasyon",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-anadolu-lezzetleri-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Anadolu Lezzetleri Kampanyası",
+   "ozet": "Anadolu Lezzetleri Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/anadolu-lezzetleri-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-anadolu-lezzetleri-kampanyasi1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Anadolu Lezzetleri Kampanyası",
+   "ozet": "Anadolu Lezzetleri Kampanyası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/anadolu-lezzetleri-kampanyasi1.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-korfez-kredi-kart-sahibi-ilk-10000-musteriye-1-yil-gecerli-tod-kocaelispor-taraftar-paketi-hediye.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Körfez Kredi Kart Sahibi ilk 10.000 müşteriye 1 yıl geçerli TOD Kocaelispor Taraftar Paketi hediye!",
+   "ozet": "Paraf Körfez Kredi Kart Sahibi ilk 10.000 müşteriye 1 yıl geçerli TOD Kocaelispor Taraftar Paketi hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/paraf-korfez-kredi-kart-sahibi-ilk-10000-musteriye-1-yil-gecerli-tod-kocaelispor-taraftar-paketi-hediye.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-incehesapcomda-secili-urunlerde-pesin-fiyatina-6-aya-varan-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Paraf ile İncehesap.com",
+   "magazalar": [
+    "İncehesap"
+   ],
+   "baslik": "Paraf ile İncehesap.com’da seçili ürünlerde Peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Paraf ile İncehesap.com’da seçili ürünlerde Peşin fiyatına 6 aya varan taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/paraf-ile-incehesapcomda-secili-urunlerde-pesin-fiyatina-6-aya-varan-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-casper-comtrde-pesin-fiyatina-6-taksit1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Casper.com.tr",
+   "magazalar": [],
+   "baslik": "Casper.com.tr'de peşin fiyatına 6 taksit!",
+   "ozet": "Casper.com.tr'de peşin fiyatına 6 taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/casper-comtrde-pesin-fiyatina-6-taksit1.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-igdas-fatura-odemelerinizde-vade-farksiz-6-taksit-firsati11.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "fatura",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "İGDAŞ Fatura Ödemelerinizde Vade Farksız 6 Taksit Fırsatı",
+   "ozet": "İGDAŞ Fatura Ödemelerinizde Vade Farksız 6 Taksit Fırsatı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/igdas-fatura-odemelerinizde-vade-farksiz-6-taksit-firsati11.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-pttavmcomda-pesin-fiyatina-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "PttAVM",
+   "magazalar": [
+    "Hepsiburada",
+    "PttAVM",
+    "n11"
+   ],
+   "baslik": "PttAVM.com'da Peşin Fiyatına 6 aya varan Taksit",
+   "ozet": "PttAVM.com'da Peşin Fiyatına 6 aya varan Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/pttavmcomda-pesin-fiyatina-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "e-ticaret",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-demirdokumde-9-aya-varan-taksit-ve-3000tl-parafpara211.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Demirdöküm",
+   "magazalar": [],
+   "baslik": "Demirdöküm'de 9 aya varan taksit ve 3.000 TL ParafPara!",
+   "ozet": "Demirdöküm'de 9 aya varan taksit ve 3.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan",
+    "ek_taksit": 9
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/demirdokumde-9-aya-varan-taksit-ve-3000tl-parafpara211.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-copada-1500-tl-parafpara-ve-sade-farksiz-12-taksit3.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Paraf ile Copa",
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Paraf ile Copa'da 1.500 TL ParafPara ve vade farksız 12 taksit!",
+   "ozet": "Paraf ile Copa'da 1.500 TL ParafPara ve vade farksız 12 taksit!",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan",
+    "ek_taksit": 12
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/paraf-ile-copada-1500-tl-parafpara-ve-sade-farksiz-12-taksit3.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-ile-fakirde-3000-tlye-varan-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Paraf ile Fakir",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Paraf ile Fakir’de 3000 TL ye varan ParafPara",
+   "ozet": "Paraf ile Fakir’de 3000 TL ye varan ParafPara",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-18",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/paraf-ile-fakirde-3000-tlye-varan-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-oxxoda-4-taksit-firsati.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "OXXO",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "OXXO’da 4 taksit fırsatı",
+   "ozet": "OXXO’da 4 taksit fırsatı",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/oxxoda-4-taksit-firsati.html",
+   "durum": "aktif",
+   "banka_kategori": "giyim-kozmetik-ve-aksesuar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-egitim-sektorunde-arti-bes-taksit09.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Eğitim sektöründe +5 taksit",
+   "ozet": "Eğitim sektöründe +5 taksit",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/egitim-sektorunde-arti-bes-taksit09.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-nezihde-pesin-fiyatina-2-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": "Nezih",
+   "magazalar": [],
+   "baslik": "Nezih’de Peşin Fiyatına 2 Taksit",
+   "ozet": "Nezih’de Peşin Fiyatına 2 Taksit",
+   "kazanc": {
+    "deger": 2,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/nezihde-pesin-fiyatina-2-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "egitim-kirtasiye",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-metatechtrde-pesin-fiyatina-6-taksit-ve-6000tl-ye-varan-parafpara111.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Metatechtr",
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Metatechtr ’de peşin fiyatına 6 taksit ve 6.000 TL’ye varan ParafPara",
+   "ozet": "Metatechtr ’de peşin fiyatına 6 taksit ve 6.000 TL’ye varan ParafPara",
+   "kazanc": {
+    "deger": 6000.0,
+    "birim": "TL_puan",
+    "ek_taksit": 6
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/metatechtrde-pesin-fiyatina-6-taksit-ve-6000tl-ye-varan-parafpara111.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-taksidepos-kampanyasi.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": "n11",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "TaksidePOS anlaşmalı taksilerde seyahat keyfi!",
+   "ozet": "TaksidePOS anlaşmalı taksilerde seyahat keyfi!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/taksidepos-kampanyasi.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-ozel-flavius-polikliniginde-estetik-ve-guzellik-hizmetlerinde-yuzde20-indirim-ve-pesin-fiyatina-3-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "diger",
+   "marka": "Özel Flavius Polikliniği",
+   "magazalar": [
+    "Hepsiburada",
+    "n11"
+   ],
+   "baslik": "Özel Flavius Polikliniği’nde Estetik ve Güzellik Hizmetlerinde %20 indirim ve peşin fiyatına 3 taksit!",
+   "ozet": "Özel Flavius Polikliniği’nde Estetik ve Güzellik Hizmetlerinde %20 indirim ve peşin fiyatına 3 taksit!",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde",
+    "ek_taksit": 3
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/ozel-flavius-polikliniginde-estetik-ve-guzellik-hizmetlerinde-yuzde20-indirim-ve-pesin-fiyatina-3-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-evurla-burgerde-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile EvUrla Burger'de %10 indirim",
+   "ozet": "Paraf Platinum ile EvUrla Burger'de %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-evurla-burgerde-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-kiffte-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile KIFF",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile KIFF'te %10 indirim",
+   "ozet": "Paraf Platinum ile KIFF'te %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-kiffte-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-kiffte-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile KIFF",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile KIFF'te %20 indirim",
+   "ozet": "Paraf Premium ile KIFF'te %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-kiffte-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-diecide-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Dieci",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Dieci'de %20 indirim",
+   "ozet": "Paraf Premium ile Dieci'de %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-diecide-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-diecide-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Dieci",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Dieci'de %10 indirim",
+   "ozet": "Paraf Platinum ile Dieci'de %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-diecide-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-evurla-burgerde-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile EvUrla Burger",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile EvUrla Burger'de %20 indirim",
+   "ozet": "Paraf Premium ile EvUrla Burger'de %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-evurla-burgerde-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-karargah-urlada-yuzde-20-indirim1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Karargah Urla",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Karargah Urla'da %20 indirim",
+   "ozet": "Paraf Premium ile Karargah Urla'da %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-karargah-urlada-yuzde-20-indirim1.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-karargah-urlada-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Karargah Urla'da %10 indirim",
+   "ozet": "Paraf Platinum ile Karargah Urla'da %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-karargah-urlada-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-gumruk-urlada-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Gümrük Urla",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Gümrük Urla'da %10 indirim",
+   "ozet": "Paraf Platinum ile Gümrük Urla'da %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-gumruk-urlada-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-gumruk-urlada-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Gümrük Urla",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Gümrük Urla'da %20 indirim",
+   "ozet": "Paraf Premium ile Gümrük Urla'da %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-gumruk-urlada-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-takanikte-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Takanik",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Takanik'te %10 indirim",
+   "ozet": "Paraf Platinum ile Takanik'te %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-takanikte-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-takanikte-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Takanik",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Takanik'te %20 indirim",
+   "ozet": "Paraf Premium ile Takanik'te %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-takanikte-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-villa-bosphorusta-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Villa Bosphorus’ta %20 indirim",
+   "ozet": "Paraf Premium ile Villa Bosphorus’ta %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-villa-bosphorusta-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-villa-bosphorusta-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Villa Bosphorus'ta %10 indirim",
+   "ozet": "Paraf Platinum ile Villa Bosphorus'ta %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-villa-bosphorusta-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-soireede-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Soiree",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Soiree'de %20 indirim",
+   "ozet": "Paraf Premium ile Soiree'de %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-soireede-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-soireede-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Soiree",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Soiree'de %10 indirim",
+   "ozet": "Paraf Platinum ile Soiree'de %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-soireede-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-Lokanta-Mini-de-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Lokanta Mini",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Lokanta Mini'de %10 indirim",
+   "ozet": "Paraf Platinum ile Lokanta Mini'de %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-Lokanta-Mini-de-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-lokanta-mini-de-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Lokanta Mini",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Lokanta Mini'de %20 indirim",
+   "ozet": "Paraf Premium ile Lokanta Mini'de %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-lokanta-mini-de-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-okapi-suiteste-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "seyahat",
+   "marka": "Paraf Premium ile Okapi Suites",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Okapi Suites’te %20 indirim",
+   "ozet": "Paraf Premium ile Okapi Suites’te %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/paraf-premium-ile-okapi-suiteste-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-okapi-suiteste-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "seyahat",
+   "marka": "Paraf Platinum ile Okapi Suites",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Okapi Suites’te %10 indirim",
+   "ozet": "Paraf Platinum ile Okapi Suites’te %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/seyahat/paraf-platinum-ile-okapi-suiteste-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "seyahat",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-bigchefste-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile BigChefs",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile BigChefs’te %20 İndirim!",
+   "ozet": "Paraf Premium ile BigChefs’te %20 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-bigchefste-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-big-chefste-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Big Chefs",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Big Chefs’te %10 indirim",
+   "ozet": "Paraf Platinum ile Big Chefs’te %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-big-chefste-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-platinum-kartlar-ile-remi-de-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Platinum kartlar ile Remi",
+   "magazalar": [],
+   "baslik": "Platinum kartlar ile Remi'de %10 indirim",
+   "ozet": "Platinum kartlar ile Remi'de %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/platinum-kartlar-ile-remi-de-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-remi-de-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Remi",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Remi'de %20 indirim",
+   "ozet": "Paraf Premium ile Remi'de %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-remi-de-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-beyaz-firinda-yuzde-20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Beyaz Fırın",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Beyaz Fırın'da %20 indirim",
+   "ozet": "Paraf Premium ile Beyaz Fırın'da %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-beyaz-firinda-yuzde-20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-beyaz-firinda-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Beyaz Fırın",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Beyaz Fırın'da %10 indirim",
+   "ozet": "Paraf Platinum ile Beyaz Fırın'da %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-beyaz-firinda-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-cookshop-arka-bahcede-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Cookshop Arka Bahçe'de %20 indirim",
+   "ozet": "Paraf Premium ile Cookshop Arka Bahçe'de %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-cookshop-arka-bahcede-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-cookshop-arka-bahcede-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Cookshop Arka Bahçe'de %10 indirim",
+   "ozet": "Paraf Platinum ile Cookshop Arka Bahçe'de %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-cookshop-arka-bahcede-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-magnolia-shopta-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Magnolia Shop'ta %10 indirim",
+   "ozet": "Paraf Platinum ile Magnolia Shop'ta %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-magnolia-shopta-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-magnolia-shopta-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Magnolia Shop",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Magnolia Shop'ta %20 indirim",
+   "ozet": "Paraf Premium ile Magnolia Shop'ta %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-magnolia-shopta-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-cookshopta-yuzde-10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Cookshop",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Cookshop'ta %10 indirim",
+   "ozet": "Paraf Platinum ile Cookshop'ta %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-cookshopta-yuzde-10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-cookshopta-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Cookshop",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Cookshop'ta %20 indirim",
+   "ozet": "Paraf Premium ile Cookshop'ta %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-cookshopta-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-nebyan-dogal-magazalarinda-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Nebyan Doğal mağazalarında %20 indirim",
+   "ozet": "Paraf Premium ile Nebyan Doğal mağazalarında %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-nebyan-dogal-magazalarinda-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-nebyan-dogal-magazalarinda-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Nebyan Doğal mağazalarında %10 indirim",
+   "ozet": "Paraf Platinum ile Nebyan Doğal mağazalarında %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-nebyan-dogal-magazalarinda-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-sahan-restaurantta-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Sahan Restaurant'ta %20 indirim",
+   "ozet": "Paraf Premium ile Sahan Restaurant'ta %20 indirim",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-sahan-restaurantta-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-sahan-restaurantta-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Sahan Restaurant'ta %10 indirim",
+   "ozet": "Paraf Platinum ile Sahan Restaurant'ta %10 indirim",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-sahan-restaurantta-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-tavaci-recep-ustada-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Tavacı Recep Usta'da %20 indirim!",
+   "ozet": "Paraf Premium ile Tavacı Recep Usta'da %20 indirim!",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-tavaci-recep-ustada-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-tavaci-recep-ustada-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Tavacı Recep Usta'da %10 indirim!",
+   "ozet": "Paraf Platinum ile Tavacı Recep Usta'da %10 indirim!",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-tavaci-recep-ustada-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-kaen-sushide-yuzde20-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Kaen Sushi",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Kaen Sushi’de %20 indirim!",
+   "ozet": "Paraf Premium ile Kaen Sushi’de %20 indirim!",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-kaen-sushide-yuzde20-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-kaen-sushide-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Kaen Sushi",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Kaen Sushi’de %10 indirim!",
+   "ozet": "Paraf Platinum ile Kaen Sushi’de %10 indirim!",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-kaen-sushide-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-premium-ile-bedri-ustada-yuzde20-indirim1.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "indirim",
+   "kategori": "restoran",
+   "marka": "Paraf Premium ile Bedri Usta",
+   "magazalar": [],
+   "baslik": "Paraf Premium ile Bedri Usta’da %20 indirim!",
+   "ozet": "Paraf Premium ile Bedri Usta’da %20 indirim!",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-premium-ile-bedri-ustada-yuzde20-indirim1.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-paraf-platinum-ile-bedri-ustada-yuzde10-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": "Paraf Platinum ile Bedri Usta",
+   "magazalar": [],
+   "baslik": "Paraf Platinum ile Bedri Usta'da %10 İndirim",
+   "ozet": "Paraf Platinum ile Bedri Usta'da %10 İndirim",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-platinum-ile-bedri-ustada-yuzde10-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "kafe-ve-restoran",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-silver-logolu-mastercadiniza-ozel-sabiha-gokcen-havalimaninda-always-hizli-gecis-ucretsiz.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Silver Logolu Mastercard'ınıza Özel Sabiha Gökçen Havalimanı’nda ALLWAYS Hızlı Geçiş Ücretsiz",
+   "ozet": "Silver Logolu Mastercard'ınıza Özel Sabiha Gökçen Havalimanı’nda ALLWAYS Hızlı Geçiş Ücretsiz",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2025-05-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/silver-logolu-mastercadiniza-ozel-sabiha-gokcen-havalimaninda-always-hizli-gecis-ucretsiz.html",
+   "durum": "aktif",
+   "banka_kategori": "diger-firsatlar",
+   "eklenme": "2026-11-19",
+   "guncellenme": "2026-11-19",
+   "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "paraf-vaillantta-9aya-varan-taksit-ve-3000-tl-parafpara.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Vaillant",
+   "magazalar": [],
+   "baslik": "Vaillant'ta 9 aya varan taksit ve 3.000 TL ParafPara!",
+   "ozet": "Vaillant'ta 9 aya varan taksit ve 3.000 TL ParafPara!",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan",
+    "ek_taksit": 9
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/vaillantta-9aya-varan-taksit-ve-3000-tl-parafpara.html",
+   "durum": "aktif",
+   "banka_kategori": "beyaz-esya-ve-elektronik",
    "eklenme": "2026-11-19",
    "guncellenme": "2026-11-19",
    "detay_okundu": "2026-11-19",
