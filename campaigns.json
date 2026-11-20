@@ -4,10 +4,10 @@
   "bonus": 232,
   "maximum": 204,
   "world": 92,
-  "paraf": 198,
+  "paraf": 199,
   "axess": 143,
-  "migros": 5,
-  "detay_okunan": 0
+  "migros": 4,
+  "detay_okunan": 1
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -18075,6 +18075,37 @@
    "detay_surum": 6
   },
   {
+   "id": "paraf-paraf-ile-goodyearda-pesin-fiyatina-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": "Paraf ile Goodyear",
+   "magazalar": [],
+   "baslik": "Paraf ile Goodyear’da Peşin Fiyatına 6 Taksit",
+   "ozet": "Paraf ile Goodyear’da Peşin Fiyatına 6 Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-ile-goodyearda-pesin-fiyatina-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20",
+   "detay_okundu": "2026-11-20",
+   "detay_surum": 6
+  },
+  {
    "id": "paraf-silver-logolu-paraf-premium-mastercard-sahiplerine-istanbul-havalimaninda-gecerli-ucretsiz-hizli-gecis-ve-buggy-se",
    "program": "paraf",
    "bankalar": [
@@ -26878,48 +26909,19 @@
     "Migros"
    ],
    "baslik": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
-   "ozet": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
+   "ozet": "13-22 Kasım tarihleri arasında seçili kırtasiye ürünlerinde aynı üründen 2 Al 1 Öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanya kapsamında listelenen ürünler için tıklayın.",
    "kazanc": {
     "deger": null,
     "birim": null
    },
    "min_harcama_tl": null,
-   "baslangic": null,
-   "bitis": null,
+   "baslangic": "2026-11-13",
+   "bitis": "2026-11-22",
    "katilim_gerekli": false,
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.migros.com.tr/kirtasiye-urunlerinde-2-al-1-ode-l-bbcd112",
-   "durum": "aktif",
-   "eklenme": "2026-11-20",
-   "guncellenme": "2026-11-20"
-  },
-  {
-   "id": "migros-premiata-urunleri-l-bbcd101",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "diger",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Migros"
-   ],
-   "baslik": "Premiata Ürünleri",
-   "ozet": "Premiata Ürünleri",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": null,
-   "bitis": null,
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/premiata-urunleri-l-bbcd101",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
