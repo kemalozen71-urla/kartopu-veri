@@ -6,6 +6,7 @@
   "world": 92,
   "paraf": 198,
   "axess": 143,
+  "migros": 3,
   "detay_okunan": 0
  },
  "kategoriler": {
@@ -26862,6 +26863,93 @@
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11de-vade-farksiz-6-taksit",
    "durum": "aktif",
    "detay_okundu": "2026-11-20",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-6889",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "cekilis",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Money ile Tek Seferde 100 TL ve Katları Tutarında KitKat Markalı (Kitkat Poppies Crunchy&Creamy Bites ve Alisya Kitkat Cheese Ürünleri Hariç) Ürün Alışverişine 1 çekiliş hakkı!",
+   "ozet": "Çekiliş Kampanyaları",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.money.com.tr/Kampanyalar/Detay/cms/money-ile-tek-seferde-100-tl-ve-katlari-tutarinda-kitkat-markali-kitkat-poppies-crunchycreamy-bites-ve-alisya-kitkat-cheese-urunleri-haric-urun-alisverisine-1-cekilis-hakki/6889",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-6854",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "cekilis",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Doğanay Çekiliş Kampanyası",
+   "ozet": "Çekiliş Kampanyaları",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.money.com.tr/Kampanyalar/Detay/cms/doganay-cekilis-kampanyasi/6854",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-6860",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "cekilis",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "100 TL ve katları Kitkat Alışverişine 1 çekiliş hakkı!",
+   "ozet": "Çekiliş Kampanyaları",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-12-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.money.com.tr/Kampanyalar/Detay/cms/100-tl-ve-katlari-kitkat-alisverisine-1-cekilis-hakki/6860",
+   "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
   }
