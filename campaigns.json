@@ -4,10 +4,10 @@
   "bonus": 232,
   "maximum": 204,
   "world": 92,
-  "paraf": 199,
+  "paraf": 200,
   "axess": 143,
-  "migros": 33,
-  "detay_okunan": 0
+  "migros": 35,
+  "detay_okunan": 1
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -59,6 +59,44 @@
    "Getir"
   ]
  },
+ "brosurler": [
+  {
+   "ad": "A101",
+   "aciklama": "Aldın Aldın ve Haftanın Yıldızları",
+   "gun": "Perşembe / Cumartesi",
+   "url": "https://www.a101.com.tr/"
+  },
+  {
+   "ad": "BİM",
+   "aciklama": "Aktüel ürünler",
+   "gun": "Salı / Cuma",
+   "url": "https://www.bim.com.tr/Categories/100/aktuel-urunler.aspx"
+  },
+  {
+   "ad": "CarrefourSA",
+   "aciklama": "İndirim kataloğu",
+   "gun": "Haftalık",
+   "url": "https://katalog.carrefoursa.com/"
+  },
+  {
+   "ad": "Macrocenter",
+   "aciklama": "Kampanyalar",
+   "gun": "Haftalık",
+   "url": "https://www.macrocenter.com.tr/kampanyalar"
+  },
+  {
+   "ad": "Migros",
+   "aciklama": "Migroskop ürünleri ve fırsatları",
+   "gun": "İki haftada bir",
+   "url": "https://www.migros.com.tr/migroskop-urunleri-dt-3"
+  },
+  {
+   "ad": "ŞOK",
+   "aciklama": "Aktüel ve kampanyalar",
+   "gun": "Çarşamba / Cumartesi",
+   "url": "https://www.sokmarket.com.tr/kampanyalar"
+  }
+ ],
  "kampanyalar": [
   {
    "id": "bonus-bonus-market-alisveris-kampanya",
@@ -17889,6 +17927,37 @@
    "detay_surum": 6
   },
   {
+   "id": "paraf-paraf-premium-troy-ile-yakit-harcamalarinda-indirim.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "diger",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Paraf Premium TROY İle Yakıt Harcamalarında İndirim",
+   "ozet": "Paraf Premium TROY İle Yakıt Harcamalarında İndirim",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-12-31",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/akaryakit/paraf-premium-troy-ile-yakit-harcamalarinda-indirim.html",
+   "durum": "aktif",
+   "banka_kategori": "akaryakit",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20",
+   "detay_okundu": "2026-11-20",
+   "detay_surum": 6
+  },
+  {
    "id": "paraf-elektrikli-arac-sarj-istasyonu-harcamalariniza-450-tl-parafpara1.html",
    "program": "paraf",
    "bankalar": [
@@ -18072,37 +18141,6 @@
    "eklenme": "2026-11-19",
    "guncellenme": "2026-11-20",
    "detay_okundu": "2026-11-19",
-   "detay_surum": 6
-  },
-  {
-   "id": "paraf-paraf-ile-goodyearda-pesin-fiyatina-6-taksit.html",
-   "program": "paraf",
-   "bankalar": [
-    "Halkbank"
-   ],
-   "tur": "taksit",
-   "kategori": "otomotiv",
-   "marka": "Paraf ile Goodyear",
-   "magazalar": [],
-   "baslik": "Paraf ile Goodyear’da Peşin Fiyatına 6 Taksit",
-   "ozet": "Paraf ile Goodyear’da Peşin Fiyatına 6 Taksit",
-   "kazanc": {
-    "deger": 6,
-    "birim": "taksit"
-   },
-   "min_harcama_tl": null,
-   "baslangic": null,
-   "bitis": null,
-   "katilim_gerekli": false,
-   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-ile-goodyearda-pesin-fiyatina-6-taksit.html",
-   "durum": "aktif",
-   "banka_kategori": "otomotiv",
-   "eklenme": "2026-11-20",
-   "guncellenme": "2026-11-20",
-   "detay_okundu": "2026-11-20",
    "detay_surum": 6
   },
   {
@@ -18508,6 +18546,37 @@
    "eklenme": "2026-11-19",
    "guncellenme": "2026-11-20",
    "detay_okundu": "2026-11-19",
+   "detay_surum": 6
+  },
+  {
+   "id": "paraf-paraf-ile-goodyearda-pesin-fiyatina-6-taksit.html",
+   "program": "paraf",
+   "bankalar": [
+    "Halkbank"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": "Paraf ile Goodyear",
+   "magazalar": [],
+   "baslik": "Paraf ile Goodyear’da Peşin Fiyatına 6 Taksit",
+   "ozet": "Paraf ile Goodyear’da Peşin Fiyatına 6 Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Paraf Mobil / Halkbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-ile-goodyearda-pesin-fiyatina-6-taksit.html",
+   "durum": "aktif",
+   "banka_kategori": "otomotiv",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20",
+   "detay_okundu": "2026-11-20",
    "detay_surum": 6
   },
   {
@@ -26894,6 +26963,64 @@
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11de-vade-farksiz-6-taksit",
    "durum": "aktif",
    "detay_okundu": "2026-11-20",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-ciceklerde-25-indirim-l-bbcd296",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Çiçeklerde %25 İndirim",
+   "ozet": "20-25 Kasım tarihleri arasında Çiçeklerde %25 İndirim kampanyası uygulanacaktır. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Migroskop Ürünleri Hariçtir.",
+   "kazanc": {
+    "deger": 25.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-25",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/ciceklerde-25-indirim-l-bbcd296",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-tazelik-bi-tik-uzaginda-l-bbcd292",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "diger",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Tazelik Bi Tık Uzağında!",
+   "ozet": "20-23 Kasım tarihleri arasında Kasım İndirim Günleri geçerlidir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Ayşe Kadın Fasulye & Muz Yerli 79,95 TL/KG",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-23",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/tazelik-bi-tik-uzaginda-l-bbcd292",
+   "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
   },
