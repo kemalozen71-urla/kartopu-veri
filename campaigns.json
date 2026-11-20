@@ -3,9 +3,10 @@
  "rapor": {
   "bonus": 232,
   "maximum": 204,
-  "world": 89,
+  "world": 92,
   "paraf": 198,
-  "detay_okunan": 1
+  "axess": "HATA: HTTPError('404 Client Error: Not Found for url: https://raw.githubusercontent.com/kemalozen71-urla/kartopu-veri/main/axess.json')",
+  "detay_okunan": 3
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -1518,9 +1519,9 @@
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20",
-   "banka_kategori": "Giyim",
    "detay_okundu": "2026-11-20",
-   "detay_surum": 5
+   "detay_surum": 5,
+   "banka_kategori": "Giyim"
   },
   {
    "id": "bonus-hizli-cicek-bonus-kampanyasi",
@@ -16308,6 +16309,68 @@
    "detay_surum": 5
   },
   {
+   "id": "world-arcelikte-125000-tl-ve-uzeri-alisverise-cay-makinesi-hediye-ustelik-8-aya-varan-taksit-firsati",
+   "program": "world",
+   "bankalar": [
+    "Yapı Kredi"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Arçelik",
+   "magazalar": [],
+   "baslik": "Arçelik’te 125.000 TL ve üzeri alışverişe Çay Makinesi hediye. Üstelik 8 aya varan taksit fırsatı!",
+   "ozet": "20 Kasım 2026 – 30 Kasım 2026 tarihleri arasında Arçelik mağazalarından 125.000 TL ve üzeri alışverişlerinizde Çay Makinesi Hediye. Üstelik 8 aya varan taksit!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": 125000.0,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "World Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.worldcard.com.tr/kampanyalar/arcelikte-125000-tl-ve-uzeri-alisverise-cay-makinesi-hediye-ustelik-8-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20",
+   "banka_kategori": null,
+   "detay_okundu": "2026-11-20",
+   "detay_surum": 5
+  },
+  {
+   "id": "world-kredi-karti-ile-2000-tl-ve-uzeri-ilk-bes-katki-payi-odemesine-2000-tl-worldpuan-hediye-kasim-2026",
+   "program": "world",
+   "bankalar": [
+    "Yapı Kredi"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Kredi kartı ile 2.000 TL ve üzeri ilk BES katkı payı ödemesine 2.000 TL Worldpuan hediye!",
+   "ozet": "20 Kasım-30 Kasım 2026 tarihleri arasında Yapı Kredi Mobil’den Bireysel Emeklilik (BES) yaptırın, ödeme aracınızı Yapı Kredi kredi kartınız olarak belirleyin ve 2.000 TL Worldpuan kazanma fırsatını kaçırmayın.",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 2000.0,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "World Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.worldcard.com.tr/kampanyalar/kredi-karti-ile-2000-tl-ve-uzeri-ilk-bes-katki-payi-odemesine-2000-tl-worldpuan-hediye-kasim-2026",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20",
+   "banka_kategori": null,
+   "detay_okundu": "2026-11-20",
+   "detay_surum": 5
+  },
+  {
    "id": "world-worldun-35-yilina-ozel-pentide-235-tl-penti-puan",
    "program": "world",
    "bankalar": [
@@ -16335,6 +16398,37 @@
    "eklenme": "2026-11-19",
    "guncellenme": "2026-11-20",
    "detay_okundu": "2026-11-19",
+   "detay_surum": 5
+  },
+  {
+   "id": "world-bekoda-125000-tl-ve-uzeri-alisverise-cay-makinesi-hediye-ustelik-8-aya-varan-taksit-firsati",
+   "program": "world",
+   "bankalar": [
+    "Yapı Kredi"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Beko",
+   "magazalar": [],
+   "baslik": "Beko’da 125.000 TL ve üzeri alışverişe Çay Makinesi hediye. Üstelik 8 aya varan taksit fırsatı!",
+   "ozet": "20 Kasım 2026 – 30 Kasım 2026 tarihleri arasında Beko mağazalarından 125.000 TL ve üzeri alışverişlerinizde Çay Makinesi Hediye. Üstelik 8 aya varan taksit!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": 125000.0,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "World Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.worldcard.com.tr/kampanyalar/bekoda-125000-tl-ve-uzeri-alisverise-cay-makinesi-hediye-ustelik-8-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20",
+   "banka_kategori": null,
+   "detay_okundu": "2026-11-20",
    "detay_surum": 5
   },
   {
