@@ -6,7 +6,7 @@
   "world": 92,
   "paraf": 198,
   "axess": 143,
-  "migros": 3,
+  "migros": 5,
   "detay_okunan": 0
  },
  "kategoriler": {
@@ -26863,6 +26863,64 @@
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11de-vade-farksiz-6-taksit",
    "durum": "aktif",
    "detay_okundu": "2026-11-20",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-kirtasiye-urunlerinde-2-al-1-ode-l-bbcd112",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
+   "ozet": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/kirtasiye-urunlerinde-2-al-1-ode-l-bbcd112",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-premiata-urunleri-l-bbcd101",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "diger",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Premiata Ürünleri",
+   "ozet": "Premiata Ürünleri",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/premiata-urunleri-l-bbcd101",
+   "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
   },
