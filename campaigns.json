@@ -6,8 +6,8 @@
   "world": 92,
   "paraf": 199,
   "axess": 143,
-  "migros": 4,
-  "detay_okunan": 1
+  "migros": 33,
+  "detay_okunan": 0
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -26898,7 +26898,616 @@
    "guncellenme": "2026-11-20"
   },
   {
-   "id": "migros-kirtasiye-urunlerinde-2-al-1-ode-l-bbcd112",
+   "id": "migros-cilt-bakim-vucut-bakim-urunleri-ve-cilt-bakim-maskelerinde-ayni-urunden-2-al-1-ode-l-bbcd21f",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Cilt Bakım, Vücut Bakım Ürünleri ve Cilt Bakım Maskelerinde Aynı Üründen 2 AL 1 ÖDE",
+   "ozet": "20-23 Kasım tarihleri arasında Cilt Bakım, Vücut Bakım Ürünleri ve Cilt Bakım Maskelerinde Aynı Üründen 2 AL 1 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-23",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/cilt-bakim-vucut-bakim-urunleri-ve-cilt-bakim-maskelerinde-ayni-urunden-2-al-1-ode-l-bbcd21f",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-tiras-urunlerinde-ayni-urunden-2-al-1-ode-l-bbcd231",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Tıraş Ürünlerinde Aynı Üründen 2 AL 1 ÖDE",
+   "ozet": "20-25 Kasım tarihleri arasında Tıraş Ürünlerinde Aynı Üründen 2 AL 1 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-25",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/tiras-urunlerinde-ayni-urunden-2-al-1-ode-l-bbcd231",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-elektrikli-kucuk-ev-aletlerinde-ve-kisisel-bakim-urunlerinde-30-indirim-l-bbcd245",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Elektrikli Küçük Ev Aletlerinde ve Kişisel Bakım Ürünlerinde %30 İndirim",
+   "ozet": "20-27 Kasım tarihleri arasında seçili Elektrikli Küçük Ev Aletlerinde ve Kişisel Bakım Ürünlerinde %30 İndirim kampanyası uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Aldım&Bitti, Migroskop ürünleri ve Migros markalı ürünler hariçtir.",
+   "kazanc": {
+    "deger": 30.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/elektrikli-kucuk-ev-aletlerinde-ve-kisisel-bakim-urunlerinde-30-indirim-l-bbcd245",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-protein-tozlarinda-40-indirim-l-bbcd263",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Protein Tozlarında %40 İndirim!",
+   "ozet": "Protein Tozlarında %40 İndirim!",
+   "kazanc": {
+    "deger": 40.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/protein-tozlarinda-40-indirim-l-bbcd263",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-bolca-taze-hindi-urunlerinde-25-indirim-l-bbcd25d",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Bolca Taze Hindi Ürünlerinde %25 İndirim",
+   "ozet": "20-23 Kasım tarihleri arasında kampanya kapsamında listelenen Bolca Taze Hindi ürünlerinde %25 İndirim kampanyası uygulanacaktır. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Migroskop Ürünleri Hariçtir.",
+   "kazanc": {
+    "deger": 25.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-23",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/bolca-taze-hindi-urunlerinde-25-indirim-l-bbcd25d",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-sac-bakim-urunlerinde-ayni-urunden-2-al-1-ode-l-bbcd21a",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "SAÇ BAKIM ÜRÜNLERİNDE AYNI ÜRÜNDEN 2 AL 1 ÖDE",
+   "ozet": "20-22 Kasım tarihleri arasında saç bakım ürünlerinde aynı üründen 2 al 1 öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Migroskop ve Seç-Al Ürünleri Hariçtir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/sac-bakim-urunlerinde-ayni-urunden-2-al-1-ode-l-bbcd21a",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-secili-200-ml-meyve-sularinda-25-indirim-l-bbcd234",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Seçili 200 ml Meyve Sularında %25 İndirim",
+   "ozet": "20-22 Kasım tarihleri arasında Seçili 200 ml Meyve Sularında %25 İndirim kampanyası uygulanacaktır. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Migroskop ürünleri ve ve Migros markalı ürünler hariçtir.",
+   "kazanc": {
+    "deger": 25.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/secili-200-ml-meyve-sularinda-25-indirim-l-bbcd234",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-bebek-bezlerinde-ayni-urunden-2-al-1-ode-l-bbcd1ab",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Bebek Bezlerinde Aynı Üründen 2 AL 1 ÖDE",
+   "ozet": "20-24 Kasım tarihleri arasında listede yer alan bebek bezlerinde aynı üründen 2 al 1 öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Migroskop Ürünleri Hariçtir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-24",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/bebek-bezlerinde-ayni-urunden-2-al-1-ode-l-bbcd1ab",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-hijyenik-pedlerde-ayni-urunden-2-al-1-ode-l-bbcd226",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Hijyenik Pedlerde Aynı Üründen 2 Al 1 Öde",
+   "ozet": "20-25 Kasım tarihleri arasında Hijyenik Pedlerde Aynı Üründen 2 Al 1 Öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-25",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/hijyenik-pedlerde-ayni-urunden-2-al-1-ode-l-bbcd226",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-bulasik-makinesi-urunlerinde-ayni-urunden-2-al-1-ode-l-bbcd216",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Bulaşık Makinesi Ürünlerinde Aynı Üründen 2 AL 1 ÖDE",
+   "ozet": "20-25 Kasım tarihleri arasında Bulaşık Makinesi Ürünlerinde Aynı Üründen 2 AL 1 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Migroskop Ürünleri Hariçtir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-25",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/bulasik-makinesi-urunlerinde-ayni-urunden-2-al-1-ode-l-bbcd216",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-sec-al-firsatlari-l-bbcd1e2",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "diger",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Seç Al Fırsatları",
+   "ozet": "19 Kasım - 2 Aralık 2026 tarihleri arasında 50 TL ve üzeri alışverişlerde farklı ürünlerde farklı indirim oranları uygulanacaktır. Kampanyadan faydalanabilmek için kampanyalı ürünler haricinde 50 TL'lik sepet oluşturman gerekmektedir. Her 50 TL'lik alışverişte seç al kampanyası geçerli olacaktır. İndirim sepette düşecektir. Kampanyalı ürünler mağaza stoklarıyla sınırlıdır. Ürünler dönemsel olarak değişmektedir. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumunda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 50.0,
+   "baslangic": "2026-11-19",
+   "bitis": "2026-11-23",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/sec-al-firsatlari-l-bbcd1e2",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-uzman-kasap-koftelerde-3-al-2-ode-l-bbcd205",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Uzman Kasap Köftelerde 3 AL 2 ÖDE",
+   "ozet": "19 Kasım - 2 Aralık tarihleri arasında listede yer alan Uzman Kasap Köftelerde 3 AL 2 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete listede yer alan ürünlerden 3 adet eklenmesi gerekmektedir. Farklı satış fiyatına sahip ürünler sepete eklendiğinde indirim sepetteki en düşük fiyatlı ürün üzerinden uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanyadaki indirim, farklı ürünler alındığında sepetteki en düşük fiyatlı ürüne uygulanacaktır.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-19",
+   "bitis": "2026-12-02",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/uzman-kasap-koftelerde-3-al-2-ode-l-bbcd205",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-oyuncaklarda-25ten-50ye-varan-indirimler-l-bbcd1f0",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "OYUNCAKLARDA %25'TEN %50'YE VARAN İNDİRİMLER!",
+   "ozet": "19 Kasım - 2 Aralık tarihleri arasında oyuncaklarda %25'ten %50'ye varan indirimler uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": 25.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-19",
+   "bitis": "2026-12-02",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/oyuncaklarda-25ten-50ye-varan-indirimler-l-bbcd1f0",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-sil-supur-l-bbcd1b2",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "diger",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Sil Süpür!",
+   "ozet": "19-30 Kasım tarihleri arasında Kasım İndirim Günleri: Sil Süpür Temizlik Ürünleri geçerlidir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-19",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/sil-supur-l-bbcd1b2",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-secili-kedi-ve-kopek-mamalarinda-40-indirim-l-bbcd14c",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Seçili Kedi ve Köpek Mamalarında %40 İndirim",
+   "ozet": "17-22 Kasım tarihleri arasında Seçili Kedi ve Köpek Mamalarında %40 İndirim uygulanacaktır. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": 40.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-17",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/secili-kedi-ve-kopek-mamalarinda-40-indirim-l-bbcd14c",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-ithal-dondurmalarda-2si-50-indirimli-l-bbccdb6",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "İthal Dondurmalarda 2.si %50 İNDİRİMLİ!",
+   "ozet": "24 Ekim-22 Kasım tarihinde arasında Migros Sanal Market ve Migros Hemen'de listede yer alan ithal dondurmalarda 2.si %50 indirimli kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": 50.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-24",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/ithal-dondurmalarda-2si-50-indirimli-l-bbccdb6",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-350-tl-kelloggs-tahil-gevregi-siparisine-70-money-hediye-l-bbccdaa",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "350 TL Kellogg’s Tahıl Gevreği Siparişine 70 Money Hediye!",
+   "ozet": "22 Ekim - 4 Kasım 2026 tarihleri arasında Migros, 5M Migros, Migros Jet mağazalarından, Migros Sanal Market’ten veya Migros Hemen’den Money ve Money Bonus ile yapılacak tek seferde 350 TL’lik Kellogg's tahıl gevreği alışverişine 70 Money hediye edilecektir. Kazanılan Money’ler 2 gün içerisinde yüklenecek ve 30 Kasım 2026 tarihine kadar kullanılabilecektir. Kampanyadan yalnızca Money ve Money Bonus üyeleri yararlanabilir. Yeniden satış amaçlı toplu satın alımlar (kampanyaya dahil bir ürünün bir fişte 15 adet ve üzerinde satın alınması) ve eksik ve yanlış bilgi paylaşılmış Money üyeleri kampanya kapsamına dahil değildir. Kampanya, Money özellikli Yat Kart ve Otel Restoran Kartlarda geçerli değildir. Bir müşteri bir kampanyadan en fazla 2 kere yararlanabilmektedir ve 1 Money 1 TL değerindedir.",
+   "kazanc": {
+    "deger": 70.0,
+    "birim": "money"
+   },
+   "min_harcama_tl": 350.0,
+   "baslangic": "2026-10-22",
+   "bitis": "2035-11-05",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/350-tl-kelloggs-tahil-gevregi-siparisine-70-money-hediye-l-bbccdaa",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-250-tl-ve-uzeri-sana-siparisine-75-money-hediye-l-bbccda8",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "250 TL ve üzeri Sana Siparişine 75 Money Hediye!",
+   "ozet": "22 Ekim – 4 Kasım 2026 tarihleri arasında Migros, 5M Migros, Migros Jet mağazalarından, Migros Sanal Marketten veya Migros Hemen'den Money ve Money Bonus ile yapılacak tek seferde 250 TL ve üzeri Sana ürün alışverişlerinde 75 Money Hediye edilecektir. Kazanılan Money'ler 2 gün içerisinde yüklenecek ve 30 Kasım 2026 tarihine kadar kullanılabilecektir. Kampanyadan yalnızca Money ve Money Bonus üyeleri yararlanabilir. Yeniden satış amaçlı toplu satın alımlar (kampanyaya dahil bir üründen bir fişte 15 adet ve üzerinde satın alınması) ve eksik ve yanlış bilgi paylaşılmış Money üyeleri kampanya kapsamına dahil değildir. Kampanya, Money özellikli Yat Kart ve Otel Restoran Kartlarda geçerli değildir. Bir müşteri bu kampanyadan en fazla 2 kez yararlanabilmektedir ve 1 Money 1 TL değerindedir.",
+   "kazanc": {
+    "deger": 75.0,
+    "birim": "money"
+   },
+   "min_harcama_tl": 250.0,
+   "baslangic": "2026-10-22",
+   "bitis": "2035-11-05",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/250-tl-ve-uzeri-sana-siparisine-75-money-hediye-l-bbccda8",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-100-tl-ve-katlari-doganay-siparisine-1-cekilis-hakki-l-bbcc8c2",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "cekilis",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "100 TL ve Katları Doğanay Siparişine 1 Çekiliş Hakkı!",
+   "ozet": "Bu Kampanya Migros Ticaret A.Ş. tarafından Milli Piyango İdaresi’nin 17.09.2026 tarihli ve E-58259698-255.01.02-97112 sayılı izni ile düzenlenmektedir. 01.10.2026(09:00)-30.11.2026(23:00) tarihleri arasında Türkiye genelindeki tüm Migros, 5M Migros, Migrosjet Mağazaları, Migros Sanal Market veya Migros Hemen ‘den Doğanay Gıda Tarım ve Hayvancılık San. ve Tic. A.Ş.'ye ait tüm Doğanay markalı ürün alışverişlerinde birlikte veya ayrı ayrı tek seferde 100 TL ve katları tutarında (Her 100 TL’lik ürün alımına 1 çekiliş hakkı) alışveriş yapan Money veya Money Bonus üyesi müşteriler kampanyaya katılacaklardır. Ad, soyad ve telefon bilgileri eksik veya kayıtlı olmayan Money veya Money Bonus üyesi müşterilere çekiliş hakkı verilmeyecektir. Katılımda sunulan tüm bilgilerin doğruluğu ve yeterliliğinin ispatı katılımcının sorumluluğundadır. Kampanya tarihleri arasında verdiği siparişini iptal veya iade edenlerin çekiliş hakkı da iptal edilecektir. Migros Hemen veya Migros Sanal Market siparişlerinde; teslimat tarihinin en geç 30.11.2026 olması, yapılan alışverişin provizyona dönmesi ve teslimat sırasında Doğanay Gıda Tarım ve Hayvancılık San. ve Tic. A.Ş.'ye ait Doğanay markalı ürünlerinin net…",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 100.0,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Money uygulaması",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/100-tl-ve-katlari-doganay-siparisine-1-cekilis-hakki-l-bbcc8c2",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-100-tl-ve-katlari-kitkat-siparisine-1-cekilis-hakki-l-bbcc8d5",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "cekilis",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "100 TL ve Katları Kitkat Siparişine 1 Çekiliş Hakkı!",
+   "ozet": "Bu Kampanya Migros Ticaret A.Ş. tarafından Milli Piyango İdaresi’nin 17.09.2026 tarihli ve E-58259698-255.01.02-97118 sayılı izni ile düzenlenmektedir. 01.10.2026(09:00)-30.11.2026(23:00) tarihleri arasında Türkiye genelindeki tüm Migros, 5M Migros, Migrosjet Mağazaları, Migros Sanal Market veya Migros Hemen ‘den Nestle Türkiye Gıda San. A.Ş.’ye ait KitKat markalı (Kitkat Poppies Crunchy&Creamy Bites ve Alisya Kitkat Cheese ürünleri kampanyaya dahil değildir) ürünlerden birlikte veya ayrı ayrı tek seferde 100 TL ve katları tutarında (Her 100 TL’lik ürün alımına 1 çekiliş hakkı) alışveriş yapan Money veya Money Bonus üyesi müşteriler kampanyaya katılacaklardır. Ad, soyad ve telefon bilgileri eksik veya kayıtlı olmayan Money veya Money Bonus üyesi müşterilere çekiliş hakkı verilmeyecektir. Katılımda sunulan tüm bilgilerin doğruluğu ve yeterliliğinin ispatı katılımcının sorumluluğundadır. Kampanya tarihleri arasında verdiği siparişini iptal veya iade edenlerin çekiliş hakkı da iptal edilecektir. Migros Hemen veya Migros Sanal Market siparişlerinde; teslimat tarihinin en geç 30.11.2026 olması, yapılan alışverişin provizyona dönmesi ve teslimat sırasında KitKat markalı (Kitkat Poppies…",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 100.0,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Money uygulaması",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/100-tl-ve-katlari-kitkat-siparisine-1-cekilis-hakki-l-bbcc8d5",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-nestle-ve-damak-cikolatalarda-2-al-1-ode-l-bbcd211",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Nestle ve Damak Çikolatalarda 2 Al 1 Öde",
+   "ozet": "Nestle ve Damak Çikolatalarda 2 Al 1 Öde",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-23",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/nestle-ve-damak-cikolatalarda-2-al-1-ode-l-bbcd211",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-kampanyalar",
    "program": "migros",
    "kaynak_turu": "market",
    "bankalar": [],
@@ -26909,106 +27518,338 @@
     "Migros"
    ],
    "baslik": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
-   "ozet": "13-22 Kasım tarihleri arasında seçili kırtasiye ürünlerinde aynı üründen 2 Al 1 Öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanya kapsamında listelenen ürünler için tıklayın.",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-13",
-   "bitis": "2026-11-22",
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/kirtasiye-urunlerinde-2-al-1-ode-l-bbcd112",
-   "durum": "aktif",
-   "eklenme": "2026-11-20",
-   "guncellenme": "2026-11-20"
-  },
-  {
-   "id": "migros-6889",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "cekilis",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Migros"
-   ],
-   "baslik": "Money ile Tek Seferde 100 TL ve Katları Tutarında KitKat Markalı (Kitkat Poppies Crunchy&Creamy Bites ve Alisya Kitkat Cheese Ürünleri Hariç) Ürün Alışverişine 1 çekiliş hakkı!",
-   "ozet": "Çekiliş Kampanyaları",
+   "ozet": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
    "kazanc": {
     "deger": null,
     "birim": null
    },
    "min_harcama_tl": null,
    "baslangic": null,
-   "bitis": "2026-11-30",
+   "bitis": null,
    "katilim_gerekli": false,
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.money.com.tr/Kampanyalar/Detay/cms/money-ile-tek-seferde-100-tl-ve-katlari-tutarinda-kitkat-markali-kitkat-poppies-crunchycreamy-bites-ve-alisya-kitkat-cheese-urunleri-haric-urun-alisverisine-1-cekilis-hakki/6889",
+   "kaynak_url": "https://www.migros.com.tr/kampanyalar",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
   },
   {
-   "id": "migros-6854",
+   "id": "migros-kahve-ve-cay-makinelerinde-30-indirim-l-bbcd24d",
    "program": "migros",
    "kaynak_turu": "market",
    "bankalar": [],
-   "tur": "cekilis",
+   "tur": "indirim",
    "kategori": "market",
    "marka": null,
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Doğanay Çekiliş Kampanyası",
-   "ozet": "Çekiliş Kampanyaları",
+   "baslik": "Kahve ve Çay Makinelerinde %30 İNDİRİM",
+   "ozet": "20-27 Kasım tarihleri arasında seçili Kahve Makinalarında %30 İndirim kampanyası uygulanacaktır. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Aldım&Bitti, Migroskop ürünleri ve Migros markalı ürünler hariçtir.",
    "kazanc": {
-    "deger": null,
-    "birim": null
+    "deger": 30.0,
+    "birim": "yuzde"
    },
    "min_harcama_tl": null,
-   "baslangic": null,
-   "bitis": "2026-11-30",
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-27",
    "katilim_gerekli": false,
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.money.com.tr/Kampanyalar/Detay/cms/doganay-cekilis-kampanyasi/6854",
+   "kaynak_url": "https://www.migros.com.tr/kahve-ve-cay-makinelerinde-30-indirim-l-bbcd24d",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
   },
   {
-   "id": "migros-6860",
+   "id": "migros-kisisel-bakim-ve-tiras-urunlerinde-30-indirim-l-bbcd251",
    "program": "migros",
    "kaynak_turu": "market",
    "bankalar": [],
-   "tur": "cekilis",
+   "tur": "indirim",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Kişisel Bakım ve Tıraş Ürünlerinde %30 İNDİRİM",
+   "ozet": "20-27 Kasım tarihleri arasında seçili Elektrikli Küçük Ev Aletlerinde ve Kişisel Bakım Ürünlerinde %30 İndirim kampanyası uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Aldım&Bitti, Migroskop ürünleri ve Migros markalı ürünler hariçtir.",
+   "kazanc": {
+    "deger": 30.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-27",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/kisisel-bakim-ve-tiras-urunlerinde-30-indirim-l-bbcd251",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-mutfak-kucuk-ev-aletlerinde-30-indirim-l-bbcd24f",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Mutfak Küçük Ev Aletlerinde %30 İNDİRİM",
+   "ozet": "20-27 Kasım tarihleri arasında seçili Elektrikli Küçük Ev Aletlerinde ve Kişisel Bakım Ürünlerinde %30 İndirim kampanyası uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Aldım&Bitti, Migroskop ürünleri ve Migros markalı ürünler hariçtir.",
+   "kazanc": {
+    "deger": 30.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-27",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/mutfak-kucuk-ev-aletlerinde-30-indirim-l-bbcd24f",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "migros-dikey-supurgelerde-30-indirim-l-bbcd24e",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
    "kategori": "market",
    "marka": null,
    "magazalar": [
     "Migros"
    ],
-   "baslik": "100 TL ve katları Kitkat Alışverişine 1 çekiliş hakkı!",
-   "ozet": "Çekiliş Kampanyaları",
+   "baslik": "Dikey Süpürgelerde %30 İNDİRİM",
+   "ozet": "20-27 Kasım tarihleri arasında seçili Elektrikli Küçük Ev Aletlerinde ve Kişisel Bakım Ürünlerinde %30 İndirim kampanyası uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Aldım&Bitti, Migroskop ürünleri ve Migros markalı ürünler hariçtir.",
    "kazanc": {
-    "deger": null,
-    "birim": null
+    "deger": 30.0,
+    "birim": "yuzde"
    },
    "min_harcama_tl": null,
-   "baslangic": null,
+   "baslangic": "2026-11-20",
+   "bitis": "2026-11-27",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/dikey-supurgelerde-30-indirim-l-bbcd24e",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-18-30-kasim-super-bilim-setlerinde-20-indirim-l-bbcd1ee",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "18 - 30 Kasım Süper Bilim Setlerinde %20 İndirim!",
+   "ozet": "18 - 30 Kasım Süper Bilim Setlerinde %20 İndirim!",
+   "kazanc": {
+    "deger": 20.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-18",
    "bitis": "2026-12-01",
    "katilim_gerekli": false,
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.money.com.tr/Kampanyalar/Detay/cms/100-tl-ve-katlari-kitkat-alisverisine-1-cekilis-hakki/6860",
+   "kaynak_url": "https://www.macrocenter.com.tr/18-30-kasim-super-bilim-setlerinde-20-indirim-l-bbcd1ee",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-18-kasim-31-aralik-tulliana-kavanoz-bal-cesitlerinde-ayni-urunden-1-alana-1-hediye-l-bbcd1eb",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "diger",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "18 Kasım - 31 Aralık Tullıana Kavanoz Bal Çeşitlerinde Aynı Üründen 1 Alana 1 Hediye!",
+   "ozet": "18 Kasım - 31 Aralık Tullıana Kavanoz Bal Çeşitlerinde Aynı Üründen 1 Alana 1 Hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-18",
+   "bitis": "2027-01-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/18-kasim-31-aralik-tulliana-kavanoz-bal-cesitlerinde-ayni-urunden-1-alana-1-hediye-l-bbcd1eb",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-19-30-kasim-crocs-markali-urunlerde-30-indirim-l-bbcd1ea",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "19 - 30 Kasım Crocs Markalı Ürünlerde %30 İndirim!",
+   "ozet": "Listede yer alan ürünlerde geçerlidir.",
+   "kazanc": {
+    "deger": 30.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-19",
+   "bitis": "2026-12-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/19-30-kasim-crocs-markali-urunlerde-30-indirim-l-bbcd1ea",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-17-22-kasim-kedi-ve-kopek-mamalarinda-40-indirim-l-bbcd118",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "17 - 22 Kasım Kedi Ve Köpek Mamalarında %40 İndirim!",
+   "ozet": "İndirim listede yer alan ürünlerde geçerlidir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": 40.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-17",
+   "bitis": "2026-11-23",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/17-22-kasim-kedi-ve-kopek-mamalarinda-40-indirim-l-bbcd118",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-16-30-kasim-boska-urunlerinde-15-indirim-l-bbcd0d4",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "16 - 30 Kasım Boska Ürünlerinde %15 İndirim!",
+   "ozet": "İndirim listede yer alan ürünlerde geçerlidir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": 15.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-16",
+   "bitis": "2026-12-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/16-30-kasim-boska-urunlerinde-15-indirim-l-bbcd0d4",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-16-30-kasim-kito-evcil-hayvan-urunlerinde-25-indirim-l-bbcd0e5",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "16 - 30 Kasım Kito Evcil Hayvan Ürünlerinde %25 İndirim!",
+   "ozet": "İndirim listede yer alan ürünlerde geçerlidir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": 25.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-16",
+   "bitis": "2026-12-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/16-30-kasim-kito-evcil-hayvan-urunlerinde-25-indirim-l-bbcd0e5",
+   "durum": "aktif",
+   "eklenme": "2026-11-20",
+   "guncellenme": "2026-11-20"
+  },
+  {
+   "id": "macrocenter-10-30-kasim-green-life-caylarda-10-indirim-l-bbcd011",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "10 - 30 Kasım Green Life Çaylarda %10 İndirim!",
+   "ozet": "10 - 30 Kasım Green Life Çaylarda %10 İndirim!",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-10",
+   "bitis": "2026-12-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/10-30-kasim-green-life-caylarda-10-indirim-l-bbcd011",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-20"
