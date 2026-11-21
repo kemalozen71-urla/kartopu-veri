@@ -6,8 +6,11 @@
   "world": 92,
   "paraf": 200,
   "axess": 144,
-  "migros": 42,
-  "detay_okunan": 0
+  "migros": 41,
+  "detay_okunan": 0,
+  "kirik_baglanti": 0,
+  "kontrol_edilemeyen": 127,
+  "kontrol_suresi_sn": 703
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -27715,7 +27718,7 @@
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/secili-atistirmaliklarda-ayni-urunden-4-al-2-ode-l-bbcd28a",
+   "kaynak_url": "https://www.migros.com.tr/hemen/secili-atistirmaliklarda-ayni-urunden-4-al-2-ode-l-bbcd28a",
    "durum": "aktif",
    "eklenme": "2026-11-21",
    "guncellenme": "2026-11-21"
@@ -27744,36 +27747,7 @@
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/nestle-ve-damak-cikolatalarda-2-al-1-ode-l-bbcd211",
-   "durum": "aktif",
-   "eklenme": "2026-11-20",
-   "guncellenme": "2026-11-21"
-  },
-  {
-   "id": "migros-kampanyalar",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "indirim",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Migros"
-   ],
-   "baslik": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
-   "ozet": "Kırtasiye Ürünlerinde 2 Al 1 Öde",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": null,
-   "bitis": null,
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/kampanyalar",
+   "kaynak_url": "https://www.migros.com.tr/hemen/nestle-ve-damak-cikolatalarda-2-al-1-ode-l-bbcd211",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-21"
@@ -27802,7 +27776,7 @@
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/kahve-ve-cay-makinelerinde-30-indirim-l-bbcd24d",
+   "kaynak_url": "https://www.migros.com.tr/elektronik/kahve-ve-cay-makinelerinde-30-indirim-l-bbcd24d",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-21"
@@ -27831,7 +27805,7 @@
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/kisisel-bakim-ve-tiras-urunlerinde-30-indirim-l-bbcd251",
+   "kaynak_url": "https://www.migros.com.tr/elektronik/kisisel-bakim-ve-tiras-urunlerinde-30-indirim-l-bbcd251",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-21"
@@ -27860,7 +27834,7 @@
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/mutfak-kucuk-ev-aletlerinde-30-indirim-l-bbcd24f",
+   "kaynak_url": "https://www.migros.com.tr/elektronik/mutfak-kucuk-ev-aletlerinde-30-indirim-l-bbcd24f",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-21"
@@ -27889,7 +27863,7 @@
    "katilim_kanali": null,
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/dikey-supurgelerde-30-indirim-l-bbcd24e",
+   "kaynak_url": "https://www.migros.com.tr/elektronik/dikey-supurgelerde-30-indirim-l-bbcd24e",
    "durum": "aktif",
    "eklenme": "2026-11-20",
    "guncellenme": "2026-11-21"
