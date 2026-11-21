@@ -32,6 +32,15 @@
   "diger": "Diğer"
  },
  "buyuk_magazalar": {
+  "market": [
+   "Migros",
+   "CarrefourSA",
+   "A101",
+   "ŞOK",
+   "BİM",
+   "Macrocenter",
+   "Getir"
+  ],
   "e-ticaret": [
    "Amazon",
    "Trendyol",
@@ -48,15 +57,6 @@
    "Vatan Bilgisayar",
    "İncehesap",
    "Apple Store"
-  ],
-  "market": [
-   "Migros",
-   "CarrefourSA",
-   "A101",
-   "ŞOK",
-   "BİM",
-   "Macrocenter",
-   "Getir"
   ]
  },
  "brosurler": [
