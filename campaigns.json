@@ -6,11 +6,11 @@
   "world": 92,
   "paraf": 200,
   "axess": 144,
-  "migros": 39,
+  "migros": 44,
   "detay_okunan": 0,
   "kirik_baglanti": 0,
-  "kontrol_edilemeyen": 136,
-  "kontrol_suresi_sn": 796
+  "kontrol_edilemeyen": 137,
+  "kontrol_suresi_sn": 650
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -26966,6 +26966,122 @@
    "guncellenme": "2026-11-22"
   },
   {
+   "id": "migros-liste-money-indirimli-market-urunleri-dt-5",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Money İndirimli Market Ürünleri · 2.857 ürün",
+   "ozet": "Migros Sanal Market'te şu an 2.857 üründe money'e özel indirimli fiyat. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/money-indirimli-market-urunleri-dt-5",
+   "durum": "aktif",
+   "eklenme": "2026-11-22",
+   "guncellenme": "2026-11-22"
+  },
+  {
+   "id": "migros-liste-coklu-indirim-kampanyalari-ve-hediyeli-urunler-dt-1",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Çoklu İndirim Kampanyaları ve Hediyeli Ürünler · 166 ürün",
+   "ozet": "Migros Sanal Market'te şu an 166 üründe 2 al 1 öde, 3 al 2 öde ve hediyeli ürünler. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/coklu-indirim-kampanyalari-ve-hediyeli-urunler-dt-1",
+   "durum": "aktif",
+   "eklenme": "2026-11-22",
+   "guncellenme": "2026-11-22"
+  },
+  {
+   "id": "migros-liste-migroskop-urunleri-dt-3",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.807 ürün",
+   "ozet": "Migros Sanal Market'te şu an 1.807 üründe migroskop dönemi fırsatları. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/migroskop-urunleri-dt-3",
+   "durum": "aktif",
+   "eklenme": "2026-11-22",
+   "guncellenme": "2026-11-22"
+  },
+  {
+   "id": "migros-liste-tum-indirimli-urunler-dt-0",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Tüm İndirimli Ürünler · 5.915 ürün",
+   "ozet": "Migros Sanal Market'te şu an 5.915 üründe sanal Market'teki tüm indirimli ürünler. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/tum-indirimli-urunler-dt-0",
+   "durum": "aktif",
+   "eklenme": "2026-11-22",
+   "guncellenme": "2026-11-22"
+  },
+  {
    "id": "migros-cekirdek-filtre-kapsul-ve-hazir-kahve-cesitlerinde-2-al-1-ode-l-bbcd29a",
    "program": "migros",
    "kaynak_turu": "market",
@@ -26992,6 +27108,35 @@
    "kaynak_url": "https://www.migros.com.tr/cekirdek-filtre-kapsul-ve-hazir-kahve-cesitlerinde-2-al-1-ode-l-bbcd29a",
    "durum": "aktif",
    "eklenme": "2026-11-22",
+   "guncellenme": "2026-11-22"
+  },
+  {
+   "id": "migros-cipslerde-3-al-2-ode-l-bbcd24b",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Cipslerde 3 AL 2 ÖDE",
+   "ozet": "21-22 Kasım tarihleri arasında listede yer alan cipslerde 3 AL 2 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete listede yer alan ürünlerden 3 adet eklenmesi gerekmektedir. Farklı satış fiyatına sahip ürünler sepete eklendiğinde indirim sepetteki en düşük fiyatlı ürüne uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanyadaki indirim, farklı ürünler alındığında sepetteki en düşük fiyatlı ürüne uygulanacaktır.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-21",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/cipslerde-3-al-2-ode-l-bbcd24b",
+   "durum": "aktif",
+   "eklenme": "2026-11-21",
    "guncellenme": "2026-11-22"
   },
   {
@@ -27282,35 +27427,6 @@
    "kaynak_url": "https://www.migros.com.tr/bolca-taze-hindi-urunlerinde-25-indirim-l-bbcd25d",
    "durum": "aktif",
    "eklenme": "2026-11-20",
-   "guncellenme": "2026-11-22"
-  },
-  {
-   "id": "migros-cipslerde-3-al-2-ode-l-bbcd24b",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "indirim",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Migros"
-   ],
-   "baslik": "Cipslerde 3 AL 2 ÖDE",
-   "ozet": "21-22 Kasım tarihleri arasında listede yer alan cipslerde 3 AL 2 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete listede yer alan ürünlerden 3 adet eklenmesi gerekmektedir. Farklı satış fiyatına sahip ürünler sepete eklendiğinde indirim sepetteki en düşük fiyatlı ürüne uygulanacaktır. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanyadaki indirim, farklı ürünler alındığında sepetteki en düşük fiyatlı ürüne uygulanacaktır.",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-21",
-   "bitis": "2026-11-22",
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/cipslerde-3-al-2-ode-l-bbcd24b",
-   "durum": "aktif",
-   "eklenme": "2026-11-21",
    "guncellenme": "2026-11-22"
   },
   {
@@ -27862,6 +27978,35 @@
    "kaynak_url": "https://www.macrocenter.com.tr/21-22-kasim-cipslerde-3-alin-2-odeyin-l-bbcd286",
    "durum": "aktif",
    "eklenme": "2026-11-21",
+   "guncellenme": "2026-11-22"
+  },
+  {
+   "id": "macrocenter-21-22-kasim-tazedirekt-meyve-sebzelerinde-15-indirim-l-bbcd287",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Macrocenter"
+   ],
+   "baslik": "21 - 22 Kasım Tazedirekt Meyve & Sebzelerinde %15 İndirim!",
+   "ozet": "Listede yer alan ürünlerde geçerlidir.",
+   "kazanc": {
+    "deger": 15.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-21",
+   "bitis": "2026-11-22",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.macrocenter.com.tr/21-22-kasim-tazedirekt-meyve-sebzelerinde-15-indirim-l-bbcd287",
+   "durum": "aktif",
+   "eklenme": "2026-11-22",
    "guncellenme": "2026-11-22"
   },
   {
