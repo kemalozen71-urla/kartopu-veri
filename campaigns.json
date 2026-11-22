@@ -6,11 +6,11 @@
   "world": 92,
   "paraf": 200,
   "axess": 144,
-  "migros": 46,
+  "migros": 45,
   "detay_okunan": 0,
-  "kirik_baglanti": 1,
-  "kontrol_edilemeyen": 62,
-  "kontrol_suresi_sn": 530
+  "kirik_baglanti": 0,
+  "kontrol_edilemeyen": 163,
+  "kontrol_suresi_sn": 474
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -8687,7 +8687,7 @@
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/genel-e-ticaret-maxipuan-kampanyasi",
-   "durum": "kaldirildi",
+   "durum": "aktif",
    "eklenme": "2026-11-17",
    "guncellenme": "2026-11-22",
    "detay_okundu": "2026-11-18",
@@ -28034,35 +28034,6 @@
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.macrocenter.com.tr/21-22-kasim-cipslerde-3-alin-2-odeyin-l-bbcd286",
-   "durum": "aktif",
-   "eklenme": "2026-11-21",
-   "guncellenme": "2026-11-22"
-  },
-  {
-   "id": "macrocenter-21-22-kasim-tazedirekt-meyve-sebzelerinde-15-indirim-l-bbcd287",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "indirim",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Macrocenter"
-   ],
-   "baslik": "21 - 22 Kasım Tazedirekt Meyve & Sebzelerinde %15 İndirim!",
-   "ozet": "Listede yer alan ürünlerde geçerlidir.",
-   "kazanc": {
-    "deger": 15.0,
-    "birim": "yuzde"
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-21",
-   "bitis": "2026-11-22",
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.macrocenter.com.tr/21-22-kasim-tazedirekt-meyve-sebzelerinde-15-indirim-l-bbcd287",
    "durum": "aktif",
    "eklenme": "2026-11-21",
    "guncellenme": "2026-11-22"
