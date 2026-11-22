@@ -8,9 +8,9 @@
   "axess": 144,
   "migros": 44,
   "detay_okunan": 0,
-  "kirik_baglanti": 0,
-  "kontrol_edilemeyen": 137,
-  "kontrol_suresi_sn": 650
+  "kirik_baglanti": 2,
+  "kontrol_edilemeyen": 101,
+  "kontrol_suresi_sn": 575
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -8687,7 +8687,7 @@
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/genel-e-ticaret-maxipuan-kampanyasi",
-   "durum": "aktif",
+   "durum": "kaldirildi",
    "eklenme": "2026-11-17",
    "guncellenme": "2026-11-22",
    "detay_okundu": "2026-11-18",
@@ -12477,7 +12477,7 @@
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/penguen-kitabevinde-taksit-firsati ",
-   "durum": "aktif",
+   "durum": "kaldirildi",
    "eklenme": "2026-11-17",
    "guncellenme": "2026-11-22"
   },
@@ -26976,11 +26976,11 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Money İndirimli Market Ürünleri · 2.857 ürün",
-   "ozet": "Migros Sanal Market'te şu an 2.857 üründe money'e özel indirimli fiyat. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Money ile %63'e varan indirim",
+   "ozet": "Migros Sanal Market'te şu an 2.856 üründe Money'e özel indirimli fiyat var. 787 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
-    "deger": null,
-    "birim": null
+    "deger": 63.0,
+    "birim": "yuzde"
    },
    "min_harcama_tl": null,
    "baslangic": null,
@@ -27006,7 +27006,7 @@
     "Migros"
    ],
    "baslik": "Çoklu İndirim Kampanyaları ve Hediyeli Ürünler · 166 ürün",
-   "ozet": "Migros Sanal Market'te şu an 166 üründe 2 al 1 öde, 3 al 2 öde ve hediyeli ürünler. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "ozet": "Migros Sanal Market'te şu an 166 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -27034,8 +27034,8 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.807 ürün",
-   "ozet": "Migros Sanal Market'te şu an 1.807 üründe migroskop dönemi fırsatları. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.806 ürün",
+   "ozet": "Migros Sanal Market'te şu an 1.806 üründe Migroskop fırsatı var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -27063,8 +27063,8 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Tüm İndirimli Ürünler · 5.915 ürün",
-   "ozet": "Migros Sanal Market'te şu an 5.915 üründe sanal Market'teki tüm indirimli ürünler. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Tüm İndirimli Ürünler · 5.913 ürün",
+   "ozet": "Migros Sanal Market'te şu an 5.913 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
