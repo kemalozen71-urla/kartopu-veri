@@ -1,6 +1,33 @@
 {
- "guncellenme": "2026-11-22",
+ "guncellenme": "2026-11-23",
  "kampanyalar": [
+  {
+   "id": "axess-axesse-ozel-daciada-vade-farksiz-6-aya-varan-taksit-imkni",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Dacia’da vade farksız 6 aya varan taksit imkânı",
+   "ozet": "Axess’e özel 23 Kasım – 28 Aralık 2026’ya arasında kampanyaya 0 3...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-23",
+   "bitis": "2026-12-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-daciada-vade-farksiz-6-aya-varan-taksit-imkni",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-23"
+  },
   {
    "id": "axess-axess-ile-egitim-kurumlarina-ozel-pesin-harcamalariniza-4-taksit",
    "program": "axess",
@@ -26,7 +53,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-egitim-kurumlarina-ozel-pesin-harcamalariniza-4-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-saglik-sektorune-ozel-harcamalariniza-3-taksit",
@@ -53,7 +80,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/saglik-sektorune-ozel-harcamalariniza-3-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-vergi-kurumlarina-ozel-pesin-harcamalariniza-3-taksit",
@@ -80,7 +107,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/vergi-kurumlarina-ozel-pesin-harcamalariniza-3-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-yurt-disi-alisverislerinize-500-tl-chip-para-firsati",
@@ -107,7 +134,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-yurt-disi-alisverislerinize-500-tl-chip-para-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-bkm-mutfak-atolyede-10-indirim",
@@ -134,34 +161,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/bkm-mutfak-atolyede-10-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
-  },
-  {
-   "id": "axess-evede-60-tl-chip-para",
-   "program": "axess",
-   "bankalar": [
-    "Akbank"
-   ],
-   "tur": "puan",
-   "kategori": "diger",
-   "marka": "Eve",
-   "magazalar": [],
-   "baslik": "Eve'de 60 TL chip-para!",
-   "ozet": "1-30 Kasım 2026 arasında Eve'de 600 TL ve üzeri ilk alışverişe 60 TL chip-para!",
-   "kazanc": {
-    "deger": 60.0,
-    "birim": "TL_puan"
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-01",
-   "bitis": "2026-11-30",
-   "katilim_gerekli": true,
-   "katilim_kanali": "Juzdan / SMS",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/evede-60-tl-chip-para",
-   "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-taksitli-alisverislerinize-500-tl-chip-para-",
@@ -188,7 +188,34 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-taksitli-alisverislerinize-500-tl-chip-para-",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
+  },
+  {
+   "id": "axess-evede-60-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Eve",
+   "magazalar": [],
+   "baslik": "Eve'de 60 TL chip-para!",
+   "ozet": "1-30 Kasım 2026 arasında Eve'de 600 TL ve üzeri ilk alışverişe 60 TL chip-para!",
+   "kazanc": {
+    "deger": 60.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/evede-60-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-tefal-ve-wmfde-pesin-fiyatina-6-taksit-firsati",
@@ -215,7 +242,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/tefal-ve-wmfde-pesin-fiyatina-6-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-iphone-duo-cekilisi",
@@ -242,7 +269,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/iphone-duo-cekilisi",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-atasunda-300-tl-chip-para",
@@ -269,7 +296,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-atasunda-300-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-akbank-troy-logolu-kartlariniza-ozel-evideada-300-tl-indirim-firsati",
@@ -296,7 +323,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/akbank-troy-logolu-kartlariniza-ozel-evideada-300-tl-indirim-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-passo-dukkanda-pesin-fiyatina-6-taksit-firsati",
@@ -323,7 +350,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-passo-dukkanda-pesin-fiyatina-6-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-lassada-7-aya-varan-taksit-firsati",
@@ -350,7 +377,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/lassada-7-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-ikeada-pesin-fiyatina-6-aya-varan-taksit-firsati",
@@ -377,7 +404,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/ikeada-pesin-fiyatina-6-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-e-ozel-hepsiburadada-250-tl-chip-para",
@@ -406,7 +433,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-e-ozel-hepsiburadada-250-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-valmentide-5-aya-varan-taksit",
@@ -433,7 +460,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-valmentide-5-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-dailydriveda-30-indirim",
@@ -460,7 +487,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/dailydriveda-30-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axessle-lazzoni-magazalarindan-yapacaginiz-alisverisinizde-9-taksit-firsati",
@@ -487,7 +514,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axessle-lazzoni-magazalarindan-yapacaginiz-alisverisinizde-9-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-n11comda-500-tl-chip-para",
@@ -516,7 +543,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11comda-500-tl-chip-para",
    "durum": "bitti",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-sigorta-harcamalariniza-ozel-pesin-harcamalariniza-2-taksit",
@@ -543,7 +570,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-sigorta-harcamalariniza-ozel-pesin-harcamalariniza-2-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-yatas-beddingde-pesin-fiyatina-7-taksit-firsati",
@@ -570,7 +597,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/yatas-beddingde-pesin-fiyatina-7-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-puffyde-pesin-fiyatina-7-taksit-firsati",
@@ -597,7 +624,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/puffyde-pesin-fiyatina-7-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-enza-homeda-pesin-fiyatina-7-taksit-firsati",
@@ -624,7 +651,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/enza-homeda-pesin-fiyatina-7-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-simdi-basvuran-akbanklilar-10000-tlye-varan-chip-para-kazaniyorlar",
@@ -651,7 +678,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-simdi-basvuran-akbanklilar-10000-tlye-varan-chip-para-kazaniyorlar",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-kasim-indirimlerinde-1500-tl-chip-para-firsati",
@@ -681,7 +708,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-kasim-indirimlerinde-1500-tl-chip-para-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-market-ve-gida-alisverislerinize-1000-tl-chip-para-firsati",
@@ -708,7 +735,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-market-ve-gida-alisverislerinize-1000-tl-chip-para-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-in-street-magazalarinda-10-indirim",
@@ -735,7 +762,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-in-street-magazalarinda-10-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-incehesapcomda-pesin-fiyatina-6-aya-varan-taksit-firsati",
@@ -764,7 +791,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-incehesapcomda-pesin-fiyatina-6-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-korkmazda-pesin-fiyatina-8-taksit",
@@ -791,7 +818,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-korkmazda-pesin-fiyatina-8-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-letgoda-ilanlarin-icin-vitamin-alimlarinda-25-indirim",
@@ -818,7 +845,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-letgoda-ilanlarin-icin-vitamin-alimlarinda-25-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-koton-club-uyelerine-ozel-kotonda-15-indirim-firsati",
@@ -845,7 +872,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-koton-club-uyelerine-ozel-kotonda-15-indirim-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-kingcomtrde-indirim-axess",
@@ -872,7 +899,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/kingcomtrde-indirim-axess",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-kahvecomda-moliendo-kahvelerde-15-indirim-firsati",
@@ -899,7 +926,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/kahvecomda-moliendo-kahvelerde-15-indirim-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-gree-klimada-pesin-fiyatina-10-aya-varan-taksit",
@@ -926,7 +953,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-gree-klimada-pesin-fiyatina-10-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-letgoda-cuzdanim-guvende-ile-yapacagin-alisverisine-200-tl-indirim",
@@ -953,7 +980,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-letgoda-cuzdanim-guvende-ile-yapacagin-alisverisine-200-tl-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-madame-cocoda-400-tl-chip-para",
@@ -980,7 +1007,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-madame-cocoda-400-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-porlandda-500-tl-chip-para",
@@ -1007,7 +1034,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/porlandda-500-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-wwwbizimtoptancomtrde-500-tlye-varan-chip-para",
@@ -1034,7 +1061,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/wwwbizimtoptancomtrde-500-tlye-varan-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-tefal-wmf-magazalarinda-veya-tefalcomtr-wmfcomtrde-yapacaginiz-alisverislerinizde-pesin-fiyatina-6-tak",
@@ -1061,7 +1088,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-tefal-wmf-magazalarinda-veya-tefalcomtr-wmfcomtrde-yapacaginiz-alisverislerinizde-pesin-fiyatina-6-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-otopratikcomtrde-indirim-firsati",
@@ -1088,7 +1115,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-otopratikcomtrde-indirim-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-pazaramada-pesin-fiyatina-3-ve-6-taksit",
@@ -1117,7 +1144,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pazaramada-pesin-fiyatina-3-ve-6-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-bridgestoneda-7-aya-varan-taksit-firsati",
@@ -1144,7 +1171,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/bridgestoneda-7-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axessle-karacada-5-taksit",
@@ -1171,7 +1198,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axessle-karacada-5-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-pttavmde-pesin-fiyatina-2-taksit-firsati",
@@ -1200,7 +1227,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pttavmde-pesin-fiyatina-2-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-porlandda-9-aya-varan-taksit",
@@ -1227,7 +1254,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-porlandda-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-konfor-mobilya-cetmen-mobilya-ve-konfor-yatakta-9-taksit",
@@ -1254,7 +1281,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/konfor-mobilya-cetmen-mobilya-ve-konfor-yatakta-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-juzdan-ile-odeye-ozel-enuyguncomda-secili-otellerde-7500-tlye-varan-chip-para",
@@ -1281,7 +1308,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/juzdan-ile-odeye-ozel-enuyguncomda-secili-otellerde-7500-tlye-varan-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-isparkta-ucretsiz-park-hakki-hediye",
@@ -1308,63 +1335,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-isparkta-ucretsiz-park-hakki-hediye",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
-  },
-  {
-   "id": "axess-axesse-ozel-voltlada-20-indirim",
-   "program": "axess",
-   "bankalar": [
-    "Akbank"
-   ],
-   "tur": "diger",
-   "kategori": "diger",
-   "marka": null,
-   "magazalar": [],
-   "baslik": "Axess'e Özel Voltla'da %20 İndirim!",
-   "ozet": "Axess’e özel 6 – 22 Kasım 2026 tarihleri arasında Voltla’dan şarj...",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-06",
-   "bitis": "2026-11-22",
-   "katilim_gerekli": true,
-   "katilim_kanali": "Juzdan / SMS",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-voltlada-20-indirim",
-   "durum": "aktif",
-   "detay_okundu": "2026-11-22"
-  },
-  {
-   "id": "axess-axess-troy-kartlariniza-ozel-pazaramada-250-tl-indirim",
-   "program": "axess",
-   "bankalar": [
-    "Akbank"
-   ],
-   "tur": "diger",
-   "kategori": "giyim",
-   "marka": "Pazarama",
-   "magazalar": [
-    "Pazarama"
-   ],
-   "baslik": "Axess TROY Kartlarınıza Özel Pazarama’da 250 TL İndirim",
-   "ozet": "Axess TROY kartlarınızla Pazarama’da tek seferde 1.250 TL ve üzeri 250 TL TL...",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": null,
-   "bitis": null,
-   "katilim_gerekli": false,
-   "katilim_kanali": "Juzdan / SMS",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-troy-kartlariniza-ozel-pazaramada-250-tl-indirim",
-   "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-nocturne-magazalarinda-6-aya-varan-taksit",
@@ -1391,7 +1362,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nocturne-magazalarinda-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-mavide-300-tl-chip-para",
@@ -1418,7 +1389,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-mavide-300-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-mavide-6-aya-varan-taksit",
@@ -1445,7 +1416,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-mavide-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ayakkabi-dunyasinda-450-tl-chip-para",
@@ -1472,7 +1443,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ayakkabi-dunyasinda-450-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-onur-market-magazalarinda-100-tl-chip-para",
@@ -1499,7 +1470,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/onur-market-magazalarinda-100-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-rotap-saatte-6-aya-varan-taksit",
@@ -1526,7 +1497,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-rotap-saatte-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-pomellatoda-3-aya-varan-taksit",
@@ -1553,7 +1524,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pomellatoda-3-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-montblancte-6-aya-varan-taksit",
@@ -1580,7 +1551,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-montblancte-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-nisantasi-longines-boutiquete-6-aya-varan-taksit",
@@ -1607,7 +1578,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nisantasi-longines-boutiquete-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-nisantasi-jaeger-lecoultre-boutiquete-6-aya-varan-taksit",
@@ -1634,7 +1605,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nisantasi-jaeger-lecoultre-boutiquete-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-watsons-magazalarinda-150-tlye-varan-chip-para",
@@ -1661,7 +1632,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/watsons-magazalarinda-150-tlye-varan-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-fakirde-9-taksit",
@@ -1688,7 +1659,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/fakirde-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-ozdilekteyimde-3000-tl-ve-uzeri-ilk-alisverisinizde-350-tl-chip-para",
@@ -1715,7 +1686,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/ozdilekteyimde-3000-tl-ve-uzeri-ilk-alisverisinizde-350-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-vitrada-9-aya-varan-taksit",
@@ -1742,7 +1713,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/vitrada-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ayakkabi-dunyasinda-6-aya-varan-taksit",
@@ -1769,7 +1740,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ayakkabi-dunyasinda-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-intemada-9-aya-varan-taksit",
@@ -1796,7 +1767,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/intemada-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-advde-1000-tl-chip-para",
@@ -1823,7 +1794,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-advde-1000-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-damat-tweende-2000-tl-chip-para",
@@ -1850,7 +1821,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-damat-tweende-2000-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ceptesok-istegelsin-uygulamasi-ve-wwwsokmarketcomtrekstrada-pesin-fiyatina-3-taksit",
@@ -1877,7 +1848,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ceptesok-istegelsin-uygulamasi-ve-wwwsokmarketcomtrekstrada-pesin-fiyatina-3-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ds-damatta-1000-tl-chip-para",
@@ -1904,7 +1875,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ds-damatta-1000-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-advde-6-aya-varan-taksit",
@@ -1931,7 +1902,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-advde-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-damat-tweende-6-aya-varan-taksit",
@@ -1958,7 +1929,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-damat-tweende-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ds-damatta-6-aya-varan-taksit",
@@ -1985,7 +1956,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ds-damatta-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-brillantstorecomtrde-gecerli-40-indirim-ve-ucretsiz-kargo-firsati",
@@ -2012,7 +1983,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-brillantstorecomtrde-gecerli-40-indirim-ve-ucretsiz-kargo-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-casper-bilgisayarda-pesin-fiyatina-6-aya-varan-taksit-firsati",
@@ -2039,7 +2010,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/casper-bilgisayarda-pesin-fiyatina-6-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-fg-europe-klimada-12-taksit",
@@ -2066,7 +2037,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-fg-europe-klimada-12-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-daikinde-pesin-fiyatina-9-taksit",
@@ -2093,7 +2064,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/daikinde-pesin-fiyatina-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-lastikcomtrde-indirim-firsati",
@@ -2120,7 +2091,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lastikcomtrde-indirim-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-prometeonda-6-aya-varan-taksit-imkani",
@@ -2147,7 +2118,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/prometeonda-6-aya-varan-taksit-imkani",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-dysonda-pesin-fiyatina-9-taksit",
@@ -2174,7 +2145,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/dysonda-pesin-fiyatina-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-pirellide-6-aya-varan-taksit-imkani",
@@ -2201,7 +2172,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pirellide-6-aya-varan-taksit-imkani",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-obiletcomda-150-tlye-varan-chip-para",
@@ -2228,7 +2199,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-obiletcomda-150-tlye-varan-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-vestelde-pesin-fiyatina-9-taksit",
@@ -2255,7 +2226,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/vestelde-pesin-fiyatina-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-kotonda-300-tl-chip-para",
@@ -2282,7 +2253,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-kotonda-300-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-tumide-3000-tl-chip-para",
@@ -2309,7 +2280,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-tumide-3000-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-samsoniteta-2500-tl-chip-para",
@@ -2336,7 +2307,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-samsoniteta-2500-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-desada-1500-tl-chip-para",
@@ -2363,7 +2334,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-desada-1500-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-reebokta-350-tl-chip-para",
@@ -2390,7 +2361,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-reebokta-350-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-lumberjackte-350-tl-chip-para",
@@ -2417,7 +2388,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lumberjackte-350-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-nine-westte-300-tl-chip-para",
@@ -2444,7 +2415,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nine-westte-300-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-in-streette-400-tl-chip-para",
@@ -2471,7 +2442,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-in-streette-400-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-floda-300-tl-chip-para",
@@ -2498,7 +2469,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-floda-300-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-eera-itopya-magazalarinda-ve-wwwitopyacomda-pesin-fiyatina-5-taksit-firsati",
@@ -2525,7 +2496,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/eera-itopya-magazalarinda-ve-wwwitopyacomda-pesin-fiyatina-5-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ile-konyali-saatte-7-aya-varan-taksit",
@@ -2552,7 +2523,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-konyali-saatte-7-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-carrefoursalarda-pesin-fiyatina-4-taksit",
@@ -2581,7 +2552,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/carrefoursalarda-pesin-fiyatina-4-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-columbiada-9-aya-varan-taksit",
@@ -2608,7 +2579,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-columbiada-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-the-moose-bayde-9-aya-varan-taksit",
@@ -2635,7 +2606,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-the-moose-bayde-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-flocomtrde-500-tl-indirim",
@@ -2662,7 +2633,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-flocomtrde-500-tl-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-lumberjackcomtrde-500-tl-indirim",
@@ -2689,7 +2660,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lumberjackcomtrde-500-tl-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-flo-magazalarinda-15-indirim",
@@ -2716,7 +2687,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-flo-magazalarinda-15-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-instreetcomtrde-700-tl-indirim",
@@ -2743,7 +2714,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-instreetcomtrde-700-tl-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ninewestcomtrde-800-tl-indirim",
@@ -2770,7 +2741,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ninewestcomtrde-800-tl-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-reebokcomtrde-700-tl-indirim",
@@ -2797,7 +2768,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-reebokcomtrde-700-tl-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ozdilekte-pesin-fiyatina-9-taksit",
@@ -2824,7 +2795,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ozdilekte-pesin-fiyatina-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-a101de-pesin-fiyatina-6-aya-varan-taksit",
@@ -2853,7 +2824,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/a101de-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-mielede-pesin-fiyatina-8-aya-varan-taksit",
@@ -2880,7 +2851,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/mielede-pesin-fiyatina-8-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-renaultta-vade-farksiz-6-aya-varan-taksit-imkani",
@@ -2907,7 +2878,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-renaultta-vade-farksiz-6-aya-varan-taksit-imkani",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-ilk-kez-akbank-kredi-kartina-basvuracaklara-egitim-kurumlarina-ozel-pesin-harcamalariniza-7-taksit-firsati",
@@ -2934,7 +2905,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/ilk-kez-akbank-kredi-kartina-basvuracaklara-egitim-kurumlarina-ozel-pesin-harcamalariniza-7-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-nespresso-turkiye-magazalarinda-pesin-fiyatina-6-taksit",
@@ -2961,7 +2932,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nespresso-turkiye-magazalarinda-pesin-fiyatina-6-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-idas-mobilyada-pesin-fiyatina-9-taksit-firsati-",
@@ -2988,7 +2959,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-idas-mobilyada-pesin-fiyatina-9-taksit-firsati-",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-koctasta-5-taksit",
@@ -3015,7 +2986,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/koctasta-5-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-hmde-6-taksit",
@@ -3042,7 +3013,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-hmde-6-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-alfemoda-pesin-fiyatina-9-taksit",
@@ -3069,7 +3040,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-alfemoda-pesin-fiyatina-9-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-sahibindencom-yepyde-pesin-fiyatina-9-aya-varan-taksit",
@@ -3096,7 +3067,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-sahibindencom-yepyde-pesin-fiyatina-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axessle-wwwmonsternotebookcomtr-ve-monster-notebook-magazalarinda-pesin-fiyatina-12-taksit-firsati",
@@ -3123,7 +3094,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axessle-wwwmonsternotebookcomtr-ve-monster-notebook-magazalarinda-pesin-fiyatina-12-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-isbir-yatakta-pesin-fiyatina-9-taksit-",
@@ -3150,7 +3121,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-isbir-yatakta-pesin-fiyatina-9-taksit-",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axess-ogrenci-kartina-simdi-basvuran-akbanklilar-1200-tlye-varan-chip-para-kazaniyor",
@@ -3177,7 +3148,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ogrenci-kartina-simdi-basvuran-akbanklilar-1200-tlye-varan-chip-para-kazaniyor",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ider-mobilyada-9-taksit-firsati-",
@@ -3204,7 +3175,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ider-mobilyada-9-taksit-firsati-",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-pazarama-tatilde-7500-tlye-varan-indirim",
@@ -3233,7 +3204,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/pazarama-tatilde-7500-tlye-varan-indirim",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-ecrouda-pesin-fiyatina-6-aya-varan-taksit",
@@ -3260,7 +3231,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ecrouda-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-korkmazda-pesin-fiyatina-8-taksit-",
@@ -3287,7 +3258,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-korkmazda-pesin-fiyatina-8-taksit-",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-evideada-6ya-varan-taksit-",
@@ -3314,7 +3285,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-evideada-6ya-varan-taksit-",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-vivensede-pesin-fiyatina-9-taksit-firsati",
@@ -3341,7 +3312,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-vivensede-pesin-fiyatina-9-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-schafer-magazalarinda-pesin-fiyatina-9-taksit-firsati",
@@ -3368,7 +3339,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-schafer-magazalarinda-pesin-fiyatina-9-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-theatreclixcomda-yillik-sinirsiz-tiyatro-izleme-paketi-1499-tl",
@@ -3395,7 +3366,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/theatreclixcomda-yillik-sinirsiz-tiyatro-izleme-paketi-1499-tl",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-theatreclixcomda-yerli-ve-yabanci-tiyatrolari-aylik-sinirsiz-izleme-paketi-ilk-ay-139-tl",
@@ -3422,7 +3393,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/theatreclixcomda-yerli-ve-yabanci-tiyatrolari-aylik-sinirsiz-izleme-paketi-ilk-ay-139-tl",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-floda-pesin-fiyatina-6-aya-varan-taksit",
@@ -3449,7 +3420,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-floda-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-desada-6-aya-varan-taksit-firsati",
@@ -3476,7 +3447,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-desada-6-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-tumide-6-aya-varan-taksit-firsati",
@@ -3503,7 +3474,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-tumide-6-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-in-street-te-pesin-fiyatina-6-aya-varan-taksit",
@@ -3530,7 +3501,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-in-street-te-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-lumberjackte-pesin-fiyatina-6-aya-varan-taksit",
@@ -3557,7 +3528,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lumberjackte-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-reebokta-pesin-fiyatina-6-aya-varan-taksit",
@@ -3584,7 +3555,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-reebokta-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-nine-westte-pesin-fiyatina-6-aya-varan-taksit",
@@ -3611,7 +3582,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nine-westte-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-polariste-pesin-fiyatina-6-aya-varan-taksit",
@@ -3638,7 +3609,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-polariste-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-amazoncomtrde-pesin-fiyatina-12-taksit-firsati",
@@ -3667,7 +3638,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-amazoncomtrde-pesin-fiyatina-12-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-egitim-sektoru-kapsaminda-okul-odemelerinde-2-8-taksitli-islemlerde-4-taksit",
@@ -3694,7 +3665,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/egitim-sektoru-kapsaminda-okul-odemelerinde-2-8-taksitli-islemlerde-4-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-enuygunda-tum-yurt-ici-seyahatlerinizde-3-aya-varan-taksit-firsati",
@@ -3721,7 +3692,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/enuygunda-tum-yurt-ici-seyahatlerinizde-3-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-igdas-dogalgaz-faturalariniza-3-taksit-firsati",
@@ -3748,7 +3719,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/igdas-dogalgaz-faturalariniza-3-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-trendyolda-pesin-fiyatina-9-aya-varan-taksit",
@@ -3777,7 +3748,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-trendyolda-pesin-fiyatina-9-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-kotonda-pesin-fiyatina-6-aya-varan-taksit",
@@ -3804,7 +3775,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-kotonda-pesin-fiyatina-6-aya-varan-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-hepsiburadacomda-pesin-fiyatina-12-aya-varan-taksit-firsati",
@@ -3833,7 +3804,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-hepsiburadacomda-pesin-fiyatina-12-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-iklimsada-1500-tl-chip-para",
@@ -3860,7 +3831,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-iklimsada-1500-tl-chip-para",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-teknosada-6-aya-varan-taksit-firsati",
@@ -3889,7 +3860,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/teknosada-6-aya-varan-taksit-firsati",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   },
   {
    "id": "axess-axesse-ozel-n11de-vade-farksiz-6-taksit",
@@ -3919,7 +3890,7 @@
    "haric_kartlar": [],
    "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11de-vade-farksiz-6-taksit",
    "durum": "aktif",
-   "detay_okundu": "2026-11-22"
+   "detay_okundu": "2026-11-23"
   }
  ]
 }
