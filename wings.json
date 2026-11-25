@@ -1,0 +1,4842 @@
+{
+ "guncellenme": "2026-11-25",
+ "kampanyalar": [
+  {
+   "id": "wings-mavide-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Mavi",
+   "magazalar": [],
+   "baslik": "Wings'e Özel Mavi’de 300 TL Chip-Para!",
+   "ozet": "Wings'e Özel Mavi’de 300 TL Chip-Para!",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/mavide-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-hepsiburada-da-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Wings'e Özel Hepsiburada.com’da Peşin Fiyatına 12 Aya Varan Taksit Fırsatı!",
+   "ozet": "Wings'e Özel Hepsiburada.com’da Peşin Fiyatına 12 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-26",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/hepsiburada-da-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-amazonda-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Amazon",
+   "magazalar": [
+    "Amazon"
+   ],
+   "baslik": "Wings'e Özel Amazon.com.tr’de Peşin Fiyatına 9 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel Amazon.com.tr’de Peşin Fiyatına 9 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-10",
+   "bitis": "2026-12-01",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/amazonda-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-trendyol-da-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Trendyol"
+   ],
+   "baslik": "Wings'e Özel Trendyol’da Peşin Fiyatına 9 Aya Varan Taksit!",
+   "ozet": "Wings'e Özel Trendyol’da Peşin Fiyatına 9 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-02",
+   "bitis": "2026-12-02",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/trendyol-da-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-n11-de-vade-farksiz-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "n11",
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Wings'e Özel n11’de Vade Farksız 6 Taksit",
+   "ozet": "Wings'e Özel n11’de Vade Farksız 6 Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-business",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-business-sanalkart"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/n11-de-vade-farksiz-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-floda-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "FLO’da 300 TL Chip-Para!",
+   "ozet": "FLO’da 300 TL Chip-Para!",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/floda-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-brillantstorecomtrde-40-indirim-firsati-tum",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "brillantstore.com.tr’de %40 İndirim Fırsatı!",
+   "ozet": "brillantstore.com.tr’de %40 İndirim Fırsatı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/brillantstorecomtrde-40-indirim-firsati-tum",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wings-ile-yilda-8-yurt-ici-bilet-alabilirsin",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings İle Yılda 8 Yurt İçi Tek Yön Bilet Alabilirsin",
+   "ozet": "Wings İle Yılda 8 Yurt İçi Tek Yön Bilet Alabilirsin",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2025-05-30",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-business"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-yilda-8-yurt-ici-bilet-alabilirsin",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
+  },
+  {
+   "id": "wings-wings-ile-Market-alisverislerinde-100000-mil-puan-21",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Market Alışverişlerinde 100.000 Mil Puan",
+   "ozet": "Wings ile Market Alışverişlerinde 100.000 Mil Puan",
+   "kazanc": {
+    "deger": 100000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-Market-alisverislerinde-100000-mil-puan-21",
+   "durum": "aktif",
+   "banka_kategori": "Gıda/Market"
+  },
+  {
+   "id": "wings-wings-yapi-market-milpuan-nisan",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Mobilya ve Yapı Market Harcamalarında 50.000 Mil Puan!",
+   "ozet": "Wings ile Mobilya ve Yapı Market Harcamalarında 50.000 Mil Puan!",
+   "kazanc": {
+    "deger": 50000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-yapi-market-milpuan-nisan",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wings-ile-seyahat-harcamalarina-mil-puan-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings Seyahat Harcamalarında 50.000 Mil Puan!",
+   "ozet": "Wings Seyahat Harcamalarında 50.000 Mil Puan!",
+   "kazanc": {
+    "deger": 50000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-seyahat-harcamalarina-mil-puan-2026",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
+  },
+  {
+   "id": "wings-sigorta-harcamalariniza-2-taksit-",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "sigorta",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Sigorta Harcamalarınıza Özel Peşin 2 Taksit!",
+   "ozet": "Sigorta Harcamalarınıza Özel Peşin 2 Taksit!",
+   "kazanc": {
+    "deger": 2,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/sigorta-harcamalariniza-2-taksit-",
+   "durum": "aktif",
+   "banka_kategori": "Sigorta/Sağlık"
+  },
+  {
+   "id": "wings-koton-chippara24",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Koton",
+   "magazalar": [],
+   "baslik": "Koton’da 300 TL Chip-Para!",
+   "ozet": "Koton’da 300 TL Chip-Para!",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/koton-chippara24",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-wings-program-guncellemeleri-hakkinda",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings Program Güncellemeleri Hakkında",
+   "ozet": "Wings Program Güncellemeleri Hakkında",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-24",
+   "bitis": "2027-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-program-guncellemeleri-hakkinda",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-wingse-simdi-basvurun-750000-mil-puan-kazanin",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Şimdi Başvurarak 750.000 Mil Puan Kazanabilirsiniz!",
+   "ozet": "Wings'e Şimdi Başvurarak 750.000 Mil Puan Kazanabilirsiniz!",
+   "kazanc": {
+    "deger": 750000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-simdi-basvurun-750000-mil-puan-kazanin",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-wings-ile-giyim-alisverislerine-mil-puan-firsati-1",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Kasım Alışverişlerinde 100.000 Mil Puan!",
+   "ozet": "Wings ile Kasım Alışverişlerinde 100.000 Mil Puan!",
+   "kazanc": {
+    "deger": 100000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-giyim-alisverislerine-mil-puan-firsati-1",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-trendyol-luxete-80000-mil-puan",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Trendyol"
+   ],
+   "baslik": "Trendyol Luxe’te 80.000 Mil Puan!",
+   "ozet": "Trendyol Luxe’te 80.000 Mil Puan!",
+   "kazanc": {
+    "deger": 80000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-16",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/trendyol-luxete-80000-mil-puan",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret"
+  },
+  {
+   "id": "wings-ilk-kez-wings-businessa-basvuranlara-e-ticaret-2026-Yeni",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "İlk kez Wings Business’a Başvuranlara E-Ticaret Harcamalarında 6 Taksit Fırsatı!",
+   "ozet": "İlk kez Wings Business’a Başvuranlara E-Ticaret Harcamalarında 6 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-10",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ilk-kez-wings-businessa-basvuranlara-e-ticaret-2026-Yeni",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret"
+  },
+  {
+   "id": "wings-bkm-mutfak-atolyelerinde-10-indirim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "BKM Mutfak Atölyede %10 İndirim",
+   "ozet": "BKM Mutfak Atölyede %10 İndirim",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/bkm-mutfak-atolyelerinde-10-indirim",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-igdas-odemelerinde-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "fatura",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "İGDAŞ Doğalgaz Faturalarına 3 Taksit Fırsatı!",
+   "ozet": "İGDAŞ Doğalgaz Faturalarına 3 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/igdas-odemelerinde-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-passo-dukkanda-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "eglence",
+   "marka": "Passo",
+   "magazalar": [],
+   "baslik": "Wings’e Özel Passo Dükkan’da Peşin Fiyatına 6 Taksit Fırsatı!",
+   "ozet": "Wings’e Özel Passo Dükkan’da Peşin Fiyatına 6 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/passo-dukkanda-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "E-Ticaret"
+  },
+  {
+   "id": "wings-kredi-karti-limitini-artir",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Kredi Kartı Limitini Artır",
+   "ozet": "Kredi Kartı Limitini Artır",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/kredi-karti-limitini-artir",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv, Ev/Mobilya/Beyaz Eşya, Gıda/Market, Online Alışveriş/Eğlence, Restoran, Turizm/Seyahat"
+  },
+  {
+   "id": "wings-valmentide-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Valmenti'de 5 Aya Varan Taksit Fırsatı!",
+   "ozet": "Wings'e Özel Valmenti'de 5 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-07",
+   "bitis": "2027-03-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/valmentide-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-tamer-tancada-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Tamer Tanca'da 5 Aya Varan Taksit!",
+   "ozet": "Wings'e Özel Tamer Tanca'da 5 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-07",
+   "bitis": "2027-03-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/tamer-tancada-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-yatas-beddingde-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Yataş Bedding",
+   "magazalar": [],
+   "baslik": "Yataş Bedding'de Peşin Fiyatına 7 Taksit Fırsatı!",
+   "ozet": "Yataş Bedding'de Peşin Fiyatına 7 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/yatas-beddingde-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-enza-home-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Enza Home",
+   "magazalar": [],
+   "baslik": "Enza Home'da Peşin Fiyatına 7 Taksit Fırsatı!",
+   "ozet": "Enza Home'da Peşin Fiyatına 7 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/enza-home-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-puffyde-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Puffy",
+   "magazalar": [],
+   "baslik": "Puffy'de Peşin Fiyatına 7 Taksit Fırsatı!",
+   "ozet": "Puffy'de Peşin Fiyatına 7 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/puffyde-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-lazzonide-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Lazzoni'de 9 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel Lazzoni'de 9 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/lazzonide-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-in-street-magazalarinda-indirim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "IN Street Mağazalarında %10 İndirim!",
+   "ozet": "IN Street Mağazalarında %10 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/in-street-magazalarinda-indirim",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-iklimsada-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel İklimsa'da 1.500 TL Chip-Para!",
+   "ozet": "Wings'e Özel İklimsa'da 1.500 TL Chip-Para!",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/iklimsada-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim, Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wings-business-basvurusunda-taksit-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "vergi",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "İlk kez Wings Business’a Başvuranlara Vergi ve Sigorta Harcamalarında 5 Taksit Fırsatı!",
+   "ozet": "İlk kez Wings Business’a Başvuranlara Vergi ve Sigorta Harcamalarında 5 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-25",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings-business"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-business-basvurusunda-taksit-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Sigorta/Sağlık"
+  },
+  {
+   "id": "wings-incehesapcomda-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "İncehesap"
+   ],
+   "baslik": "Wings'e Özel İncehesap.com’da Peşin Fiyatına 6 Aya Varan Taksit Fırsatı!",
+   "ozet": "Wings'e Özel İncehesap.com’da Peşin Fiyatına 6 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/incehesapcomda-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-letgoda-ilanlarin-icin-vitamin-alimlarinda-25-indirim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel letgo'da İlanların için Vitamin Alımlarında %25 İndirim!",
+   "ozet": "Wings'e Özel letgo'da İlanların için Vitamin Alımlarında %25 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/letgoda-ilanlarin-icin-vitamin-alimlarinda-25-indirim",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-wings-ile-otellerde-mil-puan",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Otellerde QR ile Ödemelere 20.000 Mil Puan!",
+   "ozet": "Wings ile Otellerde QR ile Ödemelere 20.000 Mil Puan!",
+   "kazanc": {
+    "deger": 20000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-06",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-otellerde-mil-puan",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
+  },
+  {
+   "id": "wings-atasunda-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Atasun",
+   "magazalar": [],
+   "baslik": "Atasun'da Güneş Gözlüğü Alışverişine 300 TL Chip-Para!",
+   "ozet": "Atasun'da Güneş Gözlüğü Alışverişine 300 TL Chip-Para!",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/atasunda-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-kahvecomda-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": "Kahve.com",
+   "magazalar": [],
+   "baslik": "Kahve.com'da Moliendo Kahvelerde %15 İndirim Fırsatı!",
+   "ozet": "Kahve.com'da Moliendo Kahvelerde %15 İndirim Fırsatı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/kahvecomda-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-wings-ile-taksitli-alisverise-mil-puan",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Taksitli Alışverişe 100.000 Mil Puan!",
+   "ozet": "Wings ile Taksitli Alışverişe 100.000 Mil Puan!",
+   "kazanc": {
+    "deger": 100000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-taksitli-alisverise-mil-puan",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-atu-mil-puan-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "ATÜ Duty Free Mağazalarında 300.000'e varan Mil Puan!",
+   "ozet": "ATÜ Duty Free Mağazalarında 300.000'e varan Mil Puan!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-09",
+   "bitis": "2026-12-09",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/atu-mil-puan-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar, Yurtdışı Kampanyaları"
+  },
+  {
+   "id": "wings-letgoda-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel letgo'da Cüzdanım Güvende ile Yapacağınız Alışverişinize 200 TL İndirim!",
+   "ozet": "Wings'e Özel letgo'da Cüzdanım Güvende ile Yapacağınız Alışverişinize 200 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/letgoda-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-daciada-taksit-imkani",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Dacia",
+   "magazalar": [],
+   "baslik": "Dacia'da Vade Farksız 6 Aya Varan Taksit İmkanı!",
+   "ozet": "Dacia'da Vade Farksız 6 Aya Varan Taksit İmkanı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-23",
+   "bitis": "2026-12-28",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/daciada-taksit-imkani",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-porlandda-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Porland",
+   "magazalar": [],
+   "baslik": "Porland'da 500 TL Chip-Para, Üstelik 9 Aya Varan Taksit Fırsatı!",
+   "ozet": "Porland'da 500 TL Chip-Para, Üstelik 9 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan",
+    "ek_taksit": 9
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/porlandda-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-tefal-ve-wmfte-firsatlar2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Tefal ve WMF",
+   "magazalar": [],
+   "baslik": "Tefal ve WMF'de Peşin Fiyatına 6 Taksit Fırsatı!",
+   "ozet": "Tefal ve WMF'de Peşin Fiyatına 6 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/tefal-ve-wmfte-firsatlar2026",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-wingsten-otopratikcomtrde-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "e-ticaret",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'ten otopratik.com.tr'de Online Ödemeye Özel İndirim Fırsatı!",
+   "ozet": "Wings'ten otopratik.com.tr'de Online Ödemeye Özel İndirim Fırsatı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-04-15",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-business"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingsten-otopratikcomtrde-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-bridgestoneda-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "akaryakit",
+   "marka": "Bridgestone",
+   "magazalar": [],
+   "baslik": "Bridgestone'da 7 Aya Varan Taksit Fırsatı!",
+   "ozet": "Bridgestone'da 7 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/bridgestoneda-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-pttavmde-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "PttAVM",
+   "magazalar": [
+    "PttAVM"
+   ],
+   "baslik": "Wings'e Özel PTTAVM'de Peşin Fiyatına 2 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel PTTAVM'de Peşin Fiyatına 2 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 2,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/pttavmde-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-porlandda-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Porland",
+   "magazalar": [],
+   "baslik": "Porland'da 9 Aya Varan Taksit Fırsatı!",
+   "ozet": "Porland'da 9 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/porlandda-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-konfor-mobilyada-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "mobilya",
+   "marka": "Konfor Mobilya",
+   "magazalar": [],
+   "baslik": "Konfor Mobilya'da 9'a Varan Taksit!",
+   "ozet": "Konfor Mobilya'da 9'a Varan Taksit!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/konfor-mobilyada-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-enuygunda-7500-tlye-varan-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": "Enuygun",
+   "magazalar": [],
+   "baslik": "ENUYGUN'da 7500 TL'ye Varan Chip-Para Fırsatı!",
+   "ozet": "ENUYGUN'da 7500 TL'ye Varan Chip-Para Fırsatı!",
+   "kazanc": {
+    "deger": 7500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-27",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/enuygunda-7500-tlye-varan-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
+  },
+  {
+   "id": "wings-nocturneda-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Nocturne",
+   "magazalar": [],
+   "baslik": "Nocturne'da 6 Aya Varan Taksit!",
+   "ozet": "Nocturne'da 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-03-01",
+   "bitis": "2027-03-01",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/nocturneda-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-nisantasi-jaeger-lecoultre-boutiquete-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Nişantaşı Jaeger-Lecoultre Boutique’te 6 Aya Varan Taksit!",
+   "ozet": "Nişantaşı Jaeger-Lecoultre Boutique’te 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/nisantasi-jaeger-lecoultre-boutiquete-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-pomellatoda-3-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Pomellato",
+   "magazalar": [],
+   "baslik": "Pomellato’da 3 Aya Varan Taksit!",
+   "ozet": "Pomellato’da 3 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/pomellatoda-3-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-rotap-saatte-6-aya-varan-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Rotap Saat",
+   "magazalar": [],
+   "baslik": "Rotap Saat'te 6 Aya Varan Taksit Fırsatı!",
+   "ozet": "Rotap Saat'te 6 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/rotap-saatte-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-nisantasi-longines-boutiquete-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Nişantaşı Longines Boutique’te 6 Aya Varan Taksit",
+   "ozet": "Wings ile Nişantaşı Longines Boutique’te 6 Aya Varan Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/nisantasi-longines-boutiquete-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-mavide-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Mavi",
+   "magazalar": [],
+   "baslik": "Mavi’de 6 Aya Varan Taksit!",
+   "ozet": "Mavi’de 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-03-01",
+   "bitis": "2027-02-28",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/mavide-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-montblancte-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Wings ile Montblanc",
+   "magazalar": [],
+   "baslik": "Wings ile Montblanc’te 6 Aya Varan Taksit!",
+   "ozet": "Wings ile Montblanc’te 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/montblancte-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-ayakkabi-dunyasinda-cp-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Ayakkabı Dünyası",
+   "magazalar": [],
+   "baslik": "Ayakkabı Dünyası'nda 450 TL Chip-Para!",
+   "ozet": "Ayakkabı Dünyası'nda 450 TL Chip-Para!",
+   "kazanc": {
+    "deger": 450.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ayakkabi-dunyasinda-cp-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-watsons-magazalarinda-cp-kampanyasi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Watsons",
+   "magazalar": [],
+   "baslik": "Watsons Mağazalarında 150 TL'ye Varan Chip-Para!",
+   "ozet": "Watsons Mağazalarında 150 TL'ye Varan Chip-Para!",
+   "kazanc": {
+    "deger": 150.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-21",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/watsons-magazalarinda-cp-kampanyasi",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-intemada-9-aya-varan-taksit-firsati-2",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "İntema",
+   "magazalar": [],
+   "baslik": "İntema'da 9 Aya Varan Taksit Fırsatı!",
+   "ozet": "İntema'da 9 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-07",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/intemada-9-aya-varan-taksit-firsati-2",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wingse-ozel-kingcomtrde-indirim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "elektronik",
+   "marka": "King.com.tr",
+   "magazalar": [],
+   "baslik": "King.com.tr'de İndirim!",
+   "ozet": "King.com.tr'de İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-ozel-kingcomtrde-indirim",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-lassada-taksit-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "akaryakit",
+   "marka": "Lassa",
+   "magazalar": [],
+   "baslik": "Lassa'da 7 Aya Varan Taksit Fırsatı!",
+   "ozet": "Lassa'da 7 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/lassada-taksit-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-lastik-indirim-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "<div>Wings’e Özel lastik.com.tr’de İndirim Fırsatı!</div>",
+   "ozet": "<div>Wings’e Özel lastik.com.tr’de İndirim Fırsatı!</div>",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2025-11-19",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/lastik-indirim-2026",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-sunnyde-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Sunny",
+   "magazalar": [],
+   "baslik": "Sunny'de 6 Aya Varan Taksit!",
+   "ozet": "Sunny'de 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/sunnyde-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim, Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-damat-tweende-taksit-firsatlari",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Damat Tween",
+   "magazalar": [],
+   "baslik": "Damat Tween’de 6 Aya Varan Taksit!",
+   "ozet": "Damat Tween’de 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/damat-tweende-taksit-firsatlari",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-ds-damatta-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "D’S damat’ta 6 Aya Varan Taksit!",
+   "ozet": "D’S damat’ta 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ds-damatta-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-adv-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "ADV",
+   "magazalar": [],
+   "baslik": "ADV’de 6 aya varan taksit!",
+   "ozet": "ADV’de 6 aya varan taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/adv-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-damat-tweende-chip-para",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Damat Tween",
+   "magazalar": [],
+   "baslik": "Damat Tween’de 2.000 TL Chip-Para!",
+   "ozet": "Damat Tween’de 2.000 TL Chip-Para!",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/damat-tweende-chip-para",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-ds-damatta-chip-para",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "D’S damat’ta 1.000 TL Chip-Para!",
+   "ozet": "D’S damat’ta 1.000 TL Chip-Para!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ds-damatta-chip-para",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-sokmarkette-pesin-fiyatina-tekstil-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Cepteşok İsteGelsin uygulaması ve www.sokmarket.com.tr/ekstra’da Peşin Fiyatına 3 Taksit!",
+   "ozet": "Cepteşok İsteGelsin uygulaması ve www.sokmarket.com.tr/ekstra’da Peşin Fiyatına 3 Taksit!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/sokmarkette-pesin-fiyatina-tekstil-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-ayakkabi-dunyasinda-6-aya-varan-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Ayakkabı Dünyasında 6 Aya Varan Taksit Fırsatı!",
+   "ozet": "Ayakkabı Dünyasında 6 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-02-23",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ayakkabi-dunyasinda-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-adv-magazalarinda-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "ADV Mağazalarında 1.000 TL Chip-Para!",
+   "ozet": "ADV Mağazalarında 1.000 TL Chip-Para!",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-business"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/adv-magazalarinda-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-casper-bilgisayarda-pesin-fiyatina-6aya-varan-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Casper Bilgisayar",
+   "magazalar": [],
+   "baslik": "Casper Bilgisayar'da Peşin Fiyatına 6 Aya Varan Taksit Fırsatı!",
+   "ozet": "Casper Bilgisayar'da Peşin Fiyatına 6 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/casper-bilgisayarda-pesin-fiyatina-6aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-wings-business-sahibi-olanlar-1000000-mil-puan-kazaniyor",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings Business Sahibi Olanlar 1.000.000 Mil Puan Kazanıyor!",
+   "ozet": "Wings Business Sahibi Olanlar 1.000.000 Mil Puan Kazanıyor!",
+   "kazanc": {
+    "deger": 1000000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-business-sahibi-olanlar-1000000-mil-puan-kazaniyor",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-onur-market-magazalarinda-100-tl-chip-para",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Onur Market Mağazalarında 100 TL Chip-Para!",
+   "ozet": "Onur Market Mağazalarında 100 TL Chip-Para!",
+   "kazanc": {
+    "deger": 100.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-business"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/onur-market-magazalarinda-100-tl-chip-para",
+   "durum": "aktif",
+   "banka_kategori": "Gıda/Market"
+  },
+  {
+   "id": "wings-egitim-4-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Eğitim Kurumlarına Özel Peşin Harcamalarınıza 4 Taksit!",
+   "ozet": "Eğitim Kurumlarına Özel Peşin Harcamalarınıza 4 Taksit!",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/egitim-4-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Eğitim"
+  },
+  {
+   "id": "wings-saglik-sektorune-ozel-pesin-harcamalarina-3-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "saglik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Sağlık Sektörüne Özel Peşin Harcamalarına 3 Taksit!",
+   "ozet": "Sağlık Sektörüne Özel Peşin Harcamalarına 3 Taksit!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-business",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/saglik-sektorune-ozel-pesin-harcamalarina-3-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Sigorta/Sağlık"
+  },
+  {
+   "id": "wings-teknosada-chip-para-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Teknosa",
+   "magazalar": [
+    "Teknosa"
+   ],
+   "baslik": "Wings'e Özel Teknosa’da 1.500 TL Chip-Para!",
+   "ozet": "Wings'e Özel Teknosa’da 1.500 TL Chip-Para!",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-25",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-business",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/teknosada-chip-para-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim"
+  },
+  {
+   "id": "wings-prometeon-taksit-firsatlari-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Prometeon’de 6 Aya Varan Taksit İmkanı",
+   "ozet": "Wings'e Özel Prometeon’de 6 Aya Varan Taksit İmkanı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/prometeon-taksit-firsatlari-2026",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-gree-klimada-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Gree Klima",
+   "magazalar": [],
+   "baslik": "Gree Klima'da Peşin Fiyatına 10 Aya Varan Taksit Fırsatı!",
+   "ozet": "Gree Klima'da Peşin Fiyatına 10 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 10,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/gree-klimada-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-pirellide-taksit-imkani2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Pirelli’de 6 Aya Varan Taksit İmkanı",
+   "ozet": "Wings'e Özel Pirelli’de 6 Aya Varan Taksit İmkanı",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-02",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/pirellide-taksit-imkani2026",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-wingse-ozel-obilet-chippara-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": "Obilet",
+   "magazalar": [],
+   "baslik": "Wings’e Özel Obilet'te 150 TL Chip-Para!",
+   "ozet": "Wings’e Özel Obilet'te 150 TL Chip-Para!",
+   "kazanc": {
+    "deger": 150.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-ozel-obilet-chippara-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
+  },
+  {
+   "id": "wings-karacada-pesin-fiyatina-3-taksit-ekim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Karaca",
+   "magazalar": [],
+   "baslik": "Karaca’da Peşin Fiyatına 5 Taksit!",
+   "ozet": "Karaca’da Peşin Fiyatına 5 Taksit!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/karacada-pesin-fiyatina-3-taksit-ekim",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-vestelde-pesin-fiyatina-taksit-firsati-ekim2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Vestel",
+   "magazalar": [],
+   "baslik": "Vestel'de Peşin Fiyatına 9 Taksit!",
+   "ozet": "Vestel'de Peşin Fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/vestelde-pesin-fiyatina-taksit-firsati-ekim2026",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-daniel-wellingtonda-7-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Daniel Wellington",
+   "magazalar": [],
+   "baslik": "Daniel Wellington’da 7 Aya Varan Taksit!",
+   "ozet": "Daniel Wellington’da 7 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-06-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/daniel-wellingtonda-7-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-isparkta-ucretsiz-parklanma",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel İSPARK'ta Ücretsiz Parklanma Hakkı Hediye!",
+   "ozet": "Wings'e Özel İSPARK'ta Ücretsiz Parklanma Hakkı Hediye!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-06",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/isparkta-ucretsiz-parklanma",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-itopya-magazalarinda-pesin-fiyatina-5-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Eera-İtopya Mağazalarında ve www.itopya.com’da 5 Taksit Fırsatı!",
+   "ozet": "Eera-İtopya Mağazalarında ve www.itopya.com’da 5 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/itopya-magazalarinda-pesin-fiyatina-5-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim"
+  },
+  {
+   "id": "wings-konyali-saatte-7-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Konyalı Saat",
+   "magazalar": [],
+   "baslik": "Konyalı Saat'te 7 Aya Varan Taksit!",
+   "ozet": "Konyalı Saat'te 7 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-06-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/konyali-saatte-7-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-nespresso-turkiye-magazalarinda-pesin-fiyatina-6-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Nespresso Türkiye Mağazalarında Peşin Fiyatına 6 Taksit!",
+   "ozet": "Nespresso Türkiye Mağazalarında Peşin Fiyatına 6 Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-04-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/nespresso-turkiye-magazalarinda-pesin-fiyatina-6-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-the-moose-bayda-9-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "The Moose Bay",
+   "magazalar": [],
+   "baslik": "The Moose Bay’da 9 Aya Varan Taksit!",
+   "ozet": "The Moose Bay’da 9 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/the-moose-bayda-9-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-columbiada-9-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Columbia",
+   "magazalar": [],
+   "baslik": "Columbia’da 9 Aya Varan Taksit!",
+   "ozet": "Columbia’da 9 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/columbiada-9-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-a101-pesin-fiyatina-6-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": "A101",
+   "magazalar": [
+    "A101"
+   ],
+   "baslik": "A101'de Seçili Ürünlerde Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "A101'de Seçili Ürünlerde Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/a101-pesin-fiyatina-6-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Gıda/Market"
+  },
+  {
+   "id": "wings-dyson-da-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Dyson",
+   "magazalar": [],
+   "baslik": "Dyson Peşin Fiyatına 9 Taksit!",
+   "ozet": "Dyson Peşin Fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/dyson-da-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-okul-odemelerinde-4-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Eğitim Sektörü Kapsamında Okul Ödemelerinde 2 - 8 Taksitli İşlemlerde + 4 Taksit!",
+   "ozet": "Eğitim Sektörü Kapsamında Okul Ödemelerinde 2 - 8 Taksitli İşlemlerde + 4 Taksit!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/okul-odemelerinde-4-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Eğitim"
+  },
+  {
+   "id": "wings-idas-mobilyada-9-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel İdaş Mobilya’da Peşin Fiyatına 9 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel İdaş Mobilya’da Peşin Fiyatına 9 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/idas-mobilyada-9-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wings-ile-astoria-avmde-vale-harcamalarinda-da-ayricaliklisiniz",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": "Wings ile Astoria AVM",
+   "magazalar": [],
+   "baslik": "Wings ile Astoria AVM'de Vale Harcamalarında da Ayrıcalıklısınız",
+   "ozet": "Wings ile Astoria AVM'de Vale Harcamalarında da Ayrıcalıklısınız",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-17",
+   "bitis": "2027-09-22",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-business"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-astoria-avmde-vale-harcamalarinda-da-ayricaliklisiniz",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-reebokcomtrde-indirim-firsati-yeni",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "reebok.com.tr’de 700 TL İndirim!",
+   "ozet": "reebok.com.tr’de 700 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/reebokcomtrde-indirim-firsati-yeni",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-ninewestcomtrde-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "ninewest.com.tr’de 800 TL İndirim!",
+   "ozet": "ninewest.com.tr’de 800 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ninewestcomtrde-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-instreetcomtrde-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "Instreet",
+   "magazalar": [],
+   "baslik": "instreet.com.tr’de 700 TL İndirim!",
+   "ozet": "instreet.com.tr’de 700 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/instreetcomtrde-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-hmde-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "H&M",
+   "magazalar": [],
+   "baslik": "H&M’de 6 Taksit!",
+   "ozet": "H&M’de 6 Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-02-15",
+   "bitis": "2027-02-15",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/hmde-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-wings-ile-lumberjackcomtrde-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "kozmetik",
+   "marka": "Wings ile lumberjack.com.tr",
+   "magazalar": [],
+   "baslik": "Wings ile lumberjack.com.tr’de 500 TL İndirim!",
+   "ozet": "Wings ile lumberjack.com.tr’de 500 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-lumberjackcomtrde-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-flo-magazada-15-indirim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "FLO Mağazalarında %15 İndirim!",
+   "ozet": "FLO Mağazalarında %15 İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/flo-magazada-15-indirim",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-flocomtrde-indirim-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "Flo.com.tr’de 500 TL İndirim!",
+   "ozet": "Flo.com.tr’de 500 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/flocomtrde-indirim-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-monsterda-pesin-fiyatina-12-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Monster",
+   "magazalar": [],
+   "baslik": "Monster'da Peşin Fiyatına 12 Taksit Fırsatı!",
+   "ozet": "Monster'da Peşin Fiyatına 12 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/monsterda-pesin-fiyatina-12-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim"
+  },
+  {
+   "id": "wings-lumberjackte-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Lumberjack",
+   "magazalar": [],
+   "baslik": "Lumberjack’te 350 TL Chip-Para!",
+   "ozet": "Lumberjack’te 350 TL Chip-Para!",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/lumberjackte-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-reebokta-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Reebok",
+   "magazalar": [],
+   "baslik": "Reebok’ta 350 TL Chip-Para!",
+   "ozet": "Reebok’ta 350 TL Chip-Para!",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/reebokta-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-pazarama-tatilde-indirim-01",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Wings'e Özel Pazarama Tatil'de 7.500 TL'ye Varan İndirim!",
+   "ozet": "Wings'e Özel Pazarama Tatil'de 7.500 TL'ye Varan İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/pazarama-tatilde-indirim-01",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
+  },
+  {
+   "id": "wings-korkmazda-pesin-fiyatina-taksit-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Korkmaz",
+   "magazalar": [],
+   "baslik": "Wings'e Özel Korkmaz’da Peşin Fiyatına 8 Taksit!",
+   "ozet": "Wings'e Özel Korkmaz’da Peşin Fiyatına 8 Taksit!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/korkmazda-pesin-fiyatina-taksit-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-teknosada-6-aya-varan-taksit-ayricaligi-0324",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Teknosa",
+   "magazalar": [
+    "Teknosa"
+   ],
+   "baslik": "Teknosa'da 6 Aya Varan Taksit Ayrıcalığı!",
+   "ozet": "Teknosa'da 6 Aya Varan Taksit Ayrıcalığı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/teknosada-6-aya-varan-taksit-ayricaligi-0324",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim"
+  },
+  {
+   "id": "wings-wingse-ozel-tumide-chip-para-firsati0",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Tumi",
+   "magazalar": [],
+   "baslik": "Tumi'de 3.000 TL Chip-Para!",
+   "ozet": "Tumi'de 3.000 TL Chip-Para!",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-ozel-tumide-chip-para-firsati0",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar, Turizm/Seyahat"
+  },
+  {
+   "id": "wings-samsoniteta-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Samsonite",
+   "magazalar": [],
+   "baslik": "Samsonite'ta 2.500 TL Chip-Para!",
+   "ozet": "Samsonite'ta 2.500 TL Chip-Para!",
+   "kazanc": {
+    "deger": 2500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/samsoniteta-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-desada-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Desa",
+   "magazalar": [],
+   "baslik": "Desa’da 1.500 TL Chip-Para!",
+   "ozet": "Desa’da 1.500 TL Chip-Para!",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/desada-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-samsoniteta-6-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Samsonite",
+   "magazalar": [],
+   "baslik": "Samsonite’ta 6 Aya Varan Taksit!",
+   "ozet": "Samsonite’ta 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/samsoniteta-6-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-tumide-6-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Tumi",
+   "magazalar": [],
+   "baslik": "Tumi’de 6 Aya Varan Taksit!",
+   "ozet": "Tumi’de 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/tumide-6-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar, Turizm/Seyahat"
+  },
+  {
+   "id": "wings-desada-6-taksit-firsati00",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Desa",
+   "magazalar": [],
+   "baslik": "Desa’da 6 Aya Varan Taksit!",
+   "ozet": "Desa’da 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/desada-6-taksit-firsati00",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-nine-westte-chip-para-firsati-1",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Nine West",
+   "magazalar": [],
+   "baslik": "Nine West’te 300 TL Chip-Para!",
+   "ozet": "Nine West’te 300 TL Chip-Para!",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/nine-westte-chip-para-firsati-1",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-in-streette-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "IN Street",
+   "magazalar": [],
+   "baslik": "IN Street'te 400 TL Chip-Para!",
+   "ozet": "IN Street'te 400 TL Chip-Para!",
+   "kazanc": {
+    "deger": 400.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/in-streette-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-reebokta-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Reebok",
+   "magazalar": [],
+   "baslik": "Reebok’ta Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "Reebok’ta Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/reebokta-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-polariste-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Polaris",
+   "magazalar": [],
+   "baslik": "Polaris’te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "Polaris’te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/polariste-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-nine-westte-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Nine West",
+   "magazalar": [],
+   "baslik": "Nine West’te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "Nine West’te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/nine-westte-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-lumberjackte-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Lumberjack",
+   "magazalar": [],
+   "baslik": "Lumberjack’te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "Lumberjack’te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/lumberjackte-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-in-streette-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "IN Street",
+   "magazalar": [],
+   "baslik": "IN Street'te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "IN Street'te Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/in-streette-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-floda-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "FLO’da Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "FLO’da Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/floda-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-wings-ile-vergi-odemelerinizde-ayricaliklisiniz-1123",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "vergi",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Vergi Kurumlarına Özel Peşin Harcamalarınıza 3 Taksit!",
+   "ozet": "Vergi Kurumlarına Özel Peşin Harcamalarınıza 3 Taksit!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-ek-kart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-vergi-odemelerinizde-ayricaliklisiniz-1123",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-pazaramada-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Wings'e Özel Pazarama'da Peşin Fiyatına 3 ve 6 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel Pazarama'da Peşin Fiyatına 3 ve 6 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/pazaramada-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-ecrou-pesin-6-taksit-24",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": "Ecrou",
+   "magazalar": [],
+   "baslik": "Ecrou’da Peşin Fiyatına 6 Aya Varan Taksit!",
+   "ozet": "Ecrou’da Peşin Fiyatına 6 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-13",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ecrou-pesin-6-taksit-24",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-sahibindencom-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel sahibinden.com/Yepy’de Taksit Fırsatı!",
+   "ozet": "Wings'e Özel sahibinden.com/Yepy’de Taksit Fırsatı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/sahibindencom-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim, Online Alışveriş/Eğlence, Diğer"
+  },
+  {
+   "id": "wings-bankacilik-islemlerinde-ayricaliklisin",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Bankacılık İşlemlerinde Ayrıcalıklısın",
+   "ozet": "Bankacılık İşlemlerinde Ayrıcalıklısın",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/bankacilik-islemlerinde-ayricaliklisin",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-wings-seyahat-sigortasi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "saglik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings Seyahat Sağlık Sigortası",
+   "ozet": "Wings Seyahat Sağlık Sigortası",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-seyahat-sigortasi",
+   "durum": "aktif",
+   "banka_kategori": "Yurtdışı Kampanyaları"
+  },
+  {
+   "id": "wings-theatreclixcomda-tiyatro-aboneligi-139-TL",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel TheatreClix.com'da Yerli, Yabancı, Yetişkin, Çocuk Tiyatroları 139 TL!",
+   "ozet": "Wings'e Özel TheatreClix.com'da Yerli, Yabancı, Yetişkin, Çocuk Tiyatroları 139 TL!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/theatreclixcomda-tiyatro-aboneligi-139-TL",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence, Diğer"
+  },
+  {
+   "id": "wings-enuygunda-3-aya-varan-taksit-",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "seyahat",
+   "marka": "Enuygun",
+   "magazalar": [],
+   "baslik": "ENUYGUN'da Yurt İçi Seyahatlerinizde 3 Taksit Fırsatı!",
+   "ozet": "ENUYGUN'da Yurt İçi Seyahatlerinizde 3 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-02-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/enuygunda-3-aya-varan-taksit-",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence, Turizm/Seyahat"
+  },
+  {
+   "id": "wings-bizimtoptan-chip-para-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "www.bizimtoptan.com.tr’de 500 TL'ye Varan Chip-Para!",
+   "ozet": "www.bizimtoptan.com.tr’de 500 TL'ye Varan Chip-Para!",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/bizimtoptan-chip-para-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence, Restoran"
+  },
+  {
+   "id": "wings-saglikli-yasam-harcamalarinizda-1000-tl-indirim-ayricaligi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "saglik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Sağlıklı Yaşam Harcamalarınızda Ayda 1.000 TL’ye Varan İndirim!",
+   "ozet": "Sağlıklı Yaşam Harcamalarınızda Ayda 1.000 TL’ye Varan İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/saglikli-yasam-harcamalarinizda-1000-tl-indirim-ayricaligi",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-daikinde-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Daikin",
+   "magazalar": [],
+   "baslik": "Daikin'de Peşin Fiyatına 9 Taksit!",
+   "ozet": "Daikin'de Peşin Fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/daikinde-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wings-ile-vivense-de-9-taksit-11-24",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Vivense",
+   "magazalar": [],
+   "baslik": "Vivense’de Peşin Fiyatına 9 Taksit!",
+   "ozet": "Vivense’de Peşin Fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-vivense-de-9-taksit-11-24",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wings-e-ozel-madame-coco-da-350-tl-cp-23",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "mobilya",
+   "marka": "Madame Coco",
+   "magazalar": [],
+   "baslik": "Madame Coco'da 400 TL Chip-Para, Üstelik Peşin Fiyatına 3 Taksit!",
+   "ozet": "Madame Coco'da 400 TL Chip-Para, Üstelik Peşin Fiyatına 3 Taksit!",
+   "kazanc": {
+    "deger": 400.0,
+    "birim": "TL_puan",
+    "ek_taksit": 3
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-e-ozel-madame-coco-da-350-tl-cp-23",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-theatreclixcomda-yillik-sinirsiz-tiyatro-izleme-paketi-1499-tl",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel TheatreClix.com'da Yıllık Sınırsız Tiyatro İzleme Paketi 1.499 TL!",
+   "ozet": "Wings'e Özel TheatreClix.com'da Yıllık Sınırsız Tiyatro İzleme Paketi 1.499 TL!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/theatreclixcomda-yillik-sinirsiz-tiyatro-izleme-paketi-1499-tl",
+   "durum": "aktif",
+   "banka_kategori": "Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-kotonda-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Koton",
+   "magazalar": [],
+   "baslik": "Koton'da Peşin Fiyatına 6 Aya Varan Taksit",
+   "ozet": "Koton'da Peşin Fiyatına 6 Aya Varan Taksit",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/kotonda-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-ozdilek-te-pesin-fiyatina-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "kozmetik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Özdilek'te Peşin Fiyatına 9 Taksit!",
+   "ozet": "Wings'e Özel Özdilek'te Peşin Fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2027-01-03",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ozdilek-te-pesin-fiyatina-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-wings-ile-koctasta-5-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Koçtaş",
+   "magazalar": [],
+   "baslik": "Wings'e Özel Koçtaş'ta 5 Taksit!",
+   "ozet": "Wings'e Özel Koçtaş'ta 5 Taksit!",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-business",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-koctasta-5-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wingse-ozel-vitrada-taksit-ayricaligi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "VitrA",
+   "magazalar": [],
+   "baslik": "VitrA'da 9 Aya Varan Taksit!",
+   "ozet": "VitrA'da 9 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-08",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-ozel-vitrada-taksit-ayricaligi",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-ozdilekte-chip-para-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Özdilek Mağazalarında ve Marketlerinde 350 TL Chip-Para!",
+   "ozet": "Özdilek Mağazalarında ve Marketlerinde 350 TL Chip-Para!",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-17",
+   "bitis": "2026-12-17",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ozdilekte-chip-para-firsati",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-carrefoursa-larda-taksit-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": "CarrefourSA",
+   "magazalar": [
+    "CarrefourSA"
+   ],
+   "baslik": "CarrefourSA’larda Peşin Fiyatına 4 Taksit!",
+   "ozet": "CarrefourSA’larda Peşin Fiyatına 4 Taksit!",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/carrefoursa-larda-taksit-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Gıda/Market"
+  },
+  {
+   "id": "wings-renault-vade-farksiz-aya-varan-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "akaryakit",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Renault’ta Vade Farksız 6 Aya Varan Taksit İmkanı!",
+   "ozet": "Wings'e Özel Renault’ta Vade Farksız 6 Aya Varan Taksit İmkanı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-23",
+   "bitis": "2026-12-28",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/renault-vade-farksiz-aya-varan-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Akaryakıt/Otomotiv"
+  },
+  {
+   "id": "wings-ider-mobilyada-indirim-ve-9-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel İder Mobilya’da 9 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel İder Mobilya’da 9 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/ider-mobilyada-indirim-ve-9-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wingste-isbir-yatakta-9-taksit-",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel İşbir Yatak'ta Peşin Fiyatına 9 Taksit!",
+   "ozet": "Wings'e Özel İşbir Yatak'ta Peşin Fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingste-isbir-yatakta-9-taksit-",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-fakir-vade-farksiz-taksit-ayricaligi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Fakir",
+   "magazalar": [],
+   "baslik": "Fakir'de 9 Taksit Fırsatı!",
+   "ozet": "Fakir'de 9 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-08-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/fakir-vade-farksiz-taksit-ayricaligi",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wingse-ozel-evidea-taksit-ayricaligi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Evidea'da 6’ya varan Taksit!",
+   "ozet": "Wings'e Özel Evidea'da 6’ya varan Taksit!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-ozel-evidea-taksit-ayricaligi",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya, Online Alışveriş/Eğlence"
+  },
+  {
+   "id": "wings-eft-havale",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Tüm Ödemeler Wings’le Daha Kolay",
+   "ozet": "Tüm Ödemeler Wings’le Daha Kolay",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2016-05-02",
+   "bitis": "2039-12-23",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/eft-havale",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-wings-ile-schafer-da-9-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Schafer Mağazalarında Peşin Fiyatına 9 Aya Varan Taksit Fırsatı!",
+   "ozet": "Schafer Mağazalarında Peşin Fiyatına 9 Aya Varan Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-schafer-da-9-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-evede-60tl-chip-para",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Eve",
+   "magazalar": [],
+   "baslik": "Eve'de 60 TL Chip-Para!",
+   "ozet": "Eve'de 60 TL Chip-Para!",
+   "kazanc": {
+    "deger": 60.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/evede-60tl-chip-para",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-wings-ten-restoran-qr-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "mil",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings ile Restoranlarda QR ile Ödemelere 20.000 Mil Puan!",
+   "ozet": "Wings ile Restoranlarda QR ile Ödemelere 20.000 Mil Puan!",
+   "kazanc": {
+    "deger": 20000.0,
+    "birim": "mil"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-06",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ten-restoran-qr-2026",
+   "durum": "aktif",
+   "banka_kategori": ""
+  },
+  {
+   "id": "wings-wingsten-ucuran-ayricaliklar",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings’ten Uçuran Ayrıcalıklar",
+   "ozet": "Wings’ten Uçuran Ayrıcalıklar",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2016-04-30",
+   "bitis": "2030-12-21",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingsten-ucuran-ayricaliklar",
+   "durum": "aktif",
+   "banka_kategori": "Diğer"
+  },
+  {
+   "id": "wings-wings-ile-ikea-da-pesin-fiyatina-6ay-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "mobilya",
+   "marka": "IKEA",
+   "magazalar": [],
+   "baslik": "Wings ile IKEA'da Peşin Fiyatına 6 Ay Taksit Ayrıcalığı",
+   "ozet": "Wings ile IKEA'da Peşin Fiyatına 6 Ay Taksit Ayrıcalığı",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-05",
+   "bitis": "2027-01-04",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-ikea-da-pesin-fiyatina-6ay-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-wingse-ozel-alfemo-da-taksit-ayricaligi",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Wings'e Özel Alfemo'da 9 Taksit!",
+   "ozet": "Wings'e Özel Alfemo'da 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wingse-ozel-alfemo-da-taksit-ayricaligi",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-fg-europe-klima-da-taksit-firsati",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Wings ile FG Europe Klima",
+   "magazalar": [],
+   "baslik": "Wings ile FG Europe Klima'da 12 Taksit!",
+   "ozet": "Wings ile FG Europe Klima'da 12 Taksit!",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/fg-europe-klima-da-taksit-firsati",
+   "durum": "aktif",
+   "banka_kategori": "Elektronik/İletişim, Ev/Mobilya/Beyaz Eşya"
+  },
+  {
+   "id": "wings-miele-de-taksit",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Miele",
+   "magazalar": [],
+   "baslik": "Miele'de 8 Aya Varan Taksit!",
+   "ozet": "Miele'de 8 Aya Varan Taksit!",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-23",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-private",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/miele-de-taksit",
+   "durum": "aktif",
+   "banka_kategori": "Ev/Mobilya/Beyaz Eşya, Online Alışveriş/Eğlence"
+  }
+ ]
+}

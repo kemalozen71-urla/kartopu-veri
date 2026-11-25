@@ -1,0 +1,333 @@
+{
+ "guncellenme": "2026-11-25",
+ "kampanyalar": [
+  {
+   "id": "cardfinans-amazonda-pesin-fiyatina-12-aya-varan-taksit-43725",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Amazon",
+   "magazalar": [
+    "Amazon"
+   ],
+   "baslik": "Amazon'da peşin fiyatına 12 aya varan taksit!",
+   "ozet": "QNB Kredi Kartı’nızla Amazon'dan 30 Kasım 2026’ya kadar yapacağınız 4.000 TL ve üzeri alışverişlerinize peşin fiyatına 6, 6.000 TL ve üzeri alışverişlerinize peşin fiyatına 9 taksit, 30.000 TL ve üzeri seçili ürün alışverişlerinize peşin fiyatına 12 fırsatı!",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": 4000.0,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/amazonda-pesin-fiyatina-12-aya-varan-taksit-43725",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-benettonda-600-tl-parapuan-ve-3-taksit-43703",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Benetton",
+   "magazalar": [],
+   "baslik": "Benetton’da 600 TL ParaPuan ve 3 taksit!",
+   "ozet": "QNB Kredi Kartı’nızla 10-30 Kasım 2026 tarihleri arasında Benetton mağazalarından veya tr.benetton.com’dan tek seferde yapacağınız 6.000 TL ve üzeri ilk alışverişinize QNB üye işyerlerinde geçerli 600 TL ParaPuan!",
+   "kazanc": {
+    "deger": 600.0,
+    "birim": "TL_puan",
+    "ek_taksit": 3
+   },
+   "min_harcama_tl": 6000.0,
+   "baslangic": "2026-11-10",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/benettonda-600-tl-parapuan-ve-3-taksit-43703",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-ellede-500-tl-parapuan-ve-6-taksit-43607",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Elle",
+   "magazalar": [],
+   "baslik": "Elle’de 500 TL ParaPuan ve 6 taksit!",
+   "ozet": "QNB Kredi Kartı’nızla 05 - 30 Kasım 2026 tarihleri arasında Elle mağazalarından veya elleshoes.com’dan tek seferde yapacağınız 9.000 TL ve üzeri ilk alışverişinize anlaşmalı QNB üye işyerlerinde geçerli 500 TL ParaPuan!",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan",
+    "ek_taksit": 6
+   },
+   "min_harcama_tl": 9000.0,
+   "baslangic": "2026-11-05",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/ellede-500-tl-parapuan-ve-6-taksit-43607",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-greyderde-750-tl-parapuan-43483",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Greyder",
+   "magazalar": [],
+   "baslik": "Greyder’de 750 TL ParaPuan!",
+   "ozet": "QNB Kredi Kartı’nızla 20 Ekim-30 Kasım 2026 tarihleri arasında Greyder mağazalarından veya www.greyder.com.tr ’den tek seferde yapacağınız 10.000 TL ve üzeri ilk alışverişinize anlaşmalı QNB üye işyerlerinde geçerli 750 TL ParaPuan!",
+   "kazanc": {
+    "deger": 750.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 10000.0,
+   "baslangic": "2026-10-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/greyderde-750-tl-parapuan-43483",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-hepsiburadada-pesin-fiyatina-6-taksit-43589",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Hepsiburada'da peşin fiyatına 6 taksit!",
+   "ozet": "QNB Kredi Kartı’nızla Hepsiburada'dan 30 Kasım 2026’ya kadar yapacağınız 1.000 TL ve üzeri alışverişlerinize peşin fiyatına 3 taksit, 6.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": 1000.0,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/hepsiburadada-pesin-fiyatina-6-taksit-43589",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-kasim-ayi-e-ticaret-kampanyasi-ile-3500-tlye-varan-parapuan-kazanin-43597",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Amazon",
+    "Hepsiburada",
+    "Trendyol",
+    "n11"
+   ],
+   "baslik": "Kasım Ayı E-Ticaret Kampanyası ile 3.500 TL’ye Varan ParaPuan Kazanın!",
+   "ozet": "QNB bireysel kredi kartlarınızla amazon.com.tr, hepsiburada, n11 ve trendyol.com web sitesi veya mobil uygulamalarından 30 Kasım'a kadar yapacağınız her 2.500 TL ve üzeri harcamanızda 250 TL, toplamda 2.500 TL'ye varan ParaPuan kazanabilirsiniz.",
+   "kazanc": {
+    "deger": 3500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 2500.0,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/kasim-ayi-e-ticaret-kampanyasi-ile-3500-tlye-varan-parapuan-kazanin-43597",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-kotonda-300-tl-parapuan-ve-6-taksit-43583",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Koton",
+   "magazalar": [],
+   "baslik": "Koton'da 300 TL ParaPuan ve 6 taksit!",
+   "ozet": "QNB Kredi Kartı’nızla 05-30 Kasım 2026 tarihleri arasında Koton mağazalarından veya koton.com’dan tek seferde yapacağınız 3.000 TL ve üzeri ilk alışverişinize anlaşmalı QNB üye işyerlerinde geçerli 300 TL ParaPuan!",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan",
+    "ek_taksit": 6
+   },
+   "min_harcama_tl": 3000.0,
+   "baslangic": "2026-11-05",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/kotonda-300-tl-parapuan-ve-6-taksit-43583",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-qnb-dijital-odeme-cozumleriyle-750-tl-indirim-firsati-43613",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "QNB Dijital Ödeme Çözümleriyle 750 TL İndirim Fırsatı!",
+   "ozet": "QNB Kredi Kartı ve QNB First bireysel kredi kartlarınızla 30 Kasım'a kadar Karekod ile Ödeme veya Mobil Temassız Ödeme (NFC) ile tek seferde yapacağınız her 1.500 TL ve üzeri harcamanıza 50 TL, toplamda 750 TL indirim fırsatı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 1500.0,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/qnb-dijital-odeme-cozumleriyle-750-tl-indirim-firsati-43613",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-qnb-terminal-kadikoy-restoran-harcamalarinda-10dan-baslayan-indirim-42833",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "QNB Terminal Kadıköy Restoran Harcamalarında %10’dan Başlayan İndirim!",
+   "ozet": "QNB Kredi Kartı’nızla QNB Terminal Kadıköy’de seçili restoran ve kafelerde yapacağınız harcamalarda ve 7DE7 mobil uygulamasından yapacağınız cüzdan yüklemelerinizde 1 Temmuz- 31 Aralık 2026 tarihleri arasında %10’dan başlayan indirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/qnb-terminal-kadikoy-restoran-harcamalarinda-10dan-baslayan-indirim-42833",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-secili-yapay-zeka-platformlarinda-300-tlye-varan-parapuan-43451",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "Trendyol"
+   ],
+   "baslik": "Seçili Yapay Zekâ Platformlarında 300 TL’ye Varan ParaPuan!",
+   "ozet": "QNB Bireysel Kredi Kartı'nızla 1-30 Kasım 2026 tarihleri arasında harcama yapmadan önce QNB Mobil/Kampanyalar menüsünden, bankamızda kayıtlı olan cep telefonunuzdan YZEKA yazıp 2273'e SMS göndererek veya 0850 222 09 00 numaralı Çağrı Merkezimizden kayıt olarak, seçili yapay zekâ platformlarından tek",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 750.0,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/secili-yapay-zeka-platformlarinda-300-tlye-varan-parapuan-43451",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-trendyolda-pesin-fiyatina-6-taksit-43579",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Trendyol"
+   ],
+   "baslik": "Trendyol'da peşin fiyatına 6 taksit!",
+   "ozet": "QNB Kredi Kartı’nızla Trendyol’dan 30 Kasım 2026’ya kadar yapacağınız 1.000 TL ve üzeri alışverişlerinize peşin fiyatına 3 taksit, 6.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatı!",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": 1000.0,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/trendyolda-pesin-fiyatina-6-taksit-43579",
+   "durum": "aktif"
+  },
+  {
+   "id": "cardfinans-yves-rocherda-250-tl-parapuan-43687",
+   "program": "cardfinans",
+   "bankalar": [
+    "QNB"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Yves Rocher",
+   "magazalar": [],
+   "baslik": "Yves Rocher'da 250 TL ParaPuan!",
+   "ozet": "QNB Kredi Kartı’nızla 09-30 Kasım 2026 tarihleri arasında Yves Rocher mağazalarından tek seferde yapacağınız 2.500 TL ve üzeri ilk alışverişinize anlaşmalı QNB üye işyerlerinde geçerli 250 TL ParaPuan!",
+   "kazanc": {
+    "deger": 250.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 2500.0,
+   "baslangic": "2026-11-09",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "SMS / QNB Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.qnbcard.com.tr/kampanyalar/yves-rocherda-250-tl-parapuan-43687",
+   "durum": "aktif"
+  }
+ ]
+}
