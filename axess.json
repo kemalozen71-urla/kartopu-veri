@@ -1,0 +1,3952 @@
+{
+ "guncellenme": "2026-11-25",
+ "kampanyalar": [
+  {
+   "id": "axess-axesse-ozel-renault-ta-vade-farksiz-6-aya-varan-taksit-imkani",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Renault’ta vade farksız 6 aya varan taksit imkanı",
+   "ozet": "Axess’e özel 23 Kasım - 28 Aralık 2026 tarihleri arasında kampanya dahil Axess...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-23",
+   "bitis": "2026-12-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-renault-ta-vade-farksiz-6-aya-varan-taksit-imkani",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-daciada-vade-farksiz-6-aya-varan-taksit-imkni",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Dacia’da vade farksız 6 aya varan taksit imkânı",
+   "ozet": "Axess’e özel 23 Kasım – 28 Aralık 2026’ya arasında kampanyaya 0 3...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-23",
+   "bitis": "2026-12-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-daciada-vade-farksiz-6-aya-varan-taksit-imkni",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-egitim-kurumlarina-ozel-pesin-harcamalariniza-4-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess ile Eğitim Kurumlarına Özel Peşin Harcamalarınıza 4 Taksit",
+   "ozet": "Axess ve Wings kredi kartlarınız ile eğitim kurumlarında, 1.000 - 2.000.000 TL arasındaki...",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-egitim-kurumlarina-ozel-pesin-harcamalariniza-4-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-saglik-sektorune-ozel-harcamalariniza-3-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "saglik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Sağlık Sektörüne Özel Harcamalarınıza 3 Taksit",
+   "ozet": "Sağlık sektöründe, 1.000 - 500.000 TL arasındaki peşin harcamalarınızı faizsiz...",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/saglik-sektorune-ozel-harcamalariniza-3-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-yurt-disi-alisverislerinize-500-tl-chip-para-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "seyahat",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess ile Yurt Dışı Alışverişlerinize 500 TL Chip-para Fırsatı",
+   "ozet": "Axess ile yapacağınız toplamda 50.000 TL ve üzeri yurt dışı alışverişlerinizde 500...",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-13",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-yurt-disi-alisverislerinize-500-tl-chip-para-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-bkm-mutfak-atolyede-10-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "indirim",
+   "kategori": "egitim",
+   "marka": "BKM Mutfak Atölye",
+   "magazalar": [],
+   "baslik": "BKM Mutfak Atölye’de %10 indirim",
+   "ozet": "1-30 Kasım 2026 tarihleri arasında BKM Mutfak Atölye’de 100.000 TL ve eğitim...",
+   "kazanc": {
+    "deger": 10.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/bkm-mutfak-atolyede-10-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-vergi-kurumlarina-ozel-pesin-harcamalariniza-3-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "vergi",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Vergi Kurumlarına Özel Peşin Harcamalarınıza 3 Taksit",
+   "ozet": "Vergi kurumlarında, 2.000 TL - 1.000.000 TL arasındaki peşin harcamalarınızı faizsiz ve 3...",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/vergi-kurumlarina-ozel-pesin-harcamalariniza-3-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-tefal-ve-wmfde-pesin-fiyatina-6-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Tefal ve WMF",
+   "magazalar": [],
+   "baslik": "Tefal ve WMF'de peşin fiyatına 6 taksit fırsatı!",
+   "ozet": "Axess’e özel Tefal, WMF mağazalarında veya tefal.com.tr, wmf.com.tr’de 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/tefal-ve-wmfde-pesin-fiyatina-6-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-evede-60-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Eve",
+   "magazalar": [],
+   "baslik": "Eve'de 60 TL chip-para!",
+   "ozet": "1-30 Kasım 2026 arasında Eve'de 600 TL ve üzeri ilk alışverişe 60 TL chip-para!",
+   "kazanc": {
+    "deger": 60.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/evede-60-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-taksitli-alisverislerinize-500-tl-chip-para-",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess ile Taksitli Alışverişlerinize 500 TL Chip-para",
+   "ozet": "Axess ile yapacağınız toplamda 60.000 TL ve üzeri taksitli alışverişlerinize 500 TL...",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-taksitli-alisverislerinize-500-tl-chip-para-",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-atasunda-300-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "saglik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Atasun’da 300 TL Chip-Para!",
+   "ozet": "Axess’e özel Atasun mağazaları ve atasunoptik.com.tr’de 1 – 30 tek...",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-atasunda-300-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-iphone-duo-cekilisi",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "iPhone Duo Çekilişi",
+   "ozet": "10 adet iPhone Duo’dan birini kazanmak hemen Juzdan`dan çekilişe...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2027-02-12",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/iphone-duo-cekilisi",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-akbank-troy-logolu-kartlariniza-ozel-evideada-300-tl-indirim-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Akbank TROY Logolu Kartlarınıza Özel Evidea’da 300 TL İndirim Fırsatı",
+   "ozet": "Akbank TROY logolu kartlarınla Evidea mağazaları, www.evidea.com ve Evidea mobil tek TL...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-12-01",
+   "bitis": "2026-12-06",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/akbank-troy-logolu-kartlariniza-ozel-evideada-300-tl-indirim-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-passo-dukkanda-pesin-fiyatina-6-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "eglence",
+   "marka": "Passo",
+   "magazalar": [],
+   "baslik": "Axess’e Özel Passo Dükkan’da Peşin Fiyatına 6 Taksit Fırsatı!",
+   "ozet": "Axess’e özel, 1 – 30 Kasım 2026 tarihleri arasında Passo peşin fiyatına...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-passo-dukkanda-pesin-fiyatina-6-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-lassada-7-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Lassa",
+   "magazalar": [],
+   "baslik": "Lassa'da 7 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel 20 Ekim – 30 Kasım 2026 tarihleri arasında kampanyaya Axess...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/lassada-7-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-ikeada-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "IKEA",
+   "magazalar": [],
+   "baslik": "IKEA’da peşin fiyatına 6 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel IKEA Aile ile yapacağınız alışverişlerinizde vade farksız 6 aya...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-05",
+   "bitis": "2027-01-04",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/ikeada-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-e-ozel-hepsiburadada-250-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Axess'e Özel Hepsiburada’da 250 TL Chip-Para!",
+   "ozet": "Axess’e özel, Hepsiburada’da 16-30 Kasım 2026 tarihleri arasında tek TL...",
+   "kazanc": {
+    "deger": 250.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-16",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-e-ozel-hepsiburadada-250-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-valmentide-5-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Valmenti’de 5 aya varan taksit!",
+   "ozet": "Axess’e özel kampanyaya dahil Valmenti Mağazalarında 7 Ekim – 31 Mart 5...",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-07",
+   "bitis": "2027-03-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-valmentide-5-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-dailydriveda-30-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": "Dailydrive",
+   "magazalar": [],
+   "baslik": "Dailydrive’da %30 İndirim",
+   "ozet": "Dailydrive’da %30 indirim fırsatı",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/dailydriveda-30-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axessle-lazzoni-magazalarindan-yapacaginiz-alisverisinizde-9-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’le Lazzoni mağazalarından yapacağınız alışverişinizde 9 taksit fırsatı!",
+   "ozet": "Axess’le Lazzoni mağazalarından yapacağınız alışverişinizde 9 taksit fırsatı!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axessle-lazzoni-magazalarindan-yapacaginiz-alisverisinizde-9-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-n11comda-500-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "n11",
+   "magazalar": [
+    "n11"
+   ],
+   "baslik": "Axess’e özel n11.com'da 500 TL Chip-Para!",
+   "ozet": "Axess'e özel, 1–15 Kasım 2026 tarihleri arasında www.n11.com’da tek TL...",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-15",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11comda-500-tl-chip-para",
+   "durum": "bitti",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-sigorta-harcamalariniza-ozel-pesin-harcamalariniza-2-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "sigorta",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess ile Sigorta Harcamalarınıza Özel Peşin Harcamalarınıza 2 Taksit",
+   "ozet": "Axess ile 2.000 TL- 1.000.000 TL arasındaki peşin sigorta harcamalarını faizsiz ve 2 geri...",
+   "kazanc": {
+    "deger": 2,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-sigorta-harcamalariniza-ozel-pesin-harcamalariniza-2-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-yatas-beddingde-pesin-fiyatina-7-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Yataş Bedding",
+   "magazalar": [],
+   "baslik": "Yataş Bedding’de peşin fiyatına 7 taksit fırsatı!",
+   "ozet": "Axess’e özel Yataş Bedding mağazalarında ve www.yatasbedding.com.tr’de 7...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/yatas-beddingde-pesin-fiyatina-7-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-puffyde-pesin-fiyatina-7-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Puffy",
+   "magazalar": [],
+   "baslik": "Puffy'de peşin fiyatına 7 taksit fırsatı!",
+   "ozet": "Axess’e özel Puffy mağazalarında ve www.puffy.com.tr’de peşin fiyatına 7...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/puffyde-pesin-fiyatina-7-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-enza-homeda-pesin-fiyatina-7-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Enza Home",
+   "magazalar": [],
+   "baslik": "Enza Home'da peşin fiyatına 7 taksit fırsatı!",
+   "ozet": "Axess’e özel Enza Home mağazalarında ve www.enzahome.com.tr’de peşin 7...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/enza-homeda-pesin-fiyatina-7-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-simdi-basvuran-akbanklilar-10000-tlye-varan-chip-para-kazaniyorlar",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e şimdi başvuran Akbanklılar 10.000 TL'ye varan chip-para kazanıyorlar",
+   "ozet": "İlk kez Axess’e başvurarak seçili sektörlerde yapacağınız her 6.000 TL...",
+   "kazanc": {
+    "deger": 10000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-simdi-basvuran-akbanklilar-10000-tlye-varan-chip-para-kazaniyorlar",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-kasim-indirimlerinde-1500-tl-chip-para-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": null,
+   "magazalar": [
+    "Hepsiburada",
+    "Trendyol"
+   ],
+   "baslik": "Axess ile Kasım İndirimlerinde 1.500 TL Chip-para Fırsatı",
+   "ozet": "Axess ile giyim, elektronik ve seçili pazaryerlerinde internetten yapacağınız TL...",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-kasim-indirimlerinde-1500-tl-chip-para-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-market-ve-gida-alisverislerinize-1000-tl-chip-para-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess ile Market ve Gıda Alışverişlerinize 1.000 TL Chip-para Fırsatı",
+   "ozet": "Axess ile market ve gıda sektörlerinde yapacağınız 2.750 TL ve üzeri ilk her TL...",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-market-ve-gida-alisverislerinize-1000-tl-chip-para-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-in-street-magazalarinda-10-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel IN Street Mağazalarında %10 İndirim!",
+   "ozet": "Axess’e özel IN Street mağazalarından yapacağınız alışverişlerinizde %10...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-in-street-magazalarinda-10-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-incehesapcomda-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [
+    "İncehesap"
+   ],
+   "baslik": "Axess'e Özel İncehesap.com’da Peşin Fiyatına 6 Aya Varan Taksit Fırsatı!",
+   "ozet": "Axess'e özel, 1 – 30 Kasım 2026 tarihleri arasında www.incehesap.com'da peşin...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-incehesapcomda-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-korkmazda-pesin-fiyatina-8-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Korkmaz",
+   "magazalar": [],
+   "baslik": "Axess’e özel Korkmaz’da Peşin Fiyatına 8 Taksit!",
+   "ozet": "Axess’e özel 1-30 Kasım tarihleri arasında, kampanyaya dahil Korkmaz ve 8 aya...",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-korkmazda-pesin-fiyatina-8-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-letgoda-ilanlarin-icin-vitamin-alimlarinda-25-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e Özel letgo'da İlanların için Vitamin Alımlarında %25 İndirim!",
+   "ozet": "JZDN25 indirim kodunu kullanarak yapacağın tüm Vitamin özelliği satın %25...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-letgoda-ilanlarin-icin-vitamin-alimlarinda-25-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-koton-club-uyelerine-ozel-kotonda-15-indirim-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "indirim",
+   "kategori": "giyim",
+   "marka": "Koton",
+   "magazalar": [],
+   "baslik": "Axess ile Koton Club üyelerine özel Koton’da %15 indirim fırsatı!",
+   "ozet": "Axess ile Koton Club üyelerine özel 1-30 Kasım 2026 tarihleri arasında Koton TL...",
+   "kazanc": {
+    "deger": 15.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-koton-club-uyelerine-ozel-kotonda-15-indirim-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-kingcomtrde-indirim-axess",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": "King.com.tr",
+   "magazalar": [],
+   "baslik": "King.com.tr'de indirim!",
+   "ozet": "Axess’e özel King.com.tr'de 1 – 30 Kasım 2026 tarihleri arasında %50 ve...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/kingcomtrde-indirim-axess",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-kahvecomda-moliendo-kahvelerde-15-indirim-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "restoran",
+   "marka": "Kahve.com",
+   "magazalar": [],
+   "baslik": "Kahve.com'da Moliendo Kahvelerde %15 İndirim Fırsatı!",
+   "ozet": "Axess’e özel 1 Temmuz – 31 Aralık 2026 tarihleri arasında Kahve.com %15...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/kahvecomda-moliendo-kahvelerde-15-indirim-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-gree-klimada-pesin-fiyatina-10-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Axess ile Gree Klima",
+   "magazalar": [],
+   "baslik": "Axess ile Gree Klima'da peşin fiyatına 10 aya varan taksit!",
+   "ozet": "Axess ile 1-30 Kasım 2026 tarihleri arasında Gree Klima'dan yapacağınız alışverişlerde 10...",
+   "kazanc": {
+    "deger": 10,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-gree-klimada-pesin-fiyatina-10-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-letgoda-cuzdanim-guvende-ile-yapacagin-alisverisine-200-tl-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e Özel Letgo'da Cüzdanım Güvende ile Yapacağın Alışverişine 200 TL İndirim!",
+   "ozet": "JZDN200 indirim kodunu kullanarak letgo'da Cüzdanım Güvende hizmeti ile 3.000...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-letgoda-cuzdanim-guvende-ile-yapacagin-alisverisine-200-tl-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-madame-cocoda-400-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "mobilya",
+   "marka": "Madame Coco",
+   "magazalar": [],
+   "baslik": "Axess’e Özel Madame Coco’da 400 TL chip-para!",
+   "ozet": "Axess’e özel 1 – 30 Kasım 2026 tarihleri arasında Madame Coco ve tek TL...",
+   "kazanc": {
+    "deger": 400.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-madame-cocoda-400-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-porlandda-500-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Porland",
+   "magazalar": [],
+   "baslik": "Porland'da 500 TL chip-para!",
+   "ozet": "Axess’e özel 1 – 30 Kasım 2026 tarihleri arasında Porland mağazaları ve...",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/porlandda-500-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-wwwbizimtoptancomtrde-500-tlye-varan-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "www.bizimtoptan.com.tr’de 500 TL'ye varan chip-para!",
+   "ozet": "Kampanyadan faydalanmak için, ilk harcamadan önce JUZDAN’dan butonunu...",
+   "kazanc": {
+    "deger": 500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/wwwbizimtoptancomtrde-500-tlye-varan-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-tefal-wmf-magazalarinda-veya-tefalcomtr-wmfcomtrde-yapacaginiz-alisverislerinizde-pesin-fiyatina-6-tak",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Tefal, WMF mağazalarında veya tefal.com.tr, wmf.com.tr’de yapacağınız alışverişlerinizde peşin fiyatına 6 taksit fırsatı!",
+   "ozet": "Axess’e özel Tefal, WMF mağazalarında veya tefal.com.tr, wmf.com.tr’de 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-tefal-wmf-magazalarinda-veya-tefalcomtr-wmfcomtrde-yapacaginiz-alisverislerinizde-pesin-fiyatina-6-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-otopratikcomtrde-indirim-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel otopratik.com.tr'de indirim fırsatı!",
+   "ozet": "Axess’e özel 15 Nisan – 31 Aralık 2026 tarihleri arasında yapılan bakım...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-04-15",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-otopratikcomtrde-indirim-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-pazaramada-pesin-fiyatina-3-ve-6-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Axess’e Özel Pazarama’da Peşin Fiyatına 3 ve 6 Taksit!",
+   "ozet": "Axess’e özel, 1 – 30 Kasım 2026 tarihleri arasında Pazarama.com’da...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pazaramada-pesin-fiyatina-3-ve-6-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-bridgestoneda-7-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Bridgestone",
+   "magazalar": [],
+   "baslik": "Bridgestone’da 7 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel 20 Ekim – 30 Kasım 2026 tarihleri arasında kampanyaya Axess...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-20",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/bridgestoneda-7-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axessle-karacada-5-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Karaca",
+   "magazalar": [],
+   "baslik": "Axess’le Karaca’da 5 taksit!",
+   "ozet": "Axess’le Karaca Züccaciye, Karaca Home, Emsan, Cookplus, Homend, Pera Bulvarı...",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axessle-karacada-5-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-pttavmde-pesin-fiyatina-2-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "PttAVM",
+   "magazalar": [
+    "PttAVM"
+   ],
+   "baslik": "Axess'e özel PTTAVM'de Peşin Fiyatına 2 Taksit Fırsatı!",
+   "ozet": "Axess’e özel Pttavm.com’da ve Pttavm uygulamasında peşin fiyatına 2 aya...",
+   "kazanc": {
+    "deger": 2,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pttavmde-pesin-fiyatina-2-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-porlandda-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel, Porland’da 9 aya varan taksit!",
+   "ozet": "Axess'e özel 1 – 30 Kasım 2026 tarihleri arasında kampanyaya dahil Porland ve...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-porlandda-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-konfor-mobilya-cetmen-mobilya-ve-konfor-yatakta-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Konfor Mobilya, Çetmen Mobilya ve Konfor Yatak’ta 9 taksit!",
+   "ozet": "Axess'e özel 1 – 30 Kasım 2026 tarihleri arasında kampanyaya dahil Konfor ve 9...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/konfor-mobilya-cetmen-mobilya-ve-konfor-yatakta-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-juzdan-ile-odeye-ozel-enuyguncomda-secili-otellerde-7500-tlye-varan-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": "Enuygun",
+   "magazalar": [],
+   "baslik": "Juzdan ile öde'ye özel ENUYGUN.com’da seçili otellerde 7.500 TL'ye varan chip para!",
+   "ozet": "Juzdan ile öde’ye özel ENUYGUN'da kampanyaya dahil seçili ve 27 -...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-27",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/juzdan-ile-odeye-ozel-enuyguncomda-secili-otellerde-7500-tlye-varan-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-isparkta-ucretsiz-park-hakki-hediye",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e Özel İSPARK'ta Ücretsiz Park Hakkı Hediye!",
+   "ozet": "Axess'e özel, 6 – 30 Kasım 2026 tarihleri arasında Axess ve Wings ile ilk TL 1...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-06",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-isparkta-ucretsiz-park-hakki-hediye",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ozel-teknosada-1500-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "elektronik",
+   "marka": "Teknosa",
+   "magazalar": [
+    "Teknosa"
+   ],
+   "baslik": "Axess özel Teknosa’da 1.500 TL chip-para!",
+   "ozet": "Axess’e özel Teknosa mağazaları ve Teknosa.com’da 25 – 30 Kasım TL...",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-25",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ozel-teknosada-1500-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-nocturne-magazalarinda-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Nocturne Mağazalarında 6 aya varan taksit!",
+   "ozet": "Axess’e özel Nocturne Mağazalarında 1 Mart 2026 – 1 Mart 2027 tarihleri...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-03-01",
+   "bitis": "2027-03-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nocturne-magazalarinda-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-mavide-300-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Mavi",
+   "magazalar": [],
+   "baslik": "Axess’e Özel Mavi’de 300 TL Chip-Para!",
+   "ozet": "Axess’e özel kampanyaya dahil Mavi mağazalarında ve mavi.com’da 1 30 tek...",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-mavide-300-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-mavide-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Mavi",
+   "magazalar": [],
+   "baslik": "Axess’e Özel Mavi’de 6 aya varan taksit!",
+   "ozet": "Axess’e özel kampanyaya dahil Mavi mağazalarında ve mavi.com’da 1 Mart 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-03-01",
+   "bitis": "2027-02-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-mavide-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ayakkabi-dunyasinda-450-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Ayakkabı Dünyası’nda 450 TL Chip-Para!",
+   "ozet": "Axess’e özel 1 – 30 Kasım tarihleri arasında Ayakkabı Dünyası ve TL...",
+   "kazanc": {
+    "deger": 450.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ayakkabi-dunyasinda-450-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-onur-market-magazalarinda-100-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Onur Market mağazalarında 100 TL chip-para!",
+   "ozet": "Axess’e özel 1-30 Kasım 2026 tarihleri arasında Onur Market mağazalarından tek...",
+   "kazanc": {
+    "deger": 100.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/onur-market-magazalarinda-100-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-rotap-saatte-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "ulasim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Rotap Saat’te 6 aya varan taksit!",
+   "ozet": "Axess’e özel Rotap Saat’te 16 Eylül – 31 Aralık 2026 arasında...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-rotap-saatte-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-pomellatoda-3-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Pomellato’da 3 aya varan taksit!",
+   "ozet": "Axess’e özel Pomellato’da 16 Eylül – 31 Aralık 2026 tarihleri...",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pomellatoda-3-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-montblancte-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Montblanc’te 6 aya varan taksit!",
+   "ozet": "Axess’e özel Montblanc’te 16 Eylül – 31 Aralık 2026 tarihleri...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-montblancte-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-nisantasi-longines-boutiquete-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Nişantaşı Longines Boutique’te 6 aya varan taksit!",
+   "ozet": "Axess’e özel Nişantaşı Longines Boutique’te 16 Eylül – 31 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nisantasi-longines-boutiquete-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-nisantasi-jaeger-lecoultre-boutiquete-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Nişantaşı Jaeger-Lecoultre Boutique’te 6 aya varan taksit!",
+   "ozet": "Axess’e özel Nişantaşı Jaeger-Lecoultre Boutique’te 16 Eylül 31 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-16",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nisantasi-jaeger-lecoultre-boutiquete-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-watsons-magazalarinda-150-tlye-varan-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "kozmetik",
+   "marka": "Watsons",
+   "magazalar": [],
+   "baslik": "Watsons mağazalarında 150 TL'ye varan chip-para!",
+   "ozet": "21 - 30 Kasım 2026 tarihleri arasında Watsons mağazalarında 1.000 TL ve üzeri ilk QR...",
+   "kazanc": {
+    "deger": 150.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-21",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/watsons-magazalarinda-150-tlye-varan-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-fakirde-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Fakir",
+   "magazalar": [],
+   "baslik": "Fakir'de 9 taksit!",
+   "ozet": "1-30 Kasım 2026 tarihleri arasında Fakir'den yapacağınız alışverişlerde 9 taksit fırsatı...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/fakirde-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-ozdilekteyimde-3000-tl-ve-uzeri-ilk-alisverisinizde-350-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": "Özdilekteyim",
+   "magazalar": [],
+   "baslik": "Özdilekteyim’de 3.000 TL ve üzeri ilk alışverişinizde, 350 TL chip-para!",
+   "ozet": "Axess’e özel 17 Kasım - 17 Aralık 2026 tarihleri arasında Özdilek ve tek...",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 3000.0,
+   "baslangic": "2026-11-17",
+   "bitis": "2026-12-17",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/ozdilekteyimde-3000-tl-ve-uzeri-ilk-alisverisinizde-350-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-vitrada-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "VitrA",
+   "magazalar": [],
+   "baslik": "VitrA'da 9 aya varan taksit!",
+   "ozet": "7 Ocak-31 Aralık 2026 tarihleri arasında VitrA'dan yapacağınız alışverişlerde 9 aya varan...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-07",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/vitrada-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ayakkabi-dunyasinda-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Ayakkabı Dünyası’nda 6 aya varan taksit!",
+   "ozet": "Axess’e özel Ayakkabı Dünyası ve ayakkabidunyasi.com.tr’de 23 Şubat...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-02-23",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ayakkabi-dunyasinda-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-intemada-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "İntema",
+   "magazalar": [],
+   "baslik": "İntema'da 9 aya varan taksit!",
+   "ozet": "7 Ocak - 31 Aralık 2026 tarihleri arasında İntema'dan yapacağınız mutfak mobilyası 9 aya...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-07",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/intemada-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-advde-1000-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel ADV’de 1.000 TL Chip-Para!",
+   "ozet": "Axess’e özel kampanyaya dahil ADV mağazalarında 1 – 30 Kasım 2026 tek TL...",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-advde-1000-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-damat-tweende-2000-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Damat Tween’de 2.000 TL Chip-Para!",
+   "ozet": "Axess’e özel kampanyaya dahil Damat Tween mağazaları ve 1 – 30 Kasım tek...",
+   "kazanc": {
+    "deger": 2000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-damat-tweende-2000-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ceptesok-istegelsin-uygulamasi-ve-wwwsokmarketcomtrekstrada-pesin-fiyatina-3-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Cepteşok İsteGelsin uygulaması ve www.sokmarket.com.tr/ekstra’da Peşin Fiyatına 3 Taksit!",
+   "ozet": "30 Kasım tarihine kadar, Cepteşok İsteGelsin uygulaması ve yapacağınız tüm tekstil 3...",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ceptesok-istegelsin-uygulamasi-ve-wwwsokmarketcomtrekstrada-pesin-fiyatina-3-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ds-damatta-1000-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel D’S damat’ta 1.000 TL Chip-Para!",
+   "ozet": "Axess’e özel kampanyaya dahil D’S damat mağazalarında ve 1 – 30 TL...",
+   "kazanc": {
+    "deger": 1000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ds-damatta-1000-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-advde-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel ADV’de 6 aya varan taksit!",
+   "ozet": "Axess’e özel ADV Mağazalarında 1 Ocak – 31 Aralık 2026 tarihleri 6 aya...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-advde-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-damat-tweende-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Damat Tween’de 6 aya varan taksit!",
+   "ozet": "Axess’e özel kampanyaya dahil Damat Tween mağazalarında ve 1 Ocak – 31 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-damat-tweende-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ds-damatta-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel D’S damat’ta 6 aya varan taksit!",
+   "ozet": "Axess’e özel kampanyaya dahil D’S damat Mağazalarında ve 1 Ocak –...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ds-damatta-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-brillantstorecomtrde-gecerli-40-indirim-ve-ucretsiz-kargo-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "indirim",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Brillantstore.com.tr’de geçerli %40 indirim ve ücretsiz kargo fırsatı!",
+   "ozet": "Axess’e özel Brillantstore.com.tr’de 1 – 30 Kasım 2026 tarihleri...",
+   "kazanc": {
+    "deger": 40.0,
+    "birim": "yuzde"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-brillantstorecomtrde-gecerli-40-indirim-ve-ucretsiz-kargo-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-casper-bilgisayarda-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Casper Bilgisayar",
+   "magazalar": [],
+   "baslik": "Casper Bilgisayar'da peşin fiyatına 6 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel 1 – 30 Kasım 2026 tarihleri arasında Casper Bilgisayar ve 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/casper-bilgisayarda-pesin-fiyatina-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-fg-europe-klimada-12-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Axess ile FG Europe Klima",
+   "magazalar": [],
+   "baslik": "Axess ile FG Europe Klima'da 12 taksit!",
+   "ozet": "1-30 Kasım 2026 tarihleri arasında FG Europe Klima yapacağınız alışverişlerde 12 taksit...",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-fg-europe-klimada-12-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-daikinde-pesin-fiyatina-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Daikin",
+   "magazalar": [],
+   "baslik": "Daikin'de Peşin Fiyatına 9 Taksit!",
+   "ozet": "1 - 30 Kasım 2026 tarihleri arasında Daikin'den yapacağınız alışverişlerde peşin fiyatına...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/daikinde-pesin-fiyatina-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-lastikcomtrde-indirim-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel lastik.com.tr'de İndirim Fırsatı!",
+   "ozet": "Axess’te sadece size özel 30 Kasım 2026 tarihine kadar www.lastik.com.tr web...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lastikcomtrde-indirim-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-prometeonda-6-aya-varan-taksit-imkani",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Prometeon",
+   "magazalar": [],
+   "baslik": "Prometeon’da 6 aya varan taksit imkanı",
+   "ozet": "Axess’e özel 1 – 30 Kasım 2026 tarihleri arasında kampanyaya katılan 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/prometeonda-6-aya-varan-taksit-imkani",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-dysonda-pesin-fiyatina-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Dyson",
+   "magazalar": [],
+   "baslik": "Dyson'da peşin fiyatına 9 taksit!",
+   "ozet": "30 Kasım 2026 tarihine kadar Dyson'dan yapılacak harcamalarda peşin fiyatına 9 taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/dysonda-pesin-fiyatina-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-pirellide-6-aya-varan-taksit-imkani",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Pirelli’de 6 aya varan taksit imkanı",
+   "ozet": "Axess’e özel 2 Kasım - 31 Aralık 2026 tarihleri arasında kampanyaya katılan 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-02",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-pirellide-6-aya-varan-taksit-imkani",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-obiletcomda-150-tlye-varan-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "seyahat",
+   "marka": "Obilet",
+   "magazalar": [],
+   "baslik": "Axess’e özel obilet.com’da 150 TL’ye varan chip para!",
+   "ozet": "Axess’e özel 1-30 Kasım 2026 tarihleri arasında obilet.com veya obilet Mobil...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-obiletcomda-150-tlye-varan-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-vestelde-pesin-fiyatina-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Vestel",
+   "magazalar": [],
+   "baslik": "Vestel'de peşin fiyatına 9 taksit!",
+   "ozet": "1 Ekim -31 Aralık 2026 tarihleri arasında kampanyaya dahil olan Vestel yetkili satıcısı 9...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/vestelde-pesin-fiyatina-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-kotonda-300-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "Koton",
+   "magazalar": [],
+   "baslik": "Axess'e özel Koton’da 300 TL Chip-Para!",
+   "ozet": "Axess’e özel Koton mağazaları ve koton.com’da 1 – 30 Kasım 2026 TL...",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-kotonda-300-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-tumide-3000-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Tumi’de 3.000 TL Chip-Para!",
+   "ozet": "Axess’e özel Tumi mağazalarında ve tumi.com.tr’den 1-30 Kasım 2026 tek 6...",
+   "kazanc": {
+    "deger": 3000.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-tumide-3000-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-samsoniteta-2500-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Samsonite’ta 2.500 TL Chip-Para!",
+   "ozet": "Axess’e özel Samsonite mağazaları ve samsonite.com.tr’den 1-30 Kasım tek...",
+   "kazanc": {
+    "deger": 2500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-samsoniteta-2500-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-desada-1500-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Desa’da 1.500 TL Chip-Para!",
+   "ozet": "Axess’e özel Desa mağazaları ve desa.com.tr’den 1-30 Kasım 2026 arasında...",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-desada-1500-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-reebokta-350-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Reebok’ta 350 TL Chip-Para!",
+   "ozet": "Axess’e özel Reebok mağazalarından 1-30 Kasım 2026 tarihleri arasında tek TL 6...",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-reebokta-350-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-lumberjackte-350-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Lumberjack’te 350 TL Chip-Para!",
+   "ozet": "Axess’e özel Lumberjack mağazalarından 1-30 Kasım 2026 tarihleri arasında tek...",
+   "kazanc": {
+    "deger": 350.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lumberjackte-350-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-nine-westte-300-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Nine West’te 300 TL Chip-Para!",
+   "ozet": "Axess’e özel Nine West mağazalarından 1 – 30 Kasım 2026 tarihleri tek TL...",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nine-westte-300-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-in-streette-400-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel IN Street'te 400 TL Chip-Para!",
+   "ozet": "Axess’e özel IN Street mağazalarından 1 – 30 Kasım 2026 tarihleri tek TL...",
+   "kazanc": {
+    "deger": 400.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-in-streette-400-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-floda-300-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "Axess'e özel FLO’da 300 TL Chip-Para!",
+   "ozet": "Axess’e özel FLO mağazaları ve flo.com.tr’de 1-30 Kasım 2026 tarihleri...",
+   "kazanc": {
+    "deger": 300.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-floda-300-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-eera-itopya-magazalarinda-ve-wwwitopyacomda-pesin-fiyatina-5-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Eera-İtopya mağazalarında ve www.itopya.com’da peşin fiyatına 5 taksit fırsatı!",
+   "ozet": "Axess’e özel 1-30 Kasım 2026 tarihleri arasında kampanyaya dahil Eera-İtopya 5...",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/eera-itopya-magazalarinda-ve-wwwitopyacomda-pesin-fiyatina-5-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ile-konyali-saatte-7-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Axess ile Konyalı Saat",
+   "magazalar": [],
+   "baslik": "Axess ile Konyalı Saat’te 7 aya varan taksit!",
+   "ozet": "Axess ile 1-30 Kasım 2026 tarihleri arasında Konyalı Saat ve konyalisaat.com.tr’de...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ile-konyali-saatte-7-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-carrefoursalarda-pesin-fiyatina-4-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": "CarrefourSA",
+   "magazalar": [
+    "CarrefourSA"
+   ],
+   "baslik": "CarrefourSA’larda Peşin Fiyatına 4 Taksit!",
+   "ozet": "Axess’e özel CarrefourSA mağazalarında, CarrefourSA Online Market ve peşin 4...",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/carrefoursalarda-pesin-fiyatina-4-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-columbiada-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Columbia’da 9 aya varan taksit!",
+   "ozet": "Axess’e özel Columbia Mağazalarında 1 Temmuz – 31 Aralık 2026 tarihleri...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-columbiada-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-the-moose-bayde-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel The Moose Bay’de 9 aya varan taksit!",
+   "ozet": "Axess’e özel The Moose Bay mağazalarında 1 Temmuz – 31 Aralık 2026 9 aya...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-the-moose-bayde-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-flocomtrde-500-tl-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "Axess’e özel Flo.com.tr’de 500 TL İndirim!",
+   "ozet": "Axess’e özel Flo.com.tr’den yapacağınız 3.000 TL ve üzeri ilk 500 6...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-flocomtrde-500-tl-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-lumberjackcomtrde-500-tl-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel lumberjack.com.tr’de 500 TL İndirim!",
+   "ozet": "Axess’e özel lumberjack.com.tr’den yapacağınız 3.000 TL ve üzeri TL...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lumberjackcomtrde-500-tl-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-flo-magazalarinda-15-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "Axess’e özel Flo Mağazalarında %15 İndirim!",
+   "ozet": "Axess’e özel Flo Mağazalarından yapacağınız alışverişlerinizde geçerli...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2027-01-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-flo-magazalarinda-15-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-instreetcomtrde-700-tl-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "indirim",
+   "kategori": "giyim",
+   "marka": "Instreet",
+   "magazalar": [],
+   "baslik": "Axess’e özel instreet.com.tr’de 700 TL indirim!",
+   "ozet": "Axess’e özel instreet.com.tr’den yapacağınız 4.500 TL ve üzeri 700...",
+   "kazanc": {
+    "deger": 700.0,
+    "birim": "TL"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-instreetcomtrde-700-tl-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ninewestcomtrde-800-tl-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel ninewest.com.tr’de 800 TL İndirim!",
+   "ozet": "Axess’e özel ninewest.com.tr’den yapacağınız 5.000 TL ve üzeri 800...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ninewestcomtrde-800-tl-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-reebokcomtrde-700-tl-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel reebok.com.tr’de 700 TL İndirim!",
+   "ozet": "Axess’e özel reebok.com.tr’den yapacağınız 4.500 TL ve üzeri 700 TL...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-reebokcomtrde-700-tl-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ozdilekte-pesin-fiyatina-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e Özel Özdilek'te Peşin Fiyatına 9 Taksit!",
+   "ozet": "Axess’e özel Özdilek Mağazalarından ve Özdilekteyim.com’dan 9...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2027-01-03",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ozdilekte-pesin-fiyatina-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-a101de-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "market",
+   "marka": "A101",
+   "magazalar": [
+    "A101"
+   ],
+   "baslik": "A101’de Peşin Fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’le A101 mağazalarında, www.a101.com.tr/ekstra web sitesinde veya A101 mobil 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/a101de-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-mielede-pesin-fiyatina-8-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Miele",
+   "magazalar": [],
+   "baslik": "Miele'de peşin fiyatına 8 aya varan taksit!",
+   "ozet": "23 Ocak-31 Aralık 2026 tarihleri arasında Miele'den yapacağınız alışverişlerde peşin 8...",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-01-23",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/mielede-pesin-fiyatina-8-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-renaultta-vade-farksiz-6-aya-varan-taksit-imkani",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Renault’ta vade farksız 6 aya varan taksit imkanı!",
+   "ozet": "Axess’e özel 19 Ekim – 27 Kasım 2026 tarihleri arasında kampanyaya dahil...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-19",
+   "bitis": "2026-11-27",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-renaultta-vade-farksiz-6-aya-varan-taksit-imkani",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-ilk-kez-akbank-kredi-kartina-basvuracaklara-egitim-kurumlarina-ozel-pesin-harcamalariniza-7-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "İlk Kez Akbank Kredi Kartına Başvuracaklara Eğitim Kurumlarına Özel Peşin Harcamalarınıza 7 Taksit Fırsatı!",
+   "ozet": "İlk kez Akbank kredi kartı sahibi olarak 30 Kasım tarihine kadar eğitim kurumlarında TL 7...",
+   "kazanc": {
+    "deger": 7,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/ilk-kez-akbank-kredi-kartina-basvuracaklara-egitim-kurumlarina-ozel-pesin-harcamalariniza-7-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-nespresso-turkiye-magazalarinda-pesin-fiyatina-6-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "restoran",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Nespresso Türkiye mağazalarında peşin fiyatına 6 Taksit!",
+   "ozet": "30 Kasım 2026 tarihine kadar Nespresso Türkiye mağazalarından yapacağınız kahve 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nespresso-turkiye-magazalarinda-pesin-fiyatina-6-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-idas-mobilyada-pesin-fiyatina-9-taksit-firsati-",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel İdaş Mobilya’da peşin fiyatına 9 Taksit Fırsatı!",
+   "ozet": "1– 30 Kasım 2026 tarihleri arasında, www.idas.com.tr’de ve kampanyaya dahil 9...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-idas-mobilyada-pesin-fiyatina-9-taksit-firsati-",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-koctasta-5-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Koçtaş",
+   "magazalar": [],
+   "baslik": "Koçtaş'ta 5 taksit!",
+   "ozet": "1 - 30 Kasım 2026 tarihleri arasında Koçtaş'tan yapacağınız alışverişlerde 5...",
+   "kazanc": {
+    "deger": 5,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/koctasta-5-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-hmde-6-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "H&M",
+   "magazalar": [],
+   "baslik": "Axess’e özel H&M’de 6 taksit!",
+   "ozet": "Axess’e özel H&M Mağazalarında 15 Şubat 2026 – 15 Şubat 2027 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-02-15",
+   "bitis": "2027-02-15",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-hmde-6-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-alfemoda-pesin-fiyatina-9-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel Alfemo'da peşin fiyatına 9 Taksit!",
+   "ozet": "Axess ile kampanyaya dahil Alfemo mağazalarında peşin fiyatına 9 Taksit!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-alfemoda-pesin-fiyatina-9-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-sahibindencom-yepyde-pesin-fiyatina-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e Özel sahibinden.com Yepy’de Peşin Fiyatına 9 Aya Varan Taksit!",
+   "ozet": "Axess’e özel, sahibinden.com/Yepy’den yapacağınız yenilenmiş telefon 9...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-sahibindencom-yepyde-pesin-fiyatina-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axessle-wwwmonsternotebookcomtr-ve-monster-notebook-magazalarinda-pesin-fiyatina-12-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’le www.monsternotebook.com.tr ve Monster Notebook mağazalarında peşin fiyatına 12 taksit fırsatı!",
+   "ozet": "Axess’le 1 – 30 Kasım 2026 tarihleri arasında www.monsternotebook.com.tr ve...",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axessle-wwwmonsternotebookcomtr-ve-monster-notebook-magazalarinda-pesin-fiyatina-12-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-isbir-yatakta-pesin-fiyatina-9-taksit-",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel İşbir Yatak'ta Peşin Fiyatına 9 Taksit!",
+   "ozet": "30 Kasım 2026’a kadar, kampanyaya dahil İşbir Yatak mağazalarından yapacağınız vade...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-isbir-yatakta-pesin-fiyatina-9-taksit-",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axess-ogrenci-kartina-simdi-basvuran-akbanklilar-1200-tlye-varan-chip-para-kazaniyor",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess Öğrenci kartına şimdi başvuran Akbanklılar, 1.200 TL’ye varan chip-para kazanıyor!",
+   "ozet": "Sen de 30 Kasım’a kadar Axess Öğrenci kartına başvurabilir ve Juzdan’dan...",
+   "kazanc": {
+    "deger": 1200.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axess-ogrenci-kartina-simdi-basvuran-akbanklilar-1200-tlye-varan-chip-para-kazaniyor",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ider-mobilyada-9-taksit-firsati-",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e özel İder Mobilya’da 9 Taksit Fırsatı!",
+   "ozet": "1 – 30 Kasım 2026 tarihleri arasında İder Mobilya mağazalarında yapacağınız varan...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ider-mobilyada-9-taksit-firsati-",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-pazarama-tatilde-7500-tlye-varan-indirim",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Pazarama Tatil'de 7.500 TL'ye Varan İndirim!",
+   "ozet": "Axess’e Özel, 1 – 30 Kasım 2026 tarihlerinde Pazarama Tatil yurtdışı ve...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/pazarama-tatilde-7500-tlye-varan-indirim",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-ecrouda-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Ecrou’da peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel Ecrou’da 13 Temmuz – 31 Aralık 2026 tarihleri peşin 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-13",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-ecrouda-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-korkmazda-pesin-fiyatina-8-taksit-",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "mobilya",
+   "marka": "Korkmaz",
+   "magazalar": [],
+   "baslik": "Axess’e özel Korkmaz’da Peşin Fiyatına 8 Taksit!",
+   "ozet": "Axess’e özel 1-30 Kasım tarihleri arasında, kampanyaya dahil Korkmaz ve 8 aya...",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-korkmazda-pesin-fiyatina-8-taksit-",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-evideada-6ya-varan-taksit-",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "mobilya",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess'e Özel Evidea'da 6’ya varan Taksit!",
+   "ozet": "Axess'e özel 1 – 30 Kasım 2026 tarihleri arasında, Evidea mağazalarında ve...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-evideada-6ya-varan-taksit-",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-vivensede-pesin-fiyatina-9-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Vivense’de peşin fiyatına 9 taksit fırsatı!",
+   "ozet": "Axess’e özel Vivense’de peşin fiyatına 9 taksit fırsatı seni bekliyor!",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-vivensede-pesin-fiyatina-9-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-schafer-magazalarinda-pesin-fiyatina-9-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Schafer mağazalarında peşin fiyatına 9 taksit fırsatı!",
+   "ozet": "Schafer mağazalarından yapacağınız alışverişlerinizde peşin fiyatına 9 aya varan taksit...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-schafer-magazalarinda-pesin-fiyatina-9-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-theatreclixcomda-yillik-sinirsiz-tiyatro-izleme-paketi-1499-tl",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": "TheatreClix.com",
+   "magazalar": [],
+   "baslik": "TheatreClix.com'da yıllık sınırsız tiyatro izleme paketi 1.499 TL!",
+   "ozet": "30 Kasım 2026'a kadar www.TheatreClix.com'da yıllık sınırsız tiyatro izleme paketi 1.499...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/theatreclixcomda-yillik-sinirsiz-tiyatro-izleme-paketi-1499-tl",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-theatreclixcomda-yerli-ve-yabanci-tiyatrolari-aylik-sinirsiz-izleme-paketi-ilk-ay-139-tl",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "eglence",
+   "marka": "TheatreClix.com",
+   "magazalar": [],
+   "baslik": "TheatreClix.com'da yerli ve yabancı tiyatroları aylık sınırsız izleme paketi ilk ay 139 TL!",
+   "ozet": "30 Kasım 2026'a kadar www.TheatreClix.com'da yerli ve yabancı tiyatroları aylık sınırsız...",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/theatreclixcomda-yerli-ve-yabanci-tiyatrolari-aylik-sinirsiz-izleme-paketi-ilk-ay-139-tl",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-floda-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "FLO",
+   "magazalar": [],
+   "baslik": "Axess'e özel Flo'da peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel FLO’da 1 Temmuz – 31 Aralık 2026 tarihleri arasında 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-floda-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-desada-6-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Desa'da 6 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel Desa’da 1 Temmuz – 31 Aralık 2026 tarihleri arasında...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-desada-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-tumide-6-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Tumi'de 6 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel Tumi’de 1 Temmuz – 31 Aralık 2026 tarihleri arasında...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-tumide-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-in-street-te-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": "Instreet",
+   "magazalar": [],
+   "baslik": "Axess’e özel IN Street 'te peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel IN Street'te 1 Temmuz – 31 Aralık 2026 tarihleri arasında 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-in-street-te-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-lumberjackte-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Lumberjack'te peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel Lumberjack’de 1 Temmuz-31 Aralık 2026 tarihleri arasında 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-lumberjackte-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-reebokta-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Reebok'ta peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel Reebok’ta 1 Temmuz – 31 Aralık 2026 tarihleri peşin 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-reebokta-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-nine-westte-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Nine West'te peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel Nine West’te 1 Temmuz – 31 Aralık 2026 tarihleri 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-nine-westte-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-polariste-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel Polaris'te peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel Polaris’te 1 Temmuz– 31 Aralık 2026 tarihleri peşin 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-polariste-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-amazoncomtrde-pesin-fiyatina-9-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Amazon",
+   "magazalar": [
+    "Amazon"
+   ],
+   "baslik": "Axess’e Özel Amazon.com.tr’de Peşin Fiyatına 9 Taksit Fırsatı!",
+   "ozet": "Axess’e özel, www.amazon.com.tr’de ve Amazon mobil uygulamasında peşin 9...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-26",
+   "bitis": "2026-12-01",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-amazoncomtrde-pesin-fiyatina-9-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-egitim-sektoru-kapsaminda-okul-odemelerinde-2-8-taksitli-islemlerde-4-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "egitim",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Eğitim Sektörü kapsamında okul ödemelerinde 2 - 8 taksitli işlemlerde + 4 taksit!",
+   "ozet": "Axess‘le 30 Kasım 2026'a kadar, eğitim sektöründe kampanyaya dahil Axess...",
+   "kazanc": {
+    "deger": 8,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/egitim-sektoru-kapsaminda-okul-odemelerinde-2-8-taksitli-islemlerde-4-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-enuygunda-tum-yurt-ici-seyahatlerinizde-3-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "seyahat",
+   "marka": "Enuygun",
+   "magazalar": [],
+   "baslik": "ENUYGUN’da tüm yurt içi seyahatlerinizde 3 aya varan taksit fırsatı!",
+   "ozet": "Axess’e özel Enuygun.com ve ENUYGUN mobil uygulaması üzerinden yapılan ve...",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/enuygunda-tum-yurt-ici-seyahatlerinizde-3-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-igdas-dogalgaz-faturalariniza-3-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "fatura",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "İGDAŞ Doğalgaz Faturalarınıza 3 Taksit Fırsatı!",
+   "ozet": "İGDAŞ veznelerinden ve igdas.com.tr adresinden yapılan peşin doğalgaz ödemelerinizi...",
+   "kazanc": {
+    "deger": 3,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/igdas-dogalgaz-faturalariniza-3-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-trendyolda-pesin-fiyatina-9-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Trendyol",
+   "magazalar": [
+    "Trendyol"
+   ],
+   "baslik": "Axess'e Özel Trendyol’da Peşin Fiyatına 9 Aya Varan Taksit!",
+   "ozet": "Axess’e özel, 2 Kasım – 2 Aralık 2026 tarihleri arasında 1.000 TL ve 3 6...",
+   "kazanc": {
+    "deger": 9,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-02",
+   "bitis": "2026-12-02",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-trendyolda-pesin-fiyatina-9-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-kotonda-pesin-fiyatina-6-aya-varan-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "giyim",
+   "marka": "Koton",
+   "magazalar": [],
+   "baslik": "Axess'e özel Koton'da peşin fiyatına 6 aya varan taksit!",
+   "ozet": "Axess’e özel Koton’da 1 Temmuz – 31 Aralık 2026 tarihleri arasında...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-07-01",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-kotonda-pesin-fiyatina-6-aya-varan-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-hepsiburadacomda-pesin-fiyatina-12-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Axess’e Özel Hepsiburada.com’da Peşin Fiyatına 12 Aya Varan Taksit Fırsatı!",
+   "ozet": "Axess’e özel, www.hepsiburada.com'da peşin fiyatına 12 aya varan taksit...",
+   "kazanc": {
+    "deger": 12,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-10-26",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-hepsiburadacomda-pesin-fiyatina-12-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-iklimsada-1500-tl-chip-para",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "diger",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Axess’e özel İklimsa’da 1.500 TL chip-para!",
+   "ozet": "Axess’e özel 1-30 Kasım 2026 tarihlerinde kampanya katılan Axess üye tek...",
+   "kazanc": {
+    "deger": 1500.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": true,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-iklimsada-1500-tl-chip-para",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-teknosada-6-aya-varan-taksit-firsati",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "elektronik",
+   "marka": "Teknosa",
+   "magazalar": [
+    "Teknosa"
+   ],
+   "baslik": "Teknosa'da 6 aya varan taksit fırsatı!",
+   "ozet": "Axess'e özel Teknosa mağazalarında ve www.teknosa.com'dan yapacağınız vade farksız 6...",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": null,
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/teknosada-6-aya-varan-taksit-firsati",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  },
+  {
+   "id": "axess-axesse-ozel-n11de-vade-farksiz-6-taksit",
+   "program": "axess",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "taksit",
+   "kategori": "e-ticaret",
+   "marka": "n11",
+   "magazalar": [
+    "Pazarama",
+    "n11"
+   ],
+   "baslik": "Axess'e Özel n11’de Vade Farksız 6 Taksit",
+   "ozet": "Axess'e özel n11’de vade farksız 6 taksit ayrıcalığı sizi bekliyor.",
+   "kazanc": {
+    "deger": 6,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-01",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Juzdan / SMS",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.axess.com.tr/axess/kampanyalar/axesse-ozel-n11de-vade-farksiz-6-taksit",
+   "durum": "aktif",
+   "detay_okundu": "2026-11-25"
+  }
+ ]
+}

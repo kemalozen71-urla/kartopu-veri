@@ -1,0 +1,32 @@
+{
+ "wings": {
+  "durum": 200,
+  "son_url": "https://www.wingscard.com.tr/kampanyalar",
+  "boyut": 3189
+ },
+ "wings2": {
+  "durum": 200,
+  "son_url": "https://www.wingscard.com.tr/wings/kampanyalar",
+  "boyut": 3189
+ },
+ "wings_ajax": {
+  "durum": 200,
+  "son_url": "https://www.wingscard.com.tr/ajax/kampanya-ajax.aspx",
+  "boyut": 3189
+ },
+ "qnb": {
+  "durum": 200,
+  "son_url": "https://www.qnb.com.tr/kampanyalar",
+  "boyut": 54468
+ },
+ "cardfinans": {
+  "durum": 200,
+  "son_url": "https://www.qnbcard.com.tr/kampanyalar",
+  "boyut": 49862
+ },
+ "cardfinans_ana": {
+  "durum": 200,
+  "son_url": "https://www.qnbcard.com.tr/",
+  "boyut": 47119
+ }
+}
