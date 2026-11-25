@@ -14,10 +14,10 @@
   "advantage": 7,
   "wings": 155,
   "cardfinans": 12,
-  "detay_okunan": 3,
+  "detay_okunan": 0,
   "kirik_baglanti": 1,
-  "kontrol_edilemeyen": 44,
-  "kontrol_suresi_sn": 208
+  "kontrol_edilemeyen": 9,
+  "kontrol_suresi_sn": 77
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -2006,18 +2006,18 @@
    "kaynak_url": "https://www.bonus.com.tr/kampanyalar/visa-hepsiburada-indirim-kampanyalari",
    "durum": "aktif",
    "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
-   "banka_kategori": "E-Ticaret",
    "detay_okundu": "2026-11-25",
    "detay_surum": 6,
+   "banka_kategori": "E-Ticaret",
    "butce": null,
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "visa",
-   "skor": 40,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 40
   },
   {
    "id": "bonus-beymen-giyim-taksit-kampanyalari",
@@ -9692,6 +9692,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/bankamatik-kartiniz-alisverislerinizde-de-yaninizda",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -9702,8 +9703,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "amazon",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-market-alisverisinize-maxipuan",
@@ -9809,6 +9809,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/market-harcamalariniza-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -9819,8 +9820,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 45,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 45
   },
   {
    "id": "maximum-maximumdan-etsnin-erken-rezervasyon-indirimlerine-ek-yuzde5-indirim",
@@ -11046,7 +11046,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 45
+   "skor": 45,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-saglik-odemelerinde-ilave-2-taksit",
@@ -11084,7 +11085,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 9.0
+   "skor": 9.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-uber-eats-trendyol-go-market-siparislerinizde-indirim-firsati",
@@ -11124,7 +11126,8 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "trendyol",
-   "skor": 5.0
+   "skor": 5.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-genel-e-ticaret-maxipuan-kampanyasi",
@@ -11152,7 +11155,7 @@
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/genel-e-ticaret-maxipuan-kampanyasi",
-   "durum": "aktif",
+   "durum": "kaldirildi",
    "eklenme": "2026-11-17",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
@@ -11163,7 +11166,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "pazarama",
-   "skor": 45
+   "skor": 45,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-carrefoursada-maxipuan-firsati",
@@ -11203,7 +11207,8 @@
    "kazanc_orani": 23.3,
    "raf": "akis",
    "marka_anahtari": "carrefoursa",
-   "skor": 74.9
+   "skor": 74.9,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-carrefoursa-alisverislerinize-maxipuan",
@@ -11233,6 +11238,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/carrefoursa-alisverislerinize-maxipuan",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11243,8 +11249,7 @@
    "kazanc_orani": 5.0,
    "raf": "akis",
    "marka_anahtari": "carrefoursa",
-   "skor": 20.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 20.0
   },
   {
    "id": "maximum-ptt-avm-de-taksit-firsati",
@@ -11274,6 +11279,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/ptt-avm-de-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11284,8 +11290,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "pttavm",
-   "skor": 9.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 9.0
   },
   {
    "id": "maximum-maximum-tema-kart-basvurunuz-bir-fidan-olsun",
@@ -11323,7 +11328,8 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0
+   "skor": 5.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-yatsanda-maxipuan-firsati",
@@ -11351,6 +11357,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/yatsanda-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11361,8 +11368,7 @@
    "kazanc_orani": 2.7,
    "raf": "akis",
    "marka_anahtari": "yatsan",
-   "skor": 13.1,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 13.1
   },
   {
    "id": "maximum-pazaramada-pesin-fiyatina-taksit-firsati",
@@ -11392,6 +11398,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/pazaramada-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11402,8 +11409,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "pazarama",
-   "skor": 23.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 23.0
   },
   {
    "id": "maximum-maximumdan-s-sport-plusta-ayricalik-firsati",
@@ -11433,6 +11439,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/maximumdan-s-sport-plusta-ayricalik-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11443,8 +11450,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "pazarama",
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-is-mekanda-toplanti-odasi-kiralamalariniza-indirim-firsati",
@@ -11472,6 +11478,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/is-mekanda-toplanti-odasi-kiralamalariniza-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11482,8 +11489,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-floda-pesin-fiyatina-taksit-firsati",
@@ -11511,6 +11517,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/floda-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11521,8 +11528,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "flo",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-veteriner-ya-da-petshop-alisverislerinize-yuzde10-indirim",
@@ -11552,6 +11558,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/veteriner-ya-da-petshop-alisverislerinize-yuzde10-indirim",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11562,8 +11569,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "pazarama",
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-eleventyde-taksit-firsati",
@@ -11591,6 +11597,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/eleventyde-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11601,8 +11608,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "eleventy",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-cinemapink-by-maximum-bufelerinde-indirim",
@@ -11630,6 +11636,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/cinemapink-by-maximum-bufelerinde-indirim",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11640,8 +11647,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-pull-and-bearda-indirim-firsati",
@@ -11669,6 +11675,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/pull-and-bearda-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-24",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-24",
    "detay_surum": 6,
@@ -11679,8 +11686,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "pullbear",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-up-enerji-hizli-ode-ile-akaryakit-alimlarinda-indirim-firsati",
@@ -11708,6 +11714,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/up-enerji-hizli-ode-ile-akaryakit-alimlarinda-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11718,8 +11725,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-lazzoni-de-pesin-fiyatina-taksit-firsati",
@@ -11747,6 +11753,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/lazzoni-de-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11757,8 +11764,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "lazzoni",
-   "skor": 23.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 23.0
   },
   {
    "id": "maximum-lastikcimcomda-maxipuan-firsati",
@@ -11786,6 +11792,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/lastikcimcomda-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11796,8 +11803,7 @@
    "kazanc_orani": 10.8,
    "raf": "akis",
    "marka_anahtari": "lastikcimcom",
-   "skor": 37.4,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 37.4
   },
   {
    "id": "maximum-amazoncomtrde-taksit-firsati",
@@ -11827,6 +11833,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/amazoncomtrde-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11837,8 +11844,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "amazon",
-   "skor": 23.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 23.0
   },
   {
    "id": "maximum-is-kulturde-indirim-firsati",
@@ -11866,6 +11872,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/is-kulturde-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11876,8 +11883,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-mediamarktta-taksit-firsati",
@@ -11907,6 +11913,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/mediamarktta-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11917,8 +11924,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "mediamarkt",
-   "skor": 18.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 18.0
   },
   {
    "id": "maximum-in-formalda-taksit-firsati",
@@ -11946,6 +11952,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/in-formalda-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11956,8 +11963,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "informal",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-majede-taksit-firsati",
@@ -11985,6 +11991,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/majede-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -11995,8 +12002,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "maje",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-sandroda-taksit-firsati",
@@ -12024,6 +12030,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/sandroda-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12034,8 +12041,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "sandro",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-underarmourda-pesin-fiyatina-6taksit-firsati",
@@ -12063,6 +12069,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/underarmourda-pesin-fiyatina-6taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12073,8 +12080,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "underarmour",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-maximum-mobilden-katilanlara-ilave-maxipuan",
@@ -12102,6 +12108,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/maximum-mobilden-katilanlara-ilave-maxipuan",
    "durum": "aktif",
    "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-25",
    "detay_surum": 6,
@@ -12112,8 +12119,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-zarada-indirim-firsati",
@@ -12141,6 +12147,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/zarada-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-24",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-24",
    "detay_surum": 6,
@@ -12151,8 +12158,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "zara",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-kultur-ve-eglence-harcamalariniza-firsatlar",
@@ -12180,6 +12186,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/kultur-ve-eglence-harcamalariniza-firsatlar",
    "durum": "aktif",
    "eklenme": "2026-11-19",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12190,8 +12197,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-maximum-mobil-ile-maxipuan-firsati",
@@ -12219,6 +12225,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/maximum-mobil-ile-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-19",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12229,8 +12236,7 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 35.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 35.0
   },
   {
    "id": "maximum-troyestore-maxipuan-firsati",
@@ -12258,6 +12264,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/troyestore-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12268,8 +12275,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 45.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 45.0
   },
   {
    "id": "maximum-in-streette-indirim-kampanyasi",
@@ -12297,6 +12303,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/in-streette-indirim-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12307,8 +12314,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-porland-da-maxipuan",
@@ -12336,6 +12342,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/porland-da-maxipuan",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12346,8 +12353,7 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "porland",
-   "skor": 35.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 35.0
   },
   {
    "id": "maximum-porland-da-pesin-fiyatina-taksit-firsati",
@@ -12375,6 +12381,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/porland-da-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12385,8 +12392,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "porland",
-   "skor": 17.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 17.0
   },
   {
    "id": "maximum-pilotgarage-ekspertiz-islemlerinde-indirim-firsati",
@@ -12414,6 +12420,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/pilotgarage-ekspertiz-islemlerinde-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12424,8 +12431,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-flo-maxipuan-kampanyasi",
@@ -12453,6 +12459,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/flo-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12463,8 +12470,7 @@
    "kazanc_orani": 12.0,
    "raf": "akis",
    "marka_anahtari": "flo",
-   "skor": 41.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 41.0
   },
   {
    "id": "maximum-jimmy-keyde-maxipuan-kampanyasi",
@@ -12492,6 +12498,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/jimmy-keyde-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12502,8 +12509,7 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "jimmykey",
-   "skor": 35.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 35.0
   },
   {
    "id": "maximum-instreet-maxipuan-kampanyasi",
@@ -12541,7 +12547,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "instreet",
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-maximumdan-reebokta-maxipuan-kampanyasi",
@@ -12569,6 +12576,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/maximumdan-reebokta-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12579,8 +12587,7 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "reebok",
-   "skor": 35.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 35.0
   },
   {
    "id": "maximum-nine-west-maxipuan-kampanyasi",
@@ -12608,6 +12615,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/nine-west-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12618,8 +12626,7 @@
    "kazanc_orani": 6.0,
    "raf": "akis",
    "marka_anahtari": "ninewest",
-   "skor": 23.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 23.0
   },
   {
    "id": "maximum-maximumdan-lumberjack-maxipuan-kampanyasi",
@@ -12657,7 +12664,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "lumberjack",
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-yurtici-ucak-bileti-alimlarinizda-3taksit-firsati",
@@ -12697,7 +12705,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "pazarama",
-   "skor": 11.0
+   "skor": 11.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-trendyolmilla-ve-dolapta-taksit-firsati",
@@ -12727,6 +12736,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/trendyolmilla-ve-dolapta-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12737,8 +12747,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "dolapvetrendyolmilla",
-   "skor": 11.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 11.0
   },
   {
    "id": "maximum-pazarama-tatilden-yapacaginiz-yurtici-otel-rezervasyonlarinda-taksit-firsatlari",
@@ -12768,6 +12777,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/pazarama-tatilden-yapacaginiz-yurtici-otel-rezervasyonlarinda-taksit-firsatlari",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -12778,8 +12788,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "pazarama",
-   "skor": 17.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 17.0
   },
   {
    "id": "maximum-pirellide-maxipuan-firsati",
@@ -12817,7 +12826,8 @@
    "kazanc_orani": 5.0,
    "raf": "akis",
    "marka_anahtari": "pirelli",
-   "skor": 20.0
+   "skor": 20.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-mavi-maxipuan-kampanyasi",
@@ -12855,7 +12865,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "mavi",
-   "skor": 15.0
+   "skor": 15.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-n11de-taksit-firsati",
@@ -12895,7 +12906,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "n11",
-   "skor": 11.0
+   "skor": 11.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-tumide-maxipuan-firsati",
@@ -12933,7 +12945,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "tumi",
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-hepsiburadada-taksit-firsati",
@@ -12973,7 +12986,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "hepsiburada",
-   "skor": 23.0
+   "skor": 23.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-adl-maxipuan-kampanyasi",
@@ -13001,6 +13015,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/adl-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -13011,8 +13026,7 @@
    "kazanc_orani": 7.5,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 27.5,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 27.5
   },
   {
    "id": "maximum-love-my-body-maxipuan-kampanyasi",
@@ -13050,7 +13064,8 @@
    "kazanc_orani": 7.5,
    "raf": "akis",
    "marka_anahtari": "lovemybody",
-   "skor": 27.5
+   "skor": 27.5,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-sportivede-maxipuan-kampanyasi",
@@ -13088,7 +13103,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "sportive",
-   "skor": 25.0
+   "skor": 25.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-victoria-s-secret-maxipuan-firsati",
@@ -13126,7 +13142,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-flo-magazalarinda-indirim",
@@ -13164,7 +13181,8 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "flo",
-   "skor": 5.0
+   "skor": 5.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-zsa-zsa-zsuda-maxipuan-firsati",
@@ -13192,6 +13210,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/zsa-zsa-zsuda-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -13202,8 +13221,7 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "zsazsazsu",
-   "skor": 35.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 35.0
   },
   {
    "id": "maximum-marks-spencerda-maxipuan-kampanyasi",
@@ -13243,7 +13261,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "marksspencer",
-   "skor": 21.0
+   "skor": 21.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-mac-cosmetics-magazalarinda-maxipuan-kampanyasi",
@@ -13320,7 +13339,8 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0
+   "skor": 5.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-yolcu-360-tan-arac-kiralamada-indirim-firsati",
@@ -13397,7 +13417,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "monster",
-   "skor": 11.0
+   "skor": 11.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-dysonda-taksit-firsati",
@@ -13435,7 +13456,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "dyson",
-   "skor": 23.0
+   "skor": 23.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-yeni-ek-kartinizin-ilk-harcamasina-maxipuan-firsati",
@@ -13473,7 +13495,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-arac-bakim-lastik-sektorunde-maxipuan-firsati",
@@ -13511,7 +13534,8 @@
    "kazanc_orani": 2.0,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 11.0
+   "skor": 11.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-lululemonda-maxipuan",
@@ -13549,7 +13573,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-kiko-milanoda-maxipuan-firsati",
@@ -13587,7 +13612,8 @@
    "kazanc_orani": 13.3,
    "raf": "akis",
    "marka_anahtari": "kikomilano",
-   "skor": 44.9
+   "skor": 44.9,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-egitim-odemelerinize-ilave-taksit-firsati",
@@ -13663,7 +13689,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "yepy",
-   "skor": 17.0
+   "skor": 17.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-floda-indirim-firsati",
@@ -13882,6 +13909,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/korkmazda-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -13892,8 +13920,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "korkmaz",
-   "skor": 21.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 21.0
   },
   {
    "id": "maximum-korkmaz-da-pesin-fiyatina-taksit-firsati",
@@ -13921,6 +13948,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/korkmaz-da-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -13931,8 +13959,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "korkmaz",
-   "skor": 17.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 17.0
   },
   {
    "id": "maximum-mitsubishi-electricte-ozel-firsatlar",
@@ -13960,6 +13987,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/mitsubishi-electricte-ozel-firsatlar",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -13970,8 +13998,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "mitsubishielectric",
-   "skor": 14.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 14.0
   },
   {
    "id": "maximum-troy-ile-anadolu-hayat-emeklilik-ek-katki-payi-odemelerinize-faizsiz-taksitlendirme-firsati",
@@ -13999,6 +14026,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/troy-ile-anadolu-hayat-emeklilik-ek-katki-payi-odemelerinize-faizsiz-taksitlendirme-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14009,8 +14037,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-yeni-kredi-karti-musterilerimize-mediamarkt-magazalarinda-maxipuan-firsati",
@@ -14040,6 +14067,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/yeni-kredi-karti-musterilerimize-mediamarkt-magazalarinda-maxipuan-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14050,8 +14078,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "mediamarkt",
-   "skor": 45,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 45
   },
   {
    "id": "maximum-maximumdan-vignetimde-indirim-firsati",
@@ -14079,6 +14106,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/maximumdan-vignetimde-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14089,8 +14117,7 @@
    "kazanc_orani": 7.0,
    "raf": "surekli",
    "marka_anahtari": null,
-   "skor": 21.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 21.0
   },
   {
    "id": "maximum-windycardan-arac-kiralamada-indirim-firsati",
@@ -14118,6 +14145,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/windycardan-arac-kiralamada-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14128,8 +14156,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-dogtasta-pesin-fiyatina-taksit-firsati",
@@ -14196,6 +14223,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/lovada-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14206,8 +14234,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "lovayatak",
-   "skor": 18.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 18.0
   },
   {
    "id": "maximum-kelebekde-pesin-fiyatina-taksit-firsati",
@@ -14235,6 +14262,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/kelebekde-pesin-fiyatina-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14245,8 +14273,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "kelebek",
-   "skor": 18.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 18.0
   },
   {
    "id": "maximum-is-kulturde-taksit-firsati",
@@ -14274,6 +14301,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/is-kulturde-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14284,8 +14312,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "işkültür",
-   "skor": 10.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 10.0
   },
   {
    "id": "maximum-ismekandaki-iskultur-magazasinda-indirim-firsati",
@@ -14313,6 +14340,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/ismekandaki-iskultur-magazasinda-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14323,8 +14351,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-tema-vakfina-yapacaginiz-bagislarin-yarisi-maximum-tema-karttan",
@@ -14352,6 +14379,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/tema-vakfina-yapacaginiz-bagislarin-yarisi-maximum-tema-karttan",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14362,8 +14390,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-esim-bookingte-yapacaginiz-esim-odemelerinde-indirim-ayricaligi",
@@ -14391,6 +14418,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/esim-bookingte-yapacaginiz-esim-odemelerinde-indirim-ayricaligi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -14401,8 +14429,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "booking",
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-petlasta-taksit-firsati",
@@ -15098,6 +15125,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/trendyolda-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15108,8 +15136,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "trendyol",
-   "skor": 23.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 23.0
   },
   {
    "id": "maximum-samsung-com-da-secili-supurgelerde-indirim",
@@ -15137,6 +15164,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/samsung-com-da-secili-supurgelerde-indirim",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15147,8 +15175,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "samsung",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-egitim-odemelerinize-ozel-firsatlar-sizi-bekliyor",
@@ -15176,6 +15203,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/egitim-odemelerinize-ozel-firsatlar-sizi-bekliyor",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15186,8 +15214,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-thy-pesin-fiyatina-6taksit",
@@ -15215,6 +15242,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/thy-pesin-fiyatina-6taksit",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15225,8 +15253,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "türkhavayolları",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-carrefoursada-pesin-fiyatina-taksit",
@@ -15334,6 +15361,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/reebok-indirim-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15344,8 +15372,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "reebok",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-samsonite-maxipuan-kampanyasi",
@@ -15726,6 +15753,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/samsung-comda-secili-telefon-tablet-saat-ve-kulakliklarda-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15736,8 +15764,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "samsung",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-samsungda-indirim-firsati",
@@ -15804,6 +15831,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/samsungcomda-secili-beyaz-esyalarda-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15814,8 +15842,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "samsung",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-yurt-disi-alisverisinize-maxipuan-kampanyasi",
@@ -15843,6 +15870,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/yurt-disi-alisverisinize-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15853,8 +15881,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 35.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 35.0
   },
   {
    "id": "maximum-yurt-disi-alisverisinize-maxipuan-firsati",
@@ -15959,6 +15986,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/elektrikli-sarj-istasyonlari-harcamalariniza-maxipuan-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -15969,8 +15997,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": null,
-   "skor": 15.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 15.0
   },
   {
    "id": "maximum-euroleague-mac-biletlerine-bubilette-indirim-firsati",
@@ -15998,6 +16025,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/euroleague-mac-biletlerine-bubilette-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -16008,8 +16036,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "maximum-penguen-kitabevinde-taksit-firsati ",
@@ -16035,8 +16062,9 @@
    "dahil_kartlar": [],
    "haric_kartlar": [],
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/penguen-kitabevinde-taksit-firsati ",
-   "durum": "kaldirildi",
+   "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "butce": "okul",
    "yurtdisi": false,
@@ -16044,8 +16072,7 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "penguenkitabevi",
-   "skor": 6.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 6.0
   },
   {
    "id": "maximum-alive-sports-areada-10-indirim-ayricaligi",
@@ -16502,6 +16529,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/yuzde-100-capride-vade-farksiz-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -16512,8 +16540,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": null,
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-zara-magazalarinda-taksit-firsati",
@@ -16579,6 +16606,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/leftiesden-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -16589,8 +16617,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": null,
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-massimo_dutti-taksit-kampanyasi",
@@ -16618,6 +16645,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/massimo_dutti-taksit-kampanyasi",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -16628,8 +16656,7 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": null,
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 12.0
   },
   {
    "id": "maximum-stradivarius-da-taksit-firsati",
@@ -16667,7 +16694,8 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": null,
-   "skor": 12.0
+   "skor": 12.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-allways-hizli-gecis-fast-track-hizmetine-indirim-ayricaligi",
@@ -16705,7 +16733,8 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 0.0
+   "skor": 0.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-bella-maisonda-maxipuan-firsati",
@@ -16743,7 +16772,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "bellamaison",
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-tiktak-arac-kiralamada-indirim-firsati",
@@ -16771,6 +16801,7 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/tiktak-arac-kiralamada-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-17",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
    "detay_okundu": "2026-11-23",
    "detay_surum": 6,
@@ -16781,8 +16812,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "maximum-lumberjackte-pesin-fiyatina-6taksit-firsati",
@@ -16820,7 +16850,8 @@
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "lumberjack",
-   "skor": 12.0
+   "skor": 12.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-toyzz-shopta-maxipuan-firsati",
@@ -16858,7 +16889,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "toyzzshop",
-   "skor": 14.0
+   "skor": 14.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-troy-apple-magazalari-veya-wwwtroyestorecomtrden-pesin-fiyatina-taksit-firsati",
@@ -16896,7 +16928,8 @@
    "kazanc_orani": null,
    "raf": "akis",
    "marka_anahtari": "apple",
-   "skor": 12.0
+   "skor": 12.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-desa-maxipuan-kampanyasi",
@@ -16934,7 +16967,8 @@
    "kazanc_orani": 10.0,
    "raf": "akis",
    "marka_anahtari": "desa",
-   "skor": 35.0
+   "skor": 35.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-enterprise-arac-kiralamada-yuzde30-indirim-firsati",
@@ -16972,7 +17006,8 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0
+   "skor": 5.0,
+   "saglik_tarihi": "2026-11-25"
   },
   {
    "id": "maximum-under-armourda-indirim-firsati",
@@ -34151,8 +34186,8 @@
     "Migros"
    ],
    "baslik": "Money ile %70'e varan indirim",
-   "ozet": "Migros Sanal Market'te şu an 2.537 üründe Money'e özel indirimli fiyat var.",
-   "detay_metni": "Migros Sanal Market'te şu an 2.537 üründe Money'e özel indirimli fiyat var. 771 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "ozet": "Migros Sanal Market'te şu an 2.547 üründe Money'e özel indirimli fiyat var.",
+   "detay_metni": "Migros Sanal Market'te şu an 2.547 üründe Money'e özel indirimli fiyat var. 772 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": 70.0,
     "birim": "yuzde"
@@ -34187,9 +34222,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Çoklu İndirim Kampanyaları ve Hediyeli Ürünler · 152 ürün",
-   "ozet": "Migros Sanal Market'te şu an 152 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var.",
-   "detay_metni": "Migros Sanal Market'te şu an 152 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Çoklu İndirim Kampanyaları ve Hediyeli Ürünler · 154 ürün",
+   "ozet": "Migros Sanal Market'te şu an 154 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var.",
+   "detay_metni": "Migros Sanal Market'te şu an 154 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -34224,9 +34259,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.848 ürün",
-   "ozet": "Migros Sanal Market'te şu an 1.848 üründe Migroskop fırsatı var.",
-   "detay_metni": "Migros Sanal Market'te şu an 1.848 üründe Migroskop fırsatı var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.857 ürün",
+   "ozet": "Migros Sanal Market'te şu an 1.857 üründe Migroskop fırsatı var.",
+   "detay_metni": "Migros Sanal Market'te şu an 1.857 üründe Migroskop fırsatı var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -34261,9 +34296,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Tüm İndirimli Ürünler · 3.733 ürün",
-   "ozet": "Migros Sanal Market'te şu an 3.733 üründe indirim var.",
-   "detay_metni": "Migros Sanal Market'te şu an 3.733 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Tüm İndirimli Ürünler · 3.751 ürün",
+   "ozet": "Migros Sanal Market'te şu an 3.751 üründe indirim var.",
+   "detay_metni": "Migros Sanal Market'te şu an 3.751 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -42784,7 +42819,7 @@
    "marka": "D&R",
    "magazalar": [],
    "baslik": "TROY Logolu Bankkart'ınıza D&R'da 1.000 TL'ye Varan İndirim",
-   "ozet": "25 Kasım - 31 Aralık 2026 tarihleri arasında TROY logolu Bankkart'ınız ile D&R Mobil uygulamasından veya http://www.dr.com.tr adresinden yapacağınız 1.000 TL ve üzeri alışverişinizde TROY200 indirim kodu ile 200 TL, toplam 1.000 TL indirim fırsatından yararlanabilirsiniz.",
+   "ozet": "TROY Logolu Bankkart'ınıza D&R'da 1.000 TL'ye Varan İndirim",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -42799,18 +42834,18 @@
    "kaynak_url": "https://www.bankkart.com.tr/kampanyalar/egitim-kitap-ve-kirtasiye/troy-logolu-bankkartiniza-drda-1000-tlye-varan-indirim",
    "durum": "aktif",
    "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
-   "banka_kategori": "Eğitim",
    "detay_okundu": "2026-11-25",
    "detay_surum": 7,
+   "banka_kategori": "Eğitim",
    "butce": "keyif",
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "dr",
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 0.0
   },
   {
    "id": "shopandfly-yurt-disi-harcamalariniza-ekstra-175000-mil-ayricaligi-kasim",
@@ -50235,7 +50270,7 @@
    "marka": null,
    "magazalar": [],
    "baslik": "Restoranlarda hesabın yarısı kadar ekstra Mil!",
-   "ozet": "Miles&Smiles Garanti BBVA American Express kredi kartlarınızla Garanti BBVA Pos’u olan tüm yurt içi restoranlarda yapacağınız 2.000 TL ve üzeri ödemelerde hesabın yarısı kadar ekstra Mil kazanın.",
+   "ozet": "Restoranlarda hesabın yarısı kadar ekstra Mil!",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -50250,8 +50285,8 @@
    "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/restoranlarda-hesabin-yarisi-kadar-ekstra-mil-kasim",
    "durum": "aktif",
    "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
    "guncellenme": "2026-11-25",
-   "banka_kategori": null,
    "detay_okundu": "2026-11-25",
    "detay_surum": 7,
    "butce": "keyif",
@@ -50260,8 +50295,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": null,
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-25"
+   "skor": 5.0
   },
   {
    "id": "milessmiles-ted-bakerda-ekstra-4000-mil-ayricaligi-kasim",
