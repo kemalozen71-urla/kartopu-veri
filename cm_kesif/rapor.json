@@ -1,17 +1,17 @@
 {
- "wings_main": {
+ "wings_api0": {
   "durum": 200,
-  "son_url": "https://www.wingscard.com.tr/main.c4efeaead740609a.js",
-  "boyut": 988454
+  "son_url": "https://www.wingscard.com.tr/api/campaign/list?keyword=&sector=&category=&page=0",
+  "boyut": 15864
  },
- "qnb_detay": {
+ "wings_api1": {
   "durum": 200,
-  "son_url": "https://www.qnbcard.com.tr/kampanyalar/kotonda-300-tl-parapuan-ve-6-taksit-43583",
-  "boyut": 28032
+  "son_url": "https://www.wingscard.com.tr/api/campaign/list?keyword=&sector=&category=&page=1",
+  "boyut": 15612
  },
- "qnb_sektor": {
+ "qnb_sayfa2": {
   "durum": 200,
-  "son_url": "https://www.qnbcard.com.tr/kampanyalar?sektor=giyim-ayakkabi-aksesuar",
-  "boyut": 49893
+  "son_url": "https://www.qnbcard.com.tr/kampanyalar?page=2",
+  "boyut": 49869
  }
 }
