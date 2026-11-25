@@ -4,7 +4,7 @@
   "bonus": 235,
   "maximum": 209,
   "world": 93,
-  "paraf": "HATA: SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.paraf.com.tr', port=443): Max retries exceeded with url: /content/parafcard/tr/kampanyalar/_jcr_content/root/responsivegrid/filter.filtercampaigns.all.json (Caused by SSLError(SSLError(1, '[SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1011)')))\"))",
+  "paraf": 198,
   "axess": 145,
   "migros": 31,
   "bankkart": 192,
@@ -17,7 +17,7 @@
   "detay_okunan": 0,
   "kirik_baglanti": 0,
   "kontrol_edilemeyen": 0,
-  "kontrol_suresi_sn": 11
+  "kontrol_suresi_sn": 0
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
