@@ -1,1 +1,0 @@
-# kartopu-veri
