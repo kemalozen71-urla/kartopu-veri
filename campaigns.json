@@ -14,10 +14,10 @@
   "advantage": 7,
   "wings": 155,
   "cardfinans": 12,
-  "detay_okunan": 5,
+  "detay_okunan": 0,
   "kirik_baglanti": 0,
   "kontrol_edilemeyen": 0,
-  "kontrol_suresi_sn": 4
+  "kontrol_suresi_sn": 0
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -111,6 +111,12 @@
    "aciklama": "Market indirimleri ve sepet fırsatları",
    "gun": "Her gün",
    "url": "https://www.hepsiburada.com/supermarket-c-2147483619"
+  },
+  {
+   "ad": "Amazon Günlük İhtiyaçlar",
+   "aciklama": "Market, temizlik ve bakım fırsatları",
+   "gun": "Her gün",
+   "url": "https://www.amazon.com.tr/fmc/everyday-essentials"
   },
   {
    "ad": "n11 Süpermarket",
@@ -9337,18 +9343,18 @@
    "kaynak_url": "https://www.maximum.com.tr/kampanyalar/pazaramada-indirim-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-26",
+   "saglik_tarihi": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "banka_kategori": "Online Alışveriş",
    "detay_okundu": "2026-11-26",
    "detay_surum": 6,
+   "banka_kategori": "Online Alışveriş",
    "butce": "giyim",
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "pazarama",
-   "skor": 5.0,
-   "saglik_tarihi": "2026-11-26"
+   "skor": 5.0
   },
   {
    "id": "maximum-e-ticaret-alisverislerinizde-maxipuan-kampanyasi",
@@ -34238,8 +34244,8 @@
     "Migros"
    ],
    "baslik": "Money ile %70'e varan indirim",
-   "ozet": "Migros Sanal Market'te şu an 2.478 üründe Money'e özel indirimli fiyat var.",
-   "detay_metni": "Migros Sanal Market'te şu an 2.478 üründe Money'e özel indirimli fiyat var. 771 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "ozet": "Migros Sanal Market'te şu an 2.475 üründe Money'e özel indirimli fiyat var.",
+   "detay_metni": "Migros Sanal Market'te şu an 2.475 üründe Money'e özel indirimli fiyat var. 770 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": 70.0,
     "birim": "yuzde"
@@ -34348,9 +34354,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Tüm İndirimli Ürünler · 4.787 ürün",
-   "ozet": "Migros Sanal Market'te şu an 4.787 üründe indirim var.",
-   "detay_metni": "Migros Sanal Market'te şu an 4.787 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Tüm İndirimli Ürünler · 4.772 ürün",
+   "ozet": "Migros Sanal Market'te şu an 4.772 üründe indirim var.",
+   "detay_metni": "Migros Sanal Market'te şu an 4.772 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -42364,7 +42370,7 @@
    "marka": "Evidea",
    "magazalar": [],
    "baslik": "Evidea'da 6 Taksit",
-   "ozet": "Bireysel Bankkart 'ınızın kredi kartı özelliği ile evidea.com ve Evidea mağazalarından yapacağınız 10.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatından faydalanabilirsiniz.",
+   "ozet": "Evidea'da 6 Taksit",
    "kazanc": {
     "deger": 6,
     "birim": "taksit"
@@ -42379,18 +42385,18 @@
    "kaynak_url": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/evideada-6-taksit",
    "durum": "aktif",
    "eklenme": "2026-11-26",
+   "saglik_tarihi": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "banka_kategori": "Mobilya ve Dekorasyon",
    "detay_okundu": "2026-11-26",
    "detay_surum": 7,
+   "banka_kategori": "Mobilya ve Dekorasyon",
    "butce": "ev",
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "evidea",
-   "skor": 12.0,
-   "saglik_tarihi": "2026-11-26"
+   "skor": 12.0
   },
   {
    "id": "bankkart-idasta-9-taksit",
@@ -42927,18 +42933,18 @@
    "kaynak_url": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/mastercard-logolu-bankkart-ile-150-tl-carrefoursa-puan",
    "durum": "aktif",
    "eklenme": "2026-11-26",
+   "saglik_tarihi": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "banka_kategori": "Market",
    "detay_okundu": "2026-11-26",
    "detay_surum": 7,
+   "banka_kategori": "Market",
    "butce": "mutfak",
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": 15.0,
    "raf": "akis",
    "marka_anahtari": "carrefoursa",
-   "skor": 45.0,
-   "saglik_tarihi": "2026-11-26"
+   "skor": 45.0
   },
   {
    "id": "shopandfly-yurt-disi-harcamalariniza-ekstra-175000-mil-ayricaligi-kasim",
@@ -48381,7 +48387,7 @@
     "Hepsiburada"
    ],
    "baslik": "Hepsiburada'da peşin fiyatına 6'ya varan taksit fırsatı!",
-   "ozet": "Kampanya kapsamında, Hepsiburada'da yapacağınız 1.000 TL ve üzeri alışverişlerinize peşin fiyatına 3 taksit, 10.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatı sunulacaktır.",
+   "ozet": "Hepsiburada'da peşin fiyatına 6'ya varan taksit fırsatı!",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -48396,8 +48402,8 @@
    "kaynak_url": "https://www.shopandfly.com.tr/kampanyalar/hepsiburadada-pesin-fiyatina-6ya-varan-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-26",
+   "saglik_tarihi": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "banka_kategori": null,
    "detay_okundu": "2026-11-26",
    "detay_surum": 7,
    "butce": null,
@@ -48406,8 +48412,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "hepsiburada",
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-26"
+   "skor": 0.0
   },
   {
    "id": "shopandfly-othelloda-tek-seferde-yapilacak-10000-tl-ve-uzeri-alisverislerde-pesin-fiyatina-8-taksit-aralik",
@@ -54040,7 +54045,7 @@
     "Hepsiburada"
    ],
    "baslik": "Hepsiburada'da peşin fiyatına 6'ya varan taksit fırsatı!",
-   "ozet": "Kampanya kapsamında, Hepsiburada'da yapacağınız 1.000 TL ve üzeri alışverişlerinize peşin fiyatına 3 taksit, 10.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatı sunulacaktır.",
+   "ozet": "Hepsiburada'da peşin fiyatına 6'ya varan taksit fırsatı!",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -54055,8 +54060,8 @@
    "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/hepsiburadada-pesin-fiyatina-6ya-varan-taksit-firsati",
    "durum": "aktif",
    "eklenme": "2026-11-26",
+   "saglik_tarihi": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "banka_kategori": null,
    "detay_okundu": "2026-11-26",
    "detay_surum": 7,
    "butce": null,
@@ -54065,8 +54070,7 @@
    "kazanc_orani": null,
    "raf": "ayricalik",
    "marka_anahtari": "hepsiburada",
-   "skor": 0.0,
-   "saglik_tarihi": "2026-11-26"
+   "skor": 0.0
   },
   {
    "id": "milessmiles-house-of-superstepte-taksit",
