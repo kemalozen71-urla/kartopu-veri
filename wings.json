@@ -1,5 +1,5 @@
 {
- "guncellenme": "2026-11-25",
+ "guncellenme": "2026-11-26",
  "kampanyalar": [
   {
    "id": "wings-mavide-chip-para-firsati",
@@ -4294,7 +4294,7 @@
    },
    "min_harcama_tl": null,
    "baslangic": "2026-11-01",
-   "bitis": "2026-11-30",
+   "bitis": "2026-12-31",
    "katilim_gerekli": null,
    "katilim_kanali": "Juzdan / Akbank Mobil",
    "dahil_kartlar": [
