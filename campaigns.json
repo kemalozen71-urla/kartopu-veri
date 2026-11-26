@@ -2,22 +2,22 @@
  "guncellenme": "2026-11-26",
  "rapor": {
   "bonus": 233,
-  "maximum": 209,
+  "maximum": 210,
   "world": 93,
   "paraf": 198,
   "axess": 147,
   "migros": 31,
-  "bankkart": 192,
-  "shopandfly": 161,
-  "milessmiles": 146,
-  "amex": 284,
+  "bankkart": 193,
+  "shopandfly": 162,
+  "milessmiles": 147,
+  "amex": 283,
   "advantage": 7,
   "wings": 155,
   "cardfinans": 12,
-  "detay_okunan": 0,
+  "detay_okunan": 5,
   "kirik_baglanti": 0,
   "kontrol_edilemeyen": 0,
-  "kontrol_suresi_sn": 0
+  "kontrol_suresi_sn": 4
  },
  "kategoriler": {
   "egitim": "Eğitim & Okul",
@@ -105,6 +105,18 @@
    "aciklama": "Aktüel ve kampanyalar",
    "gun": "Çarşamba / Cumartesi",
    "url": "https://www.sokmarket.com.tr/kampanyalar"
+  },
+  {
+   "ad": "Hepsiburada Süpermarket",
+   "aciklama": "Market indirimleri ve sepet fırsatları",
+   "gun": "Her gün",
+   "url": "https://www.hepsiburada.com/supermarket-c-2147483619"
+  },
+  {
+   "ad": "n11 Süpermarket",
+   "aciklama": "Market ürünlerinde sepette indirimler",
+   "gun": "Her gün",
+   "url": "https://www.n11.com/supermarket"
   }
  ],
  "butce_basliklari": [
@@ -9296,6 +9308,47 @@
    "raf": "surekli",
    "marka_anahtari": "ikea",
    "skor": 18.0
+  },
+  {
+   "id": "maximum-pazaramada-indirim-firsati",
+   "program": "maximum",
+   "bankalar": [
+    "İş Bankası"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Pazarama'da Sepette %15 İndirim Fırsatı!",
+   "ozet": "Pazarama'da Sepette %15 İndirim Fırsatı!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": null,
+   "bitis": "2026-11-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Maximum Mobil / İşCep",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.maximum.com.tr/kampanyalar/pazaramada-indirim-firsati",
+   "durum": "aktif",
+   "eklenme": "2026-11-26",
+   "guncellenme": "2026-11-26",
+   "banka_kategori": "Online Alışveriş",
+   "detay_okundu": "2026-11-26",
+   "detay_surum": 6,
+   "butce": "giyim",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "ayricalik",
+   "marka_anahtari": "pazarama",
+   "skor": 5.0,
+   "saglik_tarihi": "2026-11-26"
   },
   {
    "id": "maximum-e-ticaret-alisverislerinizde-maxipuan-kampanyasi",
@@ -34185,8 +34238,8 @@
     "Migros"
    ],
    "baslik": "Money ile %70'e varan indirim",
-   "ozet": "Migros Sanal Market'te şu an 2.490 üründe Money'e özel indirimli fiyat var.",
-   "detay_metni": "Migros Sanal Market'te şu an 2.490 üründe Money'e özel indirimli fiyat var. 781 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "ozet": "Migros Sanal Market'te şu an 2.478 üründe Money'e özel indirimli fiyat var.",
+   "detay_metni": "Migros Sanal Market'te şu an 2.478 üründe Money'e özel indirimli fiyat var. 771 üründe indirim %40 ve üzeri. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": 70.0,
     "birim": "yuzde"
@@ -34221,9 +34274,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Çoklu İndirim Kampanyaları ve Hediyeli Ürünler · 156 ürün",
-   "ozet": "Migros Sanal Market'te şu an 156 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var.",
-   "detay_metni": "Migros Sanal Market'te şu an 156 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Çoklu İndirim Kampanyaları ve Hediyeli Ürünler · 155 ürün",
+   "ozet": "Migros Sanal Market'te şu an 155 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var.",
+   "detay_metni": "Migros Sanal Market'te şu an 155 üründe 2 al 1 öde, 3 al 2 öde ya da hediye var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -34258,9 +34311,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.851 ürün",
-   "ozet": "Migros Sanal Market'te şu an 1.851 üründe Migroskop fırsatı var.",
-   "detay_metni": "Migros Sanal Market'te şu an 1.851 üründe Migroskop fırsatı var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Migroskop Ürünleri ve Fırsatları · 1.838 ürün",
+   "ozet": "Migros Sanal Market'te şu an 1.838 üründe Migroskop fırsatı var.",
+   "detay_metni": "Migros Sanal Market'te şu an 1.838 üründe Migroskop fırsatı var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -34295,9 +34348,9 @@
    "magazalar": [
     "Migros"
    ],
-   "baslik": "Tüm İndirimli Ürünler · 4.865 ürün",
-   "ozet": "Migros Sanal Market'te şu an 4.865 üründe indirim var.",
-   "detay_metni": "Migros Sanal Market'te şu an 4.865 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
+   "baslik": "Tüm İndirimli Ürünler · 4.787 ürün",
+   "ozet": "Migros Sanal Market'te şu an 4.787 üründe indirim var.",
+   "detay_metni": "Migros Sanal Market'te şu an 4.787 üründe indirim var. Ürünler ve fiyatlar Migros'un sayfasında; liste her gün değişir.",
    "kazanc": {
     "deger": null,
     "birim": null
@@ -34320,6 +34373,117 @@
    "raf": "akis",
    "marka_anahtari": "migros",
    "skor": 0.0
+  },
+  {
+   "id": "migros-herby-urunlerinde-2-al-1-ode-l-bbcd336",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Herby Ürünlerinde 2 AL 1 ÖDE",
+   "ozet": "26 Kasım - 2 Aralık tarihleri arasında Migros Sanal Market ve Migros Hemen'de listede yer alan Herby ürünlerinde 2 AL 1 ÖDE kampanyası…",
+   "detay_metni": "26 Kasım - 2 Aralık tarihleri arasında Migros Sanal Market ve Migros Hemen'de listede yer alan Herby ürünlerinde 2 AL 1 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-26",
+   "bitis": "2026-12-02",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/herby-urunlerinde-2-al-1-ode-l-bbcd336",
+   "durum": "aktif",
+   "eklenme": "2026-11-26",
+   "guncellenme": "2026-11-26",
+   "butce": "mutfak",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "akis",
+   "marka_anahtari": "migros",
+   "skor": 2.5
+  },
+  {
+   "id": "migros-reis-bakliyatlarda-ayni-urunden-2-al-1-ode-l-bbcd303",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Reis Bakliyatlarda Aynı Üründen 2 Al 1 Öde",
+   "ozet": "26-28 Kasım tarihleri arasında Reis Bakliyatlarda Aynı Üründen 2 Al 1 Öde kampanyası uygulanacaktır.",
+   "detay_metni": "26-28 Kasım tarihleri arasında Reis Bakliyatlarda Aynı Üründen 2 Al 1 Öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-26",
+   "bitis": "2026-11-28",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/reis-bakliyatlarda-ayni-urunden-2-al-1-ode-l-bbcd303",
+   "durum": "aktif",
+   "eklenme": "2026-11-26",
+   "guncellenme": "2026-11-26",
+   "butce": "mutfak",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "akis",
+   "marka_anahtari": "migros",
+   "skor": 2.5
+  },
+  {
+   "id": "migros-zuccaciye-urunlerinde-2-al-1-ode-l-bbcd31b",
+   "program": "migros",
+   "kaynak_turu": "market",
+   "bankalar": [],
+   "tur": "indirim",
+   "kategori": "market",
+   "marka": null,
+   "magazalar": [
+    "Migros"
+   ],
+   "baslik": "Züccaciye Ürünlerinde 2 AL 1 ÖDE",
+   "ozet": "26-29 Kasım tarihleri arasında listede yer alan züccaciye ürünlerinde 2 AL 1 ÖDE kampanyası uygulanacaktır.",
+   "detay_metni": "26-29 Kasım tarihleri arasında listede yer alan züccaciye ürünlerinde 2 AL 1 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete kampanya kapsamındaki ürünlerden 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanyadaki indirim, farklı ürünler alındığında sepetteki en düşük fiyatlı ürüne uygulanacaktır.",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-26",
+   "bitis": "2026-11-29",
+   "katilim_gerekli": false,
+   "katilim_kanali": null,
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.migros.com.tr/zuccaciye-urunlerinde-2-al-1-ode-l-bbcd31b",
+   "durum": "aktif",
+   "eklenme": "2026-11-26",
+   "guncellenme": "2026-11-26",
+   "butce": "mutfak",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "akis",
+   "marka_anahtari": "migros",
+   "skor": 2.5
   },
   {
    "id": "migros-dus-jellerinde-ayni-urunden-2-al-1-ode-l-bbcd323",
@@ -34394,43 +34558,6 @@
    "raf": "akis",
    "marka_anahtari": "migros",
    "skor": 47.5
-  },
-  {
-   "id": "migros-zuccaciye-urunlerinde-2-al-1-ode-l-bbcd31b",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "indirim",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Migros"
-   ],
-   "baslik": "Züccaciye Ürünlerinde 2 AL 1 ÖDE",
-   "ozet": "26-29 Kasım tarihleri arasında listede yer alan züccaciye ürünlerinde 2 AL 1 ÖDE kampanyası uygulanacaktır.",
-   "detay_metni": "26-29 Kasım tarihleri arasında listede yer alan züccaciye ürünlerinde 2 AL 1 ÖDE kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete kampanya kapsamındaki ürünlerden 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir. Kampanyadaki indirim, farklı ürünler alındığında sepetteki en düşük fiyatlı ürüne uygulanacaktır.",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-26",
-   "bitis": "2026-11-29",
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/zuccaciye-urunlerinde-2-al-1-ode-l-bbcd31b",
-   "durum": "aktif",
-   "eklenme": "2026-11-26",
-   "guncellenme": "2026-11-26",
-   "butce": "mutfak",
-   "yurtdisi": false,
-   "kitle": "genel",
-   "kazanc_orani": null,
-   "raf": "akis",
-   "marka_anahtari": "migros",
-   "skor": 2.5
   },
   {
    "id": "migros-deodorant-cesitlerinde-2-al-1-ode-l-bbcd2f9",
@@ -34540,43 +34667,6 @@
    "kitle": "genel",
    "kazanc_orani": null,
    "raf": "ayricalik",
-   "marka_anahtari": "migros",
-   "skor": 2.5
-  },
-  {
-   "id": "migros-reis-bakliyatlarda-ayni-urunden-2-al-1-ode-l-bbcd303",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "indirim",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Migros"
-   ],
-   "baslik": "Reis Bakliyatlarda Aynı Üründen 2 Al 1 Öde",
-   "ozet": "26-28 Kasım tarihleri arasında Reis Bakliyatlarda Aynı Üründen 2 Al 1 Öde kampanyası uygulanacaktır.",
-   "detay_metni": "26-28 Kasım tarihleri arasında Reis Bakliyatlarda Aynı Üründen 2 Al 1 Öde kampanyası uygulanacaktır. Kampanyadan faydalanmak için sepete aynı üründen 2 adet eklenmesi gerekmektedir. İndirim sepette düşecektir. Ürünler mağaza stoklarıyla sınırlıdır. Ürün stoklarının anlık değişkenlik göstermesi nedeniyle siparişinizde tedarik edilemeyen ürünler bulunabilir. Bu durumda, kampanya koşullarını sağladığınız ölçüde indirimden faydalanabilirsiniz. Satın almış olduğunuz ürün/ürünlerde iade talebinde bulunduğunuzda; sipariş içerisinde yararlanmış olduğunuz kampanya koşullarına uygun olarak indirim tutarı, iadesi talep edilen ürünlere bedeli oranında yansıtılacak olup iade ettiğiniz üründen söz konusu indirim tutarı düşülerek ücret iadesi gerçekleştirilecektir.",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-26",
-   "bitis": "2026-11-28",
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.migros.com.tr/reis-bakliyatlarda-ayni-urunden-2-al-1-ode-l-bbcd303",
-   "durum": "aktif",
-   "eklenme": "2026-11-26",
-   "guncellenme": "2026-11-26",
-   "butce": "mutfak",
-   "yurtdisi": false,
-   "kitle": "genel",
-   "kazanc_orani": null,
-   "raf": "akis",
    "marka_anahtari": "migros",
    "skor": 2.5
   },
@@ -35097,43 +35187,6 @@
    "raf": "ayricalik",
    "marka_anahtari": "macrocenter",
    "skor": 2.5
-  },
-  {
-   "id": "macrocenter-18-kasim-31-aralik-tulliana-kavanoz-bal-cesitlerinde-ayni-urunden-1-alana-1-hediye-l-bbcd1eb",
-   "program": "migros",
-   "kaynak_turu": "market",
-   "bankalar": [],
-   "tur": "indirim",
-   "kategori": "market",
-   "marka": null,
-   "magazalar": [
-    "Macrocenter"
-   ],
-   "baslik": "18 Kasım - 31 Aralık Tullıana Kavanoz Bal Çeşitlerinde Aynı Üründen 1 Alana 1 Hediye!",
-   "ozet": "18 Kasım - 31 Aralık Tullıana Kavanoz Bal Çeşitlerinde Aynı Üründen 1 Alana 1 Hediye!",
-   "detay_metni": null,
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2026-11-18",
-   "bitis": "2026-12-31",
-   "katilim_gerekli": false,
-   "katilim_kanali": null,
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.macrocenter.com.tr/18-kasim-31-aralik-tulliana-kavanoz-bal-cesitlerinde-ayni-urunden-1-alana-1-hediye-l-bbcd1eb",
-   "durum": "aktif",
-   "eklenme": "2026-11-20",
-   "guncellenme": "2026-11-26",
-   "butce": "mutfak",
-   "yurtdisi": false,
-   "kitle": "genel",
-   "kazanc_orani": null,
-   "raf": "akis",
-   "marka_anahtari": "macrocenter",
-   "skor": 0.0
   },
   {
    "id": "macrocenter-18-30-kasim-super-bilim-setlerinde-20-indirim-l-bbcd1ee",
@@ -42301,7 +42354,7 @@
    "skor": 0.0
   },
   {
-   "id": "bankkart-evideada-4-taksit",
+   "id": "bankkart-evideada-6-taksit",
    "program": "bankkart",
    "bankalar": [
     "Ziraat Bankası"
@@ -42310,34 +42363,34 @@
    "kategori": "mobilya",
    "marka": "Evidea",
    "magazalar": [],
-   "baslik": "Evidea'da 4 Taksit",
-   "ozet": "Evidea'da 4 Taksit",
+   "baslik": "Evidea'da 6 Taksit",
+   "ozet": "Bireysel Bankkart 'ınızın kredi kartı özelliği ile evidea.com ve Evidea mağazalarından yapacağınız 10.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatından faydalanabilirsiniz.",
    "kazanc": {
-    "deger": 4,
+    "deger": 6,
     "birim": "taksit"
    },
-   "min_harcama_tl": 2500.0,
+   "min_harcama_tl": 10000.0,
    "baslangic": "2026-03-06",
-   "bitis": "2026-11-30",
+   "bitis": "2026-12-31",
    "katilim_gerekli": false,
    "katilim_kanali": "Bankkart Mobil",
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/evideada-4-taksit",
+   "kaynak_url": "https://www.bankkart.com.tr/kampanyalar/mobilya-ve-dekorasyon/evideada-6-taksit",
    "durum": "aktif",
-   "eklenme": "2026-11-25",
-   "saglik_tarihi": "2026-11-25",
+   "eklenme": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "detay_okundu": "2026-11-25",
+   "banka_kategori": "Mobilya ve Dekorasyon",
+   "detay_okundu": "2026-11-26",
    "detay_surum": 7,
-   "banka_kategori": "Mobilya ve Dekorasyon Evidea'da 4 Taksit!",
    "butce": "ev",
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
    "raf": "surekli",
    "marka_anahtari": "evidea",
-   "skor": 13.0
+   "skor": 12.0,
+   "saglik_tarihi": "2026-11-26"
   },
   {
    "id": "bankkart-idasta-9-taksit",
@@ -42845,6 +42898,47 @@
    "raf": "ayricalik",
    "marka_anahtari": "dr",
    "skor": 0.0
+  },
+  {
+   "id": "bankkart-mastercard-logolu-bankkart-ile-150-tl-carrefoursa-puan",
+   "program": "bankkart",
+   "bankalar": [
+    "Ziraat Bankası"
+   ],
+   "tur": "puan",
+   "kategori": "market",
+   "marka": "CarrefourSA",
+   "magazalar": [
+    "CarrefourSA"
+   ],
+   "baslik": "Mastercard Logolu Bankkart ile 150 TL CarrefourSA Puan",
+   "ozet": "Mastercard Logolu Bankkart ile 150 TL CarrefourSA Puan",
+   "kazanc": {
+    "deger": 150.0,
+    "birim": "TL_puan"
+   },
+   "min_harcama_tl": 1000.0,
+   "baslangic": "2026-11-26",
+   "bitis": "2026-12-20",
+   "katilim_gerekli": false,
+   "katilim_kanali": "Bankkart Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.bankkart.com.tr/kampanyalar/market-ve-gida/mastercard-logolu-bankkart-ile-150-tl-carrefoursa-puan",
+   "durum": "aktif",
+   "eklenme": "2026-11-26",
+   "guncellenme": "2026-11-26",
+   "banka_kategori": "Market",
+   "detay_okundu": "2026-11-26",
+   "detay_surum": 7,
+   "butce": "mutfak",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": 15.0,
+   "raf": "akis",
+   "marka_anahtari": "carrefoursa",
+   "skor": 45.0,
+   "saglik_tarihi": "2026-11-26"
   },
   {
    "id": "shopandfly-yurt-disi-harcamalariniza-ekstra-175000-mil-ayricaligi-kasim",
@@ -45749,46 +45843,6 @@
    "skor": 13.0
   },
   {
-   "id": "shopandfly-pazaramada-pesin-fiyatina-taksit-kampanyasi",
-   "program": "shopandfly",
-   "bankalar": [
-    "Garanti BBVA"
-   ],
-   "tur": "diger",
-   "kategori": "giyim",
-   "marka": "Pazarama",
-   "magazalar": [
-    "Pazarama"
-   ],
-   "baslik": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
-   "ozet": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": 1000.0,
-   "baslangic": "2026-04-03",
-   "bitis": "2026-11-30",
-   "katilim_gerekli": false,
-   "katilim_kanali": "BonusFlaş",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.shopandfly.com.tr/kampanyalar/pazaramada-pesin-fiyatina-taksit-kampanyasi",
-   "durum": "aktif",
-   "eklenme": "2026-11-25",
-   "saglik_tarihi": "2026-11-25",
-   "guncellenme": "2026-11-26",
-   "detay_okundu": "2026-11-25",
-   "detay_surum": 7,
-   "butce": "giyim",
-   "yurtdisi": false,
-   "kitle": "genel",
-   "kazanc_orani": null,
-   "raf": "ayricalik",
-   "marka_anahtari": "pazarama",
-   "skor": 5.0
-  },
-  {
    "id": "shopandfly-secili-okullarda-taksit-firsati",
    "program": "shopandfly",
    "bankalar": [
@@ -46132,6 +46186,44 @@
    "raf": "akis",
    "marka_anahtari": null,
    "skor": 11.0
+  },
+  {
+   "id": "shopandfly-dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "program": "shopandfly",
+   "bankalar": [
+    "Garanti BBVA"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
+   "ozet": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-07",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "BonusFlaş",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.shopandfly.com.tr/kampanyalar/dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "durum": "aktif",
+   "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
+   "guncellenme": "2026-11-26",
+   "detay_okundu": "2026-11-25",
+   "detay_surum": 7,
+   "butce": "arac",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "surekli",
+   "marka_anahtari": null,
+   "skor": 8.0
   },
   {
    "id": "shopandfly-garanti-bbva-posu-olan-okullarda-pesin-odemelerinize-faizsiz-3-taksit-kasim",
@@ -47817,6 +47909,46 @@
    "skor": 8.0
   },
   {
+   "id": "shopandfly-pazaramada-pesin-fiyatina-taksit-kampanyasi",
+   "program": "shopandfly",
+   "bankalar": [
+    "Garanti BBVA"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
+   "ozet": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 1000.0,
+   "baslangic": "2026-04-03",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "BonusFlaş",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.shopandfly.com.tr/kampanyalar/pazaramada-pesin-fiyatina-taksit-kampanyasi",
+   "durum": "aktif",
+   "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
+   "guncellenme": "2026-11-26",
+   "detay_okundu": "2026-11-25",
+   "detay_surum": 7,
+   "butce": "giyim",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "ayricalik",
+   "marka_anahtari": "pazarama",
+   "skor": 5.0
+  },
+  {
    "id": "shopandfly-pierre-cardinde-6-taksit",
    "program": "shopandfly",
    "bankalar": [
@@ -48237,42 +48369,45 @@
    "skor": 18.0
   },
   {
-   "id": "shopandfly-dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "id": "shopandfly-hepsiburadada-pesin-fiyatina-6ya-varan-taksit-firsati",
    "program": "shopandfly",
    "bankalar": [
     "Garanti BBVA"
    ],
-   "tur": "taksit",
-   "kategori": "otomotiv",
-   "marka": null,
-   "magazalar": [],
-   "baslik": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
-   "ozet": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
+   "tur": "diger",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Hepsiburada'da peşin fiyatına 6'ya varan taksit fırsatı!",
+   "ozet": "Kampanya kapsamında, Hepsiburada'da yapacağınız 1.000 TL ve üzeri alışverişlerinize peşin fiyatına 3 taksit, 10.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatı sunulacaktır.",
    "kazanc": {
-    "deger": 4,
-    "birim": "taksit"
+    "deger": null,
+    "birim": null
    },
-   "min_harcama_tl": null,
-   "baslangic": "2026-09-07",
+   "min_harcama_tl": 1000.0,
+   "baslangic": "2026-11-01",
    "bitis": "2026-12-31",
    "katilim_gerekli": false,
    "katilim_kanali": "BonusFlaş",
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://www.shopandfly.com.tr/kampanyalar/dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "kaynak_url": "https://www.shopandfly.com.tr/kampanyalar/hepsiburadada-pesin-fiyatina-6ya-varan-taksit-firsati",
    "durum": "aktif",
-   "eklenme": "2026-11-25",
-   "saglik_tarihi": "2026-11-25",
+   "eklenme": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "detay_okundu": "2026-11-25",
+   "banka_kategori": null,
+   "detay_okundu": "2026-11-26",
    "detay_surum": 7,
-   "butce": "arac",
+   "butce": null,
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
-   "raf": "surekli",
-   "marka_anahtari": null,
-   "skor": 8.0
+   "raf": "ayricalik",
+   "marka_anahtari": "hepsiburada",
+   "skor": 0.0,
+   "saglik_tarihi": "2026-11-26"
   },
   {
    "id": "shopandfly-othelloda-tek-seferde-yapilacak-10000-tl-ve-uzeri-alisverislerde-pesin-fiyatina-8-taksit-aralik",
@@ -51328,46 +51463,6 @@
    "skor": 13.0
   },
   {
-   "id": "milessmiles-pazaramada-pesin-fiyatina-taksit-kampanyasi",
-   "program": "milessmiles",
-   "bankalar": [
-    "Garanti BBVA"
-   ],
-   "tur": "diger",
-   "kategori": "giyim",
-   "marka": "Pazarama",
-   "magazalar": [
-    "Pazarama"
-   ],
-   "baslik": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
-   "ozet": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
-   "kazanc": {
-    "deger": null,
-    "birim": null
-   },
-   "min_harcama_tl": 1000.0,
-   "baslangic": "2026-04-03",
-   "bitis": "2026-11-30",
-   "katilim_gerekli": false,
-   "katilim_kanali": "BonusFlaş",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/pazaramada-pesin-fiyatina-taksit-kampanyasi",
-   "durum": "aktif",
-   "eklenme": "2026-11-25",
-   "saglik_tarihi": "2026-11-25",
-   "guncellenme": "2026-11-26",
-   "detay_okundu": "2026-11-25",
-   "detay_surum": 7,
-   "butce": "giyim",
-   "yurtdisi": false,
-   "kitle": "genel",
-   "kazanc_orani": null,
-   "raf": "ayricalik",
-   "marka_anahtari": "pazarama",
-   "skor": 5.0
-  },
-  {
    "id": "milessmiles-secili-okullarda-taksit-firsati",
    "program": "milessmiles",
    "bankalar": [
@@ -51711,6 +51806,44 @@
    "raf": "akis",
    "marka_anahtari": null,
    "skor": 11.0
+  },
+  {
+   "id": "milessmiles-dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "program": "milessmiles",
+   "bankalar": [
+    "Garanti BBVA"
+   ],
+   "tur": "taksit",
+   "kategori": "otomotiv",
+   "marka": null,
+   "magazalar": [],
+   "baslik": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
+   "ozet": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
+   "kazanc": {
+    "deger": 4,
+    "birim": "taksit"
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-09-07",
+   "bitis": "2026-12-31",
+   "katilim_gerekli": false,
+   "katilim_kanali": "BonusFlaş",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "durum": "aktif",
+   "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
+   "guncellenme": "2026-11-26",
+   "detay_okundu": "2026-11-25",
+   "detay_surum": 7,
+   "butce": "arac",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "surekli",
+   "marka_anahtari": null,
+   "skor": 8.0
   },
   {
    "id": "milessmiles-garanti-bbva-posu-olan-okullarda-pesin-odemelerinize-faizsiz-3-taksit-kasim",
@@ -53358,6 +53491,46 @@
    "skor": 8.0
   },
   {
+   "id": "milessmiles-pazaramada-pesin-fiyatina-taksit-kampanyasi",
+   "program": "milessmiles",
+   "bankalar": [
+    "Garanti BBVA"
+   ],
+   "tur": "diger",
+   "kategori": "giyim",
+   "marka": "Pazarama",
+   "magazalar": [
+    "Pazarama"
+   ],
+   "baslik": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
+   "ozet": "Pazarama’da peşin fiyatına 6’aya varan taksit!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": 1000.0,
+   "baslangic": "2026-04-03",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": false,
+   "katilim_kanali": "BonusFlaş",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/pazaramada-pesin-fiyatina-taksit-kampanyasi",
+   "durum": "aktif",
+   "eklenme": "2026-11-25",
+   "saglik_tarihi": "2026-11-25",
+   "guncellenme": "2026-11-26",
+   "detay_okundu": "2026-11-25",
+   "detay_surum": 7,
+   "butce": "giyim",
+   "yurtdisi": false,
+   "kitle": "genel",
+   "kazanc_orani": null,
+   "raf": "ayricalik",
+   "marka_anahtari": "pazarama",
+   "skor": 5.0
+  },
+  {
    "id": "milessmiles-pierre-cardinde-6-taksit",
    "program": "milessmiles",
    "bankalar": [
@@ -53855,42 +54028,45 @@
    "skor": 18.0
   },
   {
-   "id": "milessmiles-dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "id": "milessmiles-hepsiburadada-pesin-fiyatina-6ya-varan-taksit-firsati",
    "program": "milessmiles",
    "bankalar": [
     "Garanti BBVA"
    ],
-   "tur": "taksit",
-   "kategori": "otomotiv",
-   "marka": null,
-   "magazalar": [],
-   "baslik": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
-   "ozet": "Doğuş Otomotiv yetkili servis noktalarında 4 aya varan taksit!",
+   "tur": "diger",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Hepsiburada'da peşin fiyatına 6'ya varan taksit fırsatı!",
+   "ozet": "Kampanya kapsamında, Hepsiburada'da yapacağınız 1.000 TL ve üzeri alışverişlerinize peşin fiyatına 3 taksit, 10.000 TL ve üzeri alışverişlerinizde peşin fiyatına 6 taksit fırsatı sunulacaktır.",
    "kazanc": {
-    "deger": 4,
-    "birim": "taksit"
+    "deger": null,
+    "birim": null
    },
-   "min_harcama_tl": null,
-   "baslangic": "2026-09-07",
+   "min_harcama_tl": 1000.0,
+   "baslangic": "2026-11-01",
    "bitis": "2026-12-31",
    "katilim_gerekli": false,
    "katilim_kanali": "BonusFlaş",
    "dahil_kartlar": [],
    "haric_kartlar": [],
-   "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/dogus-otomotiv-yetkili-servis-noktalarinda-4-aya-varan-taksit",
+   "kaynak_url": "https://milesandsmilesgarantibbva.com/kampanyalar/hepsiburadada-pesin-fiyatina-6ya-varan-taksit-firsati",
    "durum": "aktif",
-   "eklenme": "2026-11-25",
-   "saglik_tarihi": "2026-11-25",
+   "eklenme": "2026-11-26",
    "guncellenme": "2026-11-26",
-   "detay_okundu": "2026-11-25",
+   "banka_kategori": null,
+   "detay_okundu": "2026-11-26",
    "detay_surum": 7,
-   "butce": "arac",
+   "butce": null,
    "yurtdisi": false,
    "kitle": "genel",
    "kazanc_orani": null,
-   "raf": "surekli",
-   "marka_anahtari": null,
-   "skor": 8.0
+   "raf": "ayricalik",
+   "marka_anahtari": "hepsiburada",
+   "skor": 0.0,
+   "saglik_tarihi": "2026-11-26"
   },
   {
    "id": "milessmiles-house-of-superstepte-taksit",
@@ -62365,45 +62541,6 @@
    "raf": "surekli",
    "marka_anahtari": "huofcappadociahotel",
    "skor": 15.0
-  },
-  {
-   "id": "amex-lifestyle-atelier-rebul-kampanyasi",
-   "program": "amex",
-   "bankalar": [
-    "Garanti BBVA"
-   ],
-   "tur": "indirim",
-   "kategori": "kozmetik",
-   "marka": "Atelier Rebul",
-   "magazalar": [],
-   "baslik": "Atelier Rebul'de %15’e varan indirim ayrıcalığı!",
-   "ozet": "Atelier Rebul'de %15’e varan indirim ayrıcalığı!",
-   "kazanc": {
-    "deger": 15.0,
-    "birim": "yuzde"
-   },
-   "min_harcama_tl": null,
-   "baslangic": "2027-01-19",
-   "bitis": "2027-12-15",
-   "katilim_gerekli": true,
-   "katilim_kanali": "BonusFlaş",
-   "dahil_kartlar": [],
-   "haric_kartlar": [],
-   "kaynak_url": "https://www.americanexpress.com.tr/kampanyalar/lifestyle-atelier-rebul-kampanyasi",
-   "durum": "aktif",
-   "eklenme": "2026-11-25",
-   "saglik_tarihi": "2026-11-25",
-   "guncellenme": "2026-11-26",
-   "detay_okundu": "2026-11-25",
-   "detay_surum": 7,
-   "banka_kategori": "Kozmetik",
-   "butce": "giyim",
-   "yurtdisi": false,
-   "kitle": "genel",
-   "kazanc_orani": 7.5,
-   "raf": "surekli",
-   "marka_anahtari": "atelierrebul",
-   "skor": 22.5
   },
   {
    "id": "amex-lifestyle-library-hotel-kampanyasi",
