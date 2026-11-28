@@ -1,5 +1,5 @@
 {
- "guncellenme": "2026-11-27",
+ "guncellenme": "2026-11-28",
  "kampanyalar": [
   {
    "id": "wings-mavide-chip-para-firsati",
@@ -198,6 +198,42 @@
    "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/floda-chip-para-firsati",
    "durum": "aktif",
    "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-hepsiburadada-cp-firsati-2026",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "puan",
+   "kategori": "e-ticaret",
+   "marka": "Hepsiburada",
+   "magazalar": [
+    "Hepsiburada"
+   ],
+   "baslik": "Wings'e Özel Hepsiburada’da 250 TL Chip-Para ve Peşin Fiyatına 12 Taksit Fırsatı!",
+   "ozet": "Wings'e Özel Hepsiburada’da 250 TL Chip-Para ve Peşin Fiyatına 12 Taksit Fırsatı!",
+   "kazanc": {
+    "deger": 250.0,
+    "birim": "TL_puan",
+    "ek_taksit": 12
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-16",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [
+    "wings",
+    "wings-black",
+    "wings-ek-kart",
+    "wings-sanalkart",
+    "wings-elite"
+   ],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/hepsiburadada-cp-firsati-2026",
+   "durum": "aktif",
+   "banka_kategori": "Turizm/Seyahat"
   },
   {
    "id": "wings-brillantstorecomtrde-40-indirim-firsati-tum",
@@ -506,6 +542,33 @@
    "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/wings-ile-giyim-alisverislerine-mil-puan-firsati-1",
    "durum": "aktif",
    "banka_kategori": "Giyim/Kozmetik/Aksesuar"
+  },
+  {
+   "id": "wings-tumide-5000-tl-indirim",
+   "program": "wings",
+   "bankalar": [
+    "Akbank"
+   ],
+   "tur": "diger",
+   "kategori": "kozmetik",
+   "marka": "Tumi",
+   "magazalar": [],
+   "baslik": "Tumi’de 5.000 TL İndirim!",
+   "ozet": "Tumi’de 5.000 TL İndirim!",
+   "kazanc": {
+    "deger": null,
+    "birim": null
+   },
+   "min_harcama_tl": null,
+   "baslangic": "2026-11-27",
+   "bitis": "2026-11-30",
+   "katilim_gerekli": null,
+   "katilim_kanali": "Juzdan / Akbank Mobil",
+   "dahil_kartlar": [],
+   "haric_kartlar": [],
+   "kaynak_url": "https://www.wingscard.com.tr/kampanyalar/tumide-5000-tl-indirim",
+   "durum": "aktif",
+   "banka_kategori": "Giyim/Kozmetik/Aksesuar, Turizm/Seyahat"
   },
   {
    "id": "wings-trendyol-luxete-80000-mil-puan",
@@ -2837,7 +2900,7 @@
    },
    "min_harcama_tl": null,
    "baslangic": "2026-08-01",
-   "bitis": "2026-11-30",
+   "bitis": "2026-12-31",
    "katilim_gerekli": null,
    "katilim_kanali": "Juzdan / Akbank Mobil",
    "dahil_kartlar": [
@@ -3297,15 +3360,15 @@
    "kategori": "mobilya",
    "marka": "Korkmaz",
    "magazalar": [],
-   "baslik": "Wings'e Özel Korkmaz’da Peşin Fiyatına 8 Taksit!",
-   "ozet": "Wings'e Özel Korkmaz’da Peşin Fiyatına 8 Taksit!",
+   "baslik": "Wings'e Özel Korkmaz’da Peşin Fiyatına 9 Taksit!",
+   "ozet": "Wings'e Özel Korkmaz’da Peşin Fiyatına 9 Taksit!",
    "kazanc": {
-    "deger": 8,
+    "deger": 9,
     "birim": "taksit"
    },
    "min_harcama_tl": null,
    "baslangic": "2026-11-01",
-   "bitis": "2026-11-30",
+   "bitis": "2026-12-31",
    "katilim_gerekli": null,
    "katilim_kanali": "Juzdan / Akbank Mobil",
    "dahil_kartlar": [
@@ -4515,7 +4578,7 @@
    },
    "min_harcama_tl": null,
    "baslangic": "2026-08-01",
-   "bitis": "2026-11-30",
+   "bitis": "2026-12-31",
    "katilim_gerekli": null,
    "katilim_kanali": "Juzdan / Akbank Mobil",
    "dahil_kartlar": [
